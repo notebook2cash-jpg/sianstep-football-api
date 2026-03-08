@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-03-08T15:07:57.495Z",
+  "scraped_at": "2026-03-08T15:09:12.709Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -109,7 +109,7 @@
             },
             {
               "time": "21:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[8]โบโลญญ่า",
                 "name": "โบโลญญ่า",
@@ -1724,7 +1724,7 @@
           "matches": [
             {
               "time": "21:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[13]แอสเตราส ตริโปลิส",
                 "name": "แอสเตราส ตริโปลิส",
