@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-03-08T14:39:01.868Z",
+  "scraped_at": "2026-03-08T15:07:57.495Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -109,7 +109,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[8]โบโลญญ่า",
                 "name": "โบโลญญ่า",
@@ -140,7 +140,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[16]ฟิออเรนติน่า",
                 "name": "ฟิออเรนติน่า",
@@ -238,7 +238,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[4]บียาร์เรอัล",
                 "name": "บียาร์เรอัล",
@@ -250,9 +250,9 @@
                 "rank": "17"
               },
               "score": {
-                "text": "2 - 0",
+                "text": "2 - 1",
                 "home": 2,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -367,7 +367,7 @@
           "matches": [
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[2]ล็องส์",
                 "name": "ล็องส์",
@@ -379,8 +379,8 @@
                 "rank": "18"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -606,9 +606,9 @@
                 "rank": "5"
               },
               "score": {
-                "text": "0 - 2",
-                "home": 0,
-                "away": 2,
+                "text": "1 - 4",
+                "home": 1,
+                "away": 4,
                 "is_known": true
               },
               "odds": {
@@ -625,7 +625,7 @@
             },
             {
               "time": "20:30",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[11]ฟอร์ทูน่า ซิตตาร์ด",
                 "name": "ฟอร์ทูน่า ซิตตาร์ด",
@@ -637,9 +637,9 @@
                 "rank": "17"
               },
               "score": {
-                "text": "1 - 2",
+                "text": "1 - 4",
                 "home": 1,
-                "away": 2,
+                "away": 4,
                 "is_known": true
               },
               "odds": {
@@ -754,7 +754,7 @@
             },
             {
               "time": "20:30",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[L1-24]พอร์ทเวล",
                 "name": "พอร์ทเวล",
@@ -919,7 +919,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[2]เซนต์ กัลเลน",
                 "name": "เซนต์ กัลเลน",
@@ -1189,10 +1189,10 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 -5 0.25",
@@ -1528,7 +1528,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[9]รูบิน คาซาน",
                 "name": "รูบิน คาซาน",
@@ -1626,7 +1626,7 @@
             },
             {
               "time": "20:45",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[9]ราดอมเมียร์ก ราดอม",
                 "name": "ราดอมเมียร์ก ราดอม",
@@ -1724,7 +1724,7 @@
           "matches": [
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[13]แอสเตราส ตริโปลิส",
                 "name": "แอสเตราส ตริโปลิส",
@@ -1736,9 +1736,9 @@
                 "rank": "14"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -1767,10 +1767,10 @@
                 "rank": "8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 -5 0.25",
@@ -1932,8 +1932,8 @@
                 "rank": "D1-4"
               },
               "score": {
-                "text": "1 - 2",
-                "home": 1,
+                "text": "2 - 2",
+                "home": 2,
                 "away": 2,
                 "is_known": true
               },
@@ -1963,10 +1963,10 @@
                 "rank": "D1-6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.5 -10 0.5 -5",
@@ -2221,8 +2221,8 @@
                 "rank": "D2-15"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -2539,7 +2539,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[5]คาตันซาโร่",
                 "name": "คาตันซาโร่",
@@ -2570,7 +2570,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[19]มานโตวา",
                 "name": "มานโตวา",
@@ -2582,8 +2582,8 @@
                 "rank": "7"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -2667,8 +2667,8 @@
           "league_name": "ลาลีก้า สเปน 2 (Spanish Segunda Division)",
           "matches": [
             {
-              "time": "20:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[7]ลาส พัลมาส",
                 "name": "ลาส พัลมาส",
@@ -2859,7 +2859,7 @@
             },
             {
               "time": "20:30",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[5]วิลเลม 2",
                 "name": "วิลเลม 2",
