@@ -86,14 +86,14 @@ function parseMatchRow($, row) {
     odds,
     tip: {
       text: tipText,
-      url: tipLink,
+      _analysis_source_url: tipLink,
       analysis: null,
     },
     live_channel: liveChannel,
   };
 }
 
-function parseAnalysisDocument(html, url) {
+function parseAnalysisDocument(html) {
   const $ = cheerio.load(html);
   const article = $("article").first();
   const title = cleanText($("h1").first().text()) || null;
@@ -101,7 +101,6 @@ function parseAnalysisDocument(html, url) {
 
   if (!contentRoot.length) {
     return {
-      url,
       title,
       content_text: null,
       paragraphs: [],
@@ -117,7 +116,6 @@ function parseAnalysisDocument(html, url) {
   const contentText = cleanText(contentRoot.text()) || null;
 
   return {
-    url,
     title,
     content_text: contentText,
     paragraphs,
@@ -133,10 +131,9 @@ async function fetchAnalysis(url) {
           "Mozilla/5.0 (compatible; SianstepFootballApiBot/1.0; +https://github.com/your-org/your-repo)",
       },
     });
-    return parseAnalysisDocument(response.data, url);
+    return parseAnalysisDocument(response.data);
   } catch (error) {
     return {
-      url,
       title: null,
       content_text: null,
       paragraphs: [],
@@ -150,7 +147,7 @@ function collectTipUrls(payload) {
   for (const date of payload.dates) {
     for (const league of date.leagues) {
       for (const match of league.matches) {
-        if (match.tip?.url) urls.add(match.tip.url);
+        if (match.tip?._analysis_source_url) urls.add(match.tip._analysis_source_url);
       }
     }
   }
@@ -178,12 +175,17 @@ async function enrichMatchesWithAnalyses(payload) {
   const tipUrls = collectTipUrls(payload);
   const analysisMap = new Map();
 
-  const analysisList = await runWithConcurrency(tipUrls, ANALYSIS_CONCURRENCY, async (url) =>
-    fetchAnalysis(url)
+  const analysisList = await runWithConcurrency(
+    tipUrls,
+    ANALYSIS_CONCURRENCY,
+    async (url) => ({
+      url,
+      analysis: await fetchAnalysis(url),
+    })
   );
 
   for (const analysis of analysisList) {
-    analysisMap.set(analysis.url, analysis);
+    analysisMap.set(analysis.url, analysis.analysis);
   }
 
   let attachedCount = 0;
@@ -191,10 +193,12 @@ async function enrichMatchesWithAnalyses(payload) {
   for (const date of payload.dates) {
     for (const league of date.leagues) {
       for (const match of league.matches) {
-        const url = match.tip?.url;
-        if (!url) continue;
-        match.tip.analysis = analysisMap.get(url) || null;
-        if (match.tip.analysis) attachedCount += 1;
+        const url = match.tip?._analysis_source_url;
+        if (url) {
+          match.tip.analysis = analysisMap.get(url) || null;
+          if (match.tip.analysis) attachedCount += 1;
+        }
+        delete match.tip._analysis_source_url;
       }
     }
   }
