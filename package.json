@@ -5,6 +5,7 @@
   "main": "src/scrape.js",
   "scripts": {
     "scrape": "node src/scrape.js",
+    "scrape:livescore": "node src/scrape-livescore-stats.js",
     "test": "node -e \"console.log('No tests yet')\""
   },
   "keywords": [],

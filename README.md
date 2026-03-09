@@ -17,6 +17,7 @@
 ```bash
 npm install
 npm run scrape
+npm run scrape:livescore
 ```
 
 ## ตัวอย่างโครง JSON
@@ -62,6 +63,27 @@ npm run scrape
 ### ทางเลือกเร็ว: Raw GitHub URL
 
 - `https://raw.githubusercontent.com/<username>/<repo>/main/docs/api/latest.json`
+- `https://raw.githubusercontent.com/<username>/<repo>/main/docs/api/livescore-player-stats.json`
+
+## LiveScore Player Stats API
+
+สคริปต์ `npm run scrape:livescore` จะดึงข้อมูลจาก:
+
+- Premier League
+- LaLiga
+- Serie A
+- Bundesliga
+- Ligue 1
+
+และสร้างไฟล์:
+
+- `data/livescore-player-stats.json`
+- `docs/api/livescore-player-stats.json`
+
+ในแต่ละลีกจะมีข้อมูล 2 หมวด:
+
+- `goals` (คนทำประตู)
+- `assists` (คนแอสซิสต์)
 
 ## หมายเหตุ
 
