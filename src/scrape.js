@@ -6,6 +6,8 @@ const cheerio = require("cheerio");
 const SOURCE_URL = "https://sianstep.com/program_football/";
 const OUTPUT_DATA_PATH = path.join(process.cwd(), "data", "latest.json");
 const OUTPUT_DOCS_PATH = path.join(process.cwd(), "docs", "api", "latest.json");
+const REQUEST_TIMEOUT_MS = 20000;
+const ANALYSIS_CONCURRENCY = 5;
 
 function cleanText(value) {
   if (!value) return "";
@@ -85,9 +87,120 @@ function parseMatchRow($, row) {
     tip: {
       text: tipText,
       url: tipLink,
+      analysis: null,
     },
     live_channel: liveChannel,
   };
+}
+
+function parseAnalysisDocument(html, url) {
+  const $ = cheerio.load(html);
+  const article = $("article").first();
+  const title = cleanText($("h1").first().text()) || null;
+  const contentRoot = article.find(".td-post-content").first();
+
+  if (!contentRoot.length) {
+    return {
+      url,
+      title,
+      content_text: null,
+      paragraphs: [],
+    };
+  }
+
+  const paragraphs = contentRoot
+    .find("p")
+    .map((_, p) => cleanText($(p).text()))
+    .get()
+    .filter(Boolean);
+
+  const contentText = cleanText(contentRoot.text()) || null;
+
+  return {
+    url,
+    title,
+    content_text: contentText,
+    paragraphs,
+  };
+}
+
+async function fetchAnalysis(url) {
+  try {
+    const response = await axios.get(url, {
+      timeout: REQUEST_TIMEOUT_MS,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (compatible; SianstepFootballApiBot/1.0; +https://github.com/your-org/your-repo)",
+      },
+    });
+    return parseAnalysisDocument(response.data, url);
+  } catch (error) {
+    return {
+      url,
+      title: null,
+      content_text: null,
+      paragraphs: [],
+      error: error.message,
+    };
+  }
+}
+
+function collectTipUrls(payload) {
+  const urls = new Set();
+  for (const date of payload.dates) {
+    for (const league of date.leagues) {
+      for (const match of league.matches) {
+        if (match.tip?.url) urls.add(match.tip.url);
+      }
+    }
+  }
+  return [...urls];
+}
+
+async function runWithConcurrency(items, concurrency, worker) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+
+  async function runWorker() {
+    while (nextIndex < items.length) {
+      const current = nextIndex;
+      nextIndex += 1;
+      results[current] = await worker(items[current], current);
+    }
+  }
+
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => runWorker());
+  await Promise.all(workers);
+  return results;
+}
+
+async function enrichMatchesWithAnalyses(payload) {
+  const tipUrls = collectTipUrls(payload);
+  const analysisMap = new Map();
+
+  const analysisList = await runWithConcurrency(tipUrls, ANALYSIS_CONCURRENCY, async (url) =>
+    fetchAnalysis(url)
+  );
+
+  for (const analysis of analysisList) {
+    analysisMap.set(analysis.url, analysis);
+  }
+
+  let attachedCount = 0;
+
+  for (const date of payload.dates) {
+    for (const league of date.leagues) {
+      for (const match of league.matches) {
+        const url = match.tip?.url;
+        if (!url) continue;
+        match.tip.analysis = analysisMap.get(url) || null;
+        if (match.tip.analysis) attachedCount += 1;
+      }
+    }
+  }
+
+  payload.total_analysis_links = tipUrls.length;
+  payload.total_analysis_embedded = attachedCount;
 }
 
 function parseDocument(html) {
@@ -156,7 +269,7 @@ async function saveJson(outputPath, data) {
 
 async function main() {
   const response = await axios.get(SOURCE_URL, {
-    timeout: 20000,
+    timeout: REQUEST_TIMEOUT_MS,
     headers: {
       "User-Agent":
         "Mozilla/5.0 (compatible; SianstepFootballApiBot/1.0; +https://github.com/your-org/your-repo)",
@@ -164,10 +277,13 @@ async function main() {
   });
 
   const parsed = parseDocument(response.data);
+  await enrichMatchesWithAnalyses(parsed);
   await saveJson(OUTPUT_DATA_PATH, parsed);
   await saveJson(OUTPUT_DOCS_PATH, parsed);
 
-  console.log(`Saved ${parsed.total_matches} matches from ${parsed.total_leagues} leagues.`);
+  console.log(
+    `Saved ${parsed.total_matches} matches from ${parsed.total_leagues} leagues with ${parsed.total_analysis_embedded} analyses.`
+  );
 }
 
 main().catch((error) => {
