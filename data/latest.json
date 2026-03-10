@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-03-10T03:30:32.105Z",
+  "scraped_at": "2026-03-10T05:29:38.865Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1499,9 +1499,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ -",
+                "raw": "เสมอ 0.25",
                 "lines": [
-                  "เสมอ -"
+                  "เสมอ 0.25"
                 ]
               },
               "tip": {
@@ -2151,7 +2151,7 @@
             },
             {
               "time": "08:30",
-              "status": "เลื่อน",
+              "status": null,
               "home_team": {
                 "raw": "[A-6]แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
                 "name": "แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
@@ -2284,6 +2284,37 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
+              "time": "17:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-3]เอชเจเค เฮลซิงกิ",
+                "name": "เอชเจเค เฮลซิงกิ",
+                "rank": "D1-3"
+              },
+              "away_team": {
+                "raw": "กนิสตัน เฮลซิงกิ[D1-6]",
+                "name": "กนิสตัน เฮลซิงกิ",
+                "rank": "D1-6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "01:00",
               "status": null,
               "home_team": {
@@ -2321,7 +2352,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 25,
-  "total_matches": 64,
+  "total_matches": 65,
   "total_analysis_links": 10,
   "total_analysis_embedded": 10
 }
