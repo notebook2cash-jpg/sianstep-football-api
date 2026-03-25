@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-03-25T05:41:20.982Z",
+  "scraped_at": "2026-03-25T10:11:44.612Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -77,8 +77,8 @@
           "league_name": "กระชับมิตร ยู23 (INTERNATIONAL FRIENDLY U-23)",
           "matches": [
             {
-              "time": "14:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "เวียดนาม(ยู 23)",
                 "name": "เวียดนาม(ยู 23)",
@@ -90,15 +90,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -127,9 +127,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.5 +10 0.75",
+                "raw": "0.75 0.5 +10 0.75 0.75 -5",
                 "lines": [
-                  "0.75 0.5 +10 0.75"
+                  "0.75 0.5 +10 0.75 0.75 -5"
                 ]
               },
               "tip": {
@@ -225,9 +225,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -10",
+                "raw": "0.5 0.5 -10 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -10"
+                  "0.5 0.5 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -318,9 +318,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -349,9 +349,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 เสมอ",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 เสมอ"
                 ]
               },
               "tip": {
@@ -385,9 +385,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 0.5 -10",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 0.5 -10"
                 ]
               },
               "tip": {
@@ -586,9 +586,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.25 -10",
+                "raw": "0.5 0.25 -10 เสมอ",
                 "lines": [
-                  "0.5 0.25 -10"
+                  "0.5 0.25 -10 เสมอ"
                 ]
               },
               "tip": {
@@ -603,7 +603,7 @@
           "league_name": "กระชับมิตร ยู20 (INTERNATIONAL FRIENDLY U-20)",
           "matches": [
             {
-              "time": "16:00",
+              "time": "17:00",
               "status": null,
               "home_team": {
                 "raw": "อุสเบกิสทาน (ยู 20)",
@@ -658,9 +658,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "next",
                 "lines": [
-                  "wait"
+                  "next"
                 ]
               },
               "tip": {
@@ -689,9 +689,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.5",
                 "lines": [
-                  "wait"
+                  "0.5"
                 ]
               },
               "tip": {
@@ -719,15 +719,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1",
                 "lines": [
-                  "1.25"
+                  "1.25 1"
                 ]
               },
               "tip": {
@@ -756,9 +756,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 0.75 -10",
                 "lines": [
-                  "0.75"
+                  "0.75 0.75 -10"
                 ]
               },
               "tip": {
@@ -1035,9 +1035,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 1.75 -10",
                 "lines": [
-                  "1.5"
+                  "1.5 1.75 -10"
                 ]
               },
               "tip": {
@@ -1097,9 +1097,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75",
+                "raw": "1.75 2 -5",
                 "lines": [
-                  "1.75"
+                  "1.75 2 -5"
                 ]
               },
               "tip": {
@@ -1329,9 +1329,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.5 -10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.5 -10"
                 ]
               },
               "tip": {
@@ -1401,9 +1401,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 1.75 -10",
                 "lines": [
-                  "1.5"
+                  "1.5 1.75 -10"
                 ]
               },
               "tip": {
@@ -1432,9 +1432,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1",
                 "lines": [
-                  "1.25"
+                  "1.25 1"
                 ]
               },
               "tip": {
@@ -1510,7 +1510,7 @@
                 ]
               },
               "tip": {
-                "text": "",
+                "text": "ทีเด็ดออสนาบรุ๊ค กระดูกแข็ง",
                 "analysis": null
               },
               "live_channel": null
@@ -1541,7 +1541,7 @@
                 ]
               },
               "tip": {
-                "text": "",
+                "text": "ทีเด็ดบีเลเฟลด์ยิงเร็ว",
                 "analysis": null
               },
               "live_channel": null
@@ -1571,9 +1571,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.25 -10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.25 -10"
                 ]
               },
               "tip": {
@@ -1607,9 +1607,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.25 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.25 -10"
                 ]
               },
               "tip": {
