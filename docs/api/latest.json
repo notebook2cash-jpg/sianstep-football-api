@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-03-27T05:54:04.661Z",
+  "scraped_at": "2026-03-27T10:09:07.228Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -47,7 +47,7 @@
           "matches": [
             {
               "time": "13:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[93]จีน",
                 "name": "จีน",
@@ -59,10 +59,10 @@
                 "rank": "82"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 1 -5",
@@ -78,7 +78,7 @@
             },
             {
               "time": "16:10",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[26]ออสเตรเลีย",
                 "name": "ออสเตรเลีย",
@@ -90,15 +90,15 @@
                 "rank": "57"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.75 -5 0.5",
+                "raw": "0.75 -5 0.5 0.5 -5",
                 "lines": [
-                  "0.75 -5 0.5"
+                  "0.75 -5 0.5 0.5 -5"
                 ]
               },
               "tip": {
@@ -1783,10 +1783,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ - -10",
@@ -1807,7 +1807,7 @@
           "matches": [
             {
               "time": "13:00",
-              "status": null,
+              "status": "เลื่อน",
               "home_team": {
                 "raw": "ญี่ปุ่น (ยู 21)",
                 "name": "ญี่ปุ่น (ยู 21)",
@@ -1861,9 +1861,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -1923,9 +1923,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1.25 -10",
                 "lines": [
-                  "1.25"
+                  "1.25 1.25 -10"
                 ]
               },
               "tip": {
@@ -2051,15 +2051,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "wait",
+                "raw": "4.25 +10",
                 "lines": [
-                  "wait"
+                  "4.25 +10"
                 ]
               },
               "tip": {
@@ -2454,9 +2454,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "1",
                 "lines": [
-                  "wait"
+                  "1"
                 ]
               },
               "tip": {
