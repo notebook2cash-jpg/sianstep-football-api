@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-04-08T06:00:28.608Z",
+  "scraped_at": "2026-04-08T10:33:42.131Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -748,10 +748,10 @@
                 "rank": "PR-3"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 1.5 +10 1.5 -10",
@@ -870,7 +870,7 @@
           "matches": [
             {
               "time": "16:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[7]โทชิกิ เอสซี",
                 "name": "โทชิกิ เอสซี",
@@ -882,10 +882,10 @@
                 "rank": "10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -10",
