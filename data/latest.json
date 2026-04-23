@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-04-23T06:19:48.727Z",
+  "scraped_at": "2026-04-23T10:50:59.113Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -910,7 +910,7 @@
                 ]
               },
               "tip": {
-                "text": "",
+                "text": "ทีเด็ดวาลูร์กู้ชื่อ",
                 "analysis": null
               },
               "live_channel": null
@@ -1341,10 +1341,10 @@
                 "rank": "9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -5",
@@ -1372,10 +1372,10 @@
                 "rank": "12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
