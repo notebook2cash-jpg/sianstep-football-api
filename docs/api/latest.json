@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-04-26T06:21:21.790Z",
+  "scraped_at": "2026-04-26T10:10:46.169Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -2501,7 +2501,7 @@
           "matches": [
             {
               "time": "12:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[5]ซิดนีย์ เอฟซี",
                 "name": "ซิดนีย์ เอฟซี",
@@ -2513,9 +2513,9 @@
                 "rank": "2"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -2532,7 +2532,7 @@
             },
             {
               "time": "14:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]เมลเบิร์น ซิตี้",
                 "name": "เมลเบิร์น ซิตี้",
@@ -2544,10 +2544,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -5 0.25 -10",
@@ -2599,7 +2599,7 @@
             },
             {
               "time": "12:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[4]โคชิ ยูไนเต็ด",
                 "name": "โคชิ ยูไนเต็ด",
@@ -2611,8 +2611,8 @@
                 "rank": "1"
               },
               "score": {
-                "text": "1 - 1",
-                "home": 1,
+                "text": "2 - 1",
+                "home": 2,
                 "away": 1,
                 "is_known": true
               },
@@ -2630,7 +2630,7 @@
             },
             {
               "time": "12:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]มัตซูโมโตะ ยามากะ เอฟซี",
                 "name": "มัตซูโมโตะ ยามากะ เอฟซี",
@@ -2642,9 +2642,9 @@
                 "rank": "10"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -2660,8 +2660,8 @@
               "live_channel": null
             },
             {
-              "time": "13:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]เอฮิเมะเอฟซี",
                 "name": "เอฮิเมะเอฟซี",
@@ -2673,8 +2673,8 @@
                 "rank": "7"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "3 - 0",
+                "home": 3,
                 "away": 0,
                 "is_known": true
               },
@@ -2696,8 +2696,8 @@
           "league_name": "เกาหลี ดิวิชั่น1 (Korea Division1)",
           "matches": [
             {
-              "time": "12:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[5]ชอนบุกฮุนไดมอเตอร์",
                 "name": "ชอนบุกฮุนไดมอเตอร์",
@@ -2709,9 +2709,9 @@
                 "rank": "7"
               },
               "score": {
-                "text": "3 - 1",
+                "text": "3 - 2",
                 "home": 3,
-                "away": 1,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -2728,7 +2728,7 @@
             },
             {
               "time": "14:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[2]วุลซาน ฮุนได โฮรางอี",
                 "name": "วุลซาน ฮุนได โฮรางอี",
@@ -2740,10 +2740,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 4",
+                "home": 1,
+                "away": 4,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5 -10",
@@ -2759,7 +2759,7 @@
             },
             {
               "time": "14:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[12]กวางจู เอฟซี",
                 "name": "กวางจู เอฟซี",
@@ -2771,10 +2771,10 @@
                 "rank": "8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 5",
+                "home": 2,
+                "away": 5,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5 -5",
@@ -3339,9 +3339,9 @@
               "time": "08:20",
               "status": null,
               "home_team": {
-                "raw": "[A-10]ลา อีคูดัด",
+                "raw": "[A-11]ลา อีคูดัด",
                 "name": "ลา อีคูดัด",
-                "rank": "A-10"
+                "rank": "A-11"
               },
               "away_team": {
                 "raw": "โบญาก้า ซิโค[A-19]",
@@ -3375,9 +3375,9 @@
               "time": "06:00",
               "status": null,
               "home_team": {
-                "raw": "[11]แอลเอ กาแลกซี่",
+                "raw": "[13]แอลเอ กาแลกซี่",
                 "name": "แอลเอ กาแลกซี่",
-                "rank": "11"
+                "rank": "13"
               },
               "away_team": {
                 "raw": "รีล ซอลต์ เลค[6]",
@@ -3416,9 +3416,9 @@
                 "rank": "A-18"
               },
               "away_team": {
-                "raw": "มอนเทอร์เรย์[A-12]",
+                "raw": "มอนเทอร์เรย์[A-13]",
                 "name": "มอนเทอร์เรย์",
-                "rank": "A-12"
+                "rank": "A-13"
               },
               "score": {
                 "text": "? - ?",
@@ -3442,14 +3442,14 @@
               "time": "08:00",
               "status": null,
               "home_team": {
-                "raw": "[A-4]ครูซ อาซูล",
+                "raw": "[A-5]ครูซ อาซูล",
                 "name": "ครูซ อาซูล",
-                "rank": "A-4"
+                "rank": "A-5"
               },
               "away_team": {
-                "raw": "เนกาซ่า[A-14]",
+                "raw": "เนกาซ่า[A-15]",
                 "name": "เนกาซ่า",
-                "rank": "A-14"
+                "rank": "A-15"
               },
               "score": {
                 "text": "? - ?",
