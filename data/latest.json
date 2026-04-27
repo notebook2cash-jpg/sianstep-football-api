@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-04-27T06:43:34.430Z",
+  "scraped_at": "2026-04-27T11:20:15.565Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -779,10 +779,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -5",
@@ -1338,8 +1338,8 @@
           "league_name": "อินโดนีเซีย ซูเปอร์ลีก (Indonesia Liga 1)",
           "matches": [
             {
-              "time": "15:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[8]บาหลี ยูไนเต็ด",
                 "name": "บาหลี ยูไนเต็ด",
@@ -1351,10 +1351,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -5 0.5 -10",
@@ -1388,9 +1388,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5 1.5 +10 1.5",
+                "raw": "1.5 1.5 +10 1.5 1.5 -10",
                 "lines": [
-                  "1.5 1.5 +10 1.5"
+                  "1.5 1.5 +10 1.5 1.5 -10"
                 ]
               },
               "tip": {
