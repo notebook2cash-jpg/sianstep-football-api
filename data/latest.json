@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-04-30T06:44:35.034Z",
+  "scraped_at": "2026-04-30T11:11:21.607Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -431,8 +431,8 @@
           "league_name": "อินโดนีเซีย ซูเปอร์ลีก (Indonesia Liga 1)",
           "matches": [
             {
-              "time": "15:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[10]พีเอสไอเอ็ม ยอคยาการ์ต้า",
                 "name": "พีเอสไอเอ็ม ยอคยาการ์ต้า",
@@ -444,10 +444,10 @@
                 "rank": "9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25 -10 0.25 -5",
