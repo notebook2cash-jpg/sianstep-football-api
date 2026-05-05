@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-05-05T06:31:47.001Z",
+  "scraped_at": "2026-05-05T10:56:53.437Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -513,8 +513,8 @@
           "league_name": "เกาหลี ดิวิชั่น1 (Korea Division1)",
           "matches": [
             {
-              "time": "12:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[2]ชอนบุกฮุนไดมอเตอร์",
                 "name": "ชอนบุกฮุนไดมอเตอร์",
@@ -526,8 +526,8 @@
                 "rank": "12"
               },
               "score": {
-                "text": "2 - 0",
-                "home": 2,
+                "text": "4 - 0",
+                "home": 4,
                 "away": 0,
                 "is_known": true
               },
@@ -545,7 +545,7 @@
             },
             {
               "time": "12:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[10]บูโชน เอฟซี 1995",
                 "name": "บูโชน เอฟซี 1995",
@@ -557,9 +557,9 @@
                 "rank": "11"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
