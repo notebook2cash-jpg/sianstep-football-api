@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-05-24T07:34:46.202Z",
+  "scraped_at": "2026-05-24T10:51:53.968Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -2279,8 +2279,8 @@
           "league_name": "เจแปน เจ-ลีก ดิวิชั่น1 (J. LEAGUE Division 1)",
           "matches": [
             {
-              "time": null,
-              "status": "FT",
+              "time": "12:00",
+              "status": "HT",
               "home_team": {
                 "raw": "[8]มิโตะ ฮอลลี่ฮ็อค",
                 "name": "มิโตะ ฮอลลี่ฮ็อค",
@@ -2292,9 +2292,9 @@
                 "rank": "6"
               },
               "score": {
-                "text": "1 - 3",
-                "home": 1,
-                "away": 3,
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
                 "is_known": true
               },
               "odds": {
@@ -2311,7 +2311,7 @@
             },
             {
               "time": "12:00",
-              "status": "FT",
+              "status": null,
               "home_team": {
                 "raw": "[4]โตเกียวเวอร์ดี้",
                 "name": "โตเกียวเวอร์ดี้",
@@ -2323,9 +2323,9 @@
                 "rank": "9"
               },
               "score": {
-                "text": "0 - 6",
+                "text": "0 - 3",
                 "home": 0,
-                "away": 6,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -3164,9 +3164,9 @@
                 "rank": "8"
               },
               "away_team": {
-                "raw": "ซีแอตเทิล ซาวน์เดอร์[5]",
+                "raw": "ซีแอตเทิล ซาวน์เดอร์[4]",
                 "name": "ซีแอตเทิล ซาวน์เดอร์",
-                "rank": "5"
+                "rank": "4"
               },
               "score": {
                 "text": "? - ?",
