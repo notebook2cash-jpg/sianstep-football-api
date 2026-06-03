@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-06-03T09:11:16.487Z",
+  "scraped_at": "2026-06-03T14:10:53.461Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "3.75 2.75 +10",
+                "raw": "3.75 2.75 +10 3",
                 "lines": [
-                  "3.75 2.75 +10"
+                  "3.75 2.75 +10 3"
                 ]
               },
               "tip": {
@@ -122,9 +122,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 -",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 -"
                 ]
               },
               "tip": {
@@ -153,9 +153,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10 0.25",
+                "raw": "0.25 0.25 -10 0.25 -",
                 "lines": [
-                  "0.25 0.25 -10 0.25"
+                  "0.25 0.25 -10 0.25 -"
                 ]
               },
               "tip": {
@@ -854,10 +854,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.5 -10 2.5",
@@ -1133,9 +1133,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "4.5 4.25 -10 4.25 -5",
+                "raw": "4.5 4.25 -10 4.25 -5 4 -5",
                 "lines": [
-                  "4.5 4.25 -10 4.25 -5"
+                  "4.5 4.25 -10 4.25 -5 4 -5"
                 ]
               },
               "tip": {
