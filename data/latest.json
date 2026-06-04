@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-06-04T08:36:16.041Z",
+  "scraped_at": "2026-06-04T12:23:17.101Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -59,10 +59,10 @@
                 "rank": "202"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -90,10 +90,10 @@
                 "rank": "186"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2",
@@ -189,9 +189,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1.25 -10",
+                "raw": "1.25 1.25 -10 1.25 -5",
                 "lines": [
-                  "1.25 1.25 -10"
+                  "1.25 1.25 -10 1.25 -5"
                 ]
               },
               "tip": {
@@ -220,9 +220,9 @@
                 "is_known": true
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.75 -5",
                 "lines": [
-                  "0.5"
+                  "0.5 0.75 -5"
                 ]
               },
               "tip": {
@@ -251,9 +251,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.25 -5",
                 "lines": [
-                  "wait"
+                  "0.25 -5"
                 ]
               },
               "tip": {
@@ -282,9 +282,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -10",
+                "raw": "0.5 0.5 -10 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -10"
+                  "0.5 0.5 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -334,9 +334,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 0.75",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 0.75"
                 ]
               },
               "tip": {
@@ -365,9 +365,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2.75 2.75 +10 3 -10",
+                "raw": "2.75 2.75 +10 3 -10 3",
                 "lines": [
-                  "2.75 2.75 +10 3 -10"
+                  "2.75 2.75 +10 3 -10 3"
                 ]
               },
               "tip": {
@@ -418,9 +418,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1.25 +10 1.5 -10",
+                "raw": "1.25 1.25 +10 1.5 -10 1.5",
                 "lines": [
-                  "1.25 1.25 +10 1.5 -10"
+                  "1.25 1.25 +10 1.5 -10 1.5"
                 ]
               },
               "tip": {
@@ -471,9 +471,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1.75 -10",
+                "raw": "1.25 1.75 -10 2 -5",
                 "lines": [
-                  "1.25 1.75 -10"
+                  "1.25 1.75 -10 2 -5"
                 ]
               },
               "tip": {
@@ -502,9 +502,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1.25 +10 1.5",
+                "raw": "1.25 1.25 +10 1.5 1.75 -5",
                 "lines": [
-                  "1.25 1.25 +10 1.5"
+                  "1.25 1.25 +10 1.5 1.75 -5"
                 ]
               },
               "tip": {
@@ -726,7 +726,7 @@
           "matches": [
             {
               "time": "16:30",
-              "status": null,
+              "status": "เลื่อน",
               "home_team": {
                 "raw": "[53]อุสเบกิสทาน(ญ)",
                 "name": "อุสเบกิสทาน(ญ)",
@@ -757,7 +757,7 @@
             },
             {
               "time": "17:00",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "[160]ซาอุดีอาระเบีย(ญ)",
                 "name": "ซาอุดีอาระเบีย(ญ)",
@@ -873,9 +873,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ - +10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ - +10"
                 ]
               },
               "tip": {
@@ -922,7 +922,7 @@
           "matches": [
             {
               "time": "18:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "เบลเยียม (ยู 17)",
                 "name": "เบลเยียม (ยู 17)",
@@ -934,15 +934,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.75 +10",
+                "raw": "0.75 +10 0.75",
                 "lines": [
-                  "0.75 +10"
+                  "0.75 +10 0.75"
                 ]
               },
               "tip": {
@@ -971,9 +971,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -988,8 +988,8 @@
           "league_name": "เยาวชนชิงแชมป์อาเซียน รุ่นอายุไม่เกิน19ปี (AFF U19 Championship) แข่งที่อินโดนีเซีย",
           "matches": [
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "เมียนมาร์(ยู 19)",
                 "name": "เมียนมาร์(ยู 19)",
@@ -1001,10 +1001,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 5",
+                "home": 0,
+                "away": 5,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 1.75 1.5 -10",
@@ -1038,9 +1038,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "4.25 4 -10 4",
+                "raw": "4.25 4 -10 4 4 -5",
                 "lines": [
-                  "4.25 4 -10 4"
+                  "4.25 4 -10 4 4 -5"
                 ]
               },
               "tip": {
