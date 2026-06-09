@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-06-09T08:04:58.521Z",
+  "scraped_at": "2026-06-09T12:19:06.087Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -111,6 +111,37 @@
               "time": "18:30",
               "status": null,
               "home_team": {
+                "raw": "[135]ฟิลิปปินส์",
+                "name": "ฟิลิปปินส์",
+                "rank": "135"
+              },
+              "away_team": {
+                "raw": "เมียนมาร์[158]",
+                "name": "เมียนมาร์",
+                "rank": "158"
+              },
+              "score": {
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
+              },
+              "odds": {
+                "raw": "1 1 +10 1.25 -10",
+                "lines": [
+                  "1 1 +10 1.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดฟิลลิปปินส์ บินสูง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "18:35",
+              "status": null,
+              "home_team": {
                 "raw": "[94]จีน",
                 "name": "จีน",
                 "rank": "94"
@@ -121,10 +152,10 @@
                 "rank": "93"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10 0.5 -5 0.5 -10",
@@ -137,99 +168,6 @@
                 "analysis": null
               },
               "live_channel": "ไทยรัฐ ทีวี, True Premier Football 4 (604)"
-            },
-            {
-              "time": "18:30",
-              "status": null,
-              "home_team": {
-                "raw": "[135]ฟิลิปปินส์",
-                "name": "ฟิลิปปินส์",
-                "rank": "135"
-              },
-              "away_team": {
-                "raw": "เมียนมาร์[158]",
-                "name": "เมียนมาร์",
-                "rank": "158"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 1 +10",
-                "lines": [
-                  "1 1 +10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดฟิลลิปปินส์ บินสูง",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
-                "raw": "[89]แองโกลา",
-                "name": "แองโกลา",
-                "rank": "89"
-              },
-              "away_team": {
-                "raw": "แอฟริกากลาง[139]",
-                "name": "แอฟริกากลาง",
-                "rank": "139"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดแองโกลา มาตามนัด",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
-                "raw": "[144]เอธิโอเปีย",
-                "name": "เอธิโอเปีย",
-                "rank": "144"
-              },
-              "away_team": {
-                "raw": "มาลาวี[127]",
-                "name": "มาลาวี",
-                "rank": "127"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดเอธิโอเปีย น่าเชียร์",
-                "analysis": null
-              },
-              "live_channel": null
             },
             {
               "time": "19:00",
@@ -282,9 +220,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 +10 1.5 -10",
+                "raw": "1.25 +10 1.5 -10 1.5",
                 "lines": [
-                  "1.25 +10 1.5 -10"
+                  "1.25 +10 1.5 -10 1.5"
                 ]
               },
               "tip": {
@@ -344,13 +282,44 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ - +10",
+                "raw": "เสมอ - +10 0.25 -5",
                 "lines": [
-                  "เสมอ - +10"
+                  "เสมอ - +10 0.25 -5"
                 ]
               },
               "tip": {
                 "text": "ทีเด็ดปาเลสไตน์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[144]เอธิโอเปีย",
+                "name": "เอธิโอเปีย",
+                "rank": "144"
+              },
+              "away_team": {
+                "raw": "มาลาวี[127]",
+                "name": "มาลาวี",
+                "rank": "127"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ",
+                "lines": [
+                  "เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดเอธิโอเปีย น่าเชียร์",
                 "analysis": null
               },
               "live_channel": null
@@ -375,9 +344,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.75 0.75 -10",
+                "raw": "0.5 0.75 0.75 -10 0.75 -5",
                 "lines": [
-                  "0.5 0.75 0.75 -10"
+                  "0.5 0.75 0.75 -10 0.75 -5"
                 ]
               },
               "tip": {
@@ -468,9 +437,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ - +10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ - +10"
                 ]
               },
               "tip": {
@@ -514,6 +483,37 @@
               "time": "00:00",
               "status": null,
               "home_team": {
+                "raw": "[89]แองโกลา",
+                "name": "แองโกลา",
+                "rank": "89"
+              },
+              "away_team": {
+                "raw": "แอฟริกากลาง[139]",
+                "name": "แอฟริกากลาง",
+                "rank": "139"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดแองโกลา มาตามนัด",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
                 "raw": "[36]รัสเซีย",
                 "name": "รัสเซีย",
                 "rank": "36"
@@ -530,9 +530,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "3.25",
+                "raw": "3.25 3.25 +10",
                 "lines": [
-                  "3.25"
+                  "3.25 3.25 +10"
                 ]
               },
               "tip": {
@@ -592,9 +592,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ - +10",
+                "raw": "เสมอ - +10 เสมอ",
                 "lines": [
-                  "เสมอ - +10"
+                  "เสมอ - +10 เสมอ"
                 ]
               },
               "tip": {
@@ -623,9 +623,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75 2 2 +10",
+                "raw": "1.75 2 2 +10 2",
                 "lines": [
-                  "1.75 2 2 +10"
+                  "1.75 2 2 +10 2"
                 ]
               },
               "tip": {
@@ -685,9 +685,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75 2 2 +10 2",
+                "raw": "1.75 2 2 +10 2 2 -10",
                 "lines": [
-                  "1.75 2 2 +10 2"
+                  "1.75 2 2 +10 2 2 -10"
                 ]
               },
               "tip": {
@@ -733,8 +733,8 @@
           "league_name": "กระชับมิตร ยู23 (INTERNATIONAL FRIENDLY U-23)",
           "matches": [
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ไทย (ยู 23)",
                 "name": "ไทย (ยู 23)",
@@ -746,15 +746,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 5",
+                "home": 2,
+                "away": 5,
+                "is_known": true
               },
               "odds": {
-                "raw": "wait",
+                "raw": "เสมอ",
                 "lines": [
-                  "wait"
+                  "เสมอ"
                 ]
               },
               "tip": {
@@ -765,7 +765,7 @@
             },
             {
               "time": "18:00",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "เกาหลีใต้(ยู 23)",
                 "name": "เกาหลีใต้(ยู 23)",
@@ -808,15 +808,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.75 -10",
                 "lines": [
-                  "wait"
+                  "0.75 -10"
                 ]
               },
               "tip": {
@@ -876,9 +876,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 1.5 +10",
                 "lines": [
-                  "1.5"
+                  "1.5 1.5 +10"
                 ]
               },
               "tip": {
@@ -912,9 +912,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "3 -10 2.5",
+                "raw": "3 -10 2.5 2.5 -10",
                 "lines": [
-                  "3 -10 2.5"
+                  "3 -10 2.5 2.5 -10"
                 ]
               },
               "tip": {
@@ -1046,9 +1046,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 เสมอ -",
+                "raw": "0.25 เสมอ - -10",
                 "lines": [
-                  "0.25 เสมอ -"
+                  "0.25 เสมอ - -10"
                 ]
               },
               "tip": {
@@ -1197,8 +1197,8 @@
           "league_name": "ฟุตบอลชิงแชมป์แห่งชาติอาเซียน (ASEAN Mitsubishi Electric Cup 2024) รอบชิงชนะเลิศ",
           "matches": [
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[201]ติมอร์-เลสเต",
                 "name": "ติมอร์-เลสเต",
@@ -1210,10 +1210,10 @@
                 "rank": "193"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 +10 1.25 -10",
@@ -1252,9 +1252,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 +10 0.75 -10",
+                "raw": "0.5 0.5 +10 0.75 -10 0.5",
                 "lines": [
-                  "0.5 0.5 +10 0.75 -10"
+                  "0.5 0.5 +10 0.75 -10 0.5"
                 ]
               },
               "tip": {
@@ -1336,8 +1336,8 @@
           "league_name": "กระชับมิตร ยู18 (INTERNATIONAL FRIENDLY U-18)",
           "matches": [
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ตุรกี (ยู 18)",
                 "name": "ตุรกี (ยู 18)",
@@ -1349,10 +1349,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -1368,7 +1368,7 @@
             },
             {
               "time": "17:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ฟินแลนด์(ยู 18)",
                 "name": "ฟินแลนด์(ยู 18)",
@@ -1380,10 +1380,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -1404,7 +1404,7 @@
           "matches": [
             {
               "time": "13:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[5]ญี่ปุ่น(ญ)",
                 "name": "ญี่ปุ่น(ญ)",
@@ -1435,7 +1435,7 @@
             },
             {
               "time": "15:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[106]อินโดนีเซีย (ญ)",
                 "name": "อินโดนีเซีย (ญ)",
@@ -1447,10 +1447,10 @@
                 "rank": "117"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -1465,8 +1465,8 @@
               "live_channel": null
             },
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[15]ออสเตรเลีย(ญ)",
                 "name": "ออสเตรเลีย(ญ)",
@@ -1478,10 +1478,10 @@
                 "rank": "27"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10 0.5 -5",
@@ -1509,15 +1509,15 @@
                 "rank": "50"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.25 0.25 -5 0.25",
+                "raw": "0.25 0.25 -5 0.25 0.25 +10",
                 "lines": [
-                  "0.25 0.25 -5 0.25"
+                  "0.25 0.25 -5 0.25 0.25 +10"
                 ]
               },
               "tip": {
@@ -1577,9 +1577,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5 -5 1 +10",
+                "raw": "1.5 -5 1 +10 1.25 -10",
                 "lines": [
-                  "1.5 -5 1 +10"
+                  "1.5 -5 1 +10 1.25 -10"
                 ]
               },
               "tip": {
@@ -1701,9 +1701,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25"
                 ]
               },
               "tip": {
@@ -1830,9 +1830,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 -10",
+                "raw": "0.25 -10 0.25 -5",
                 "lines": [
-                  "0.25 -10"
+                  "0.25 -10 0.25 -5"
                 ]
               },
               "tip": {
@@ -1861,9 +1861,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25 -5",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25 -5"
                 ]
               },
               "tip": {
@@ -1897,9 +1897,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 -10 0.75 -5",
+                "raw": "0.75 -10 0.75 -5 0.5 -10",
                 "lines": [
-                  "0.75 -10 0.75 -5"
+                  "0.75 -10 0.75 -5 0.5 -10"
                 ]
               },
               "tip": {
@@ -1928,9 +1928,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.25 -10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.25 -10"
                 ]
               },
               "tip": {
@@ -1959,9 +1959,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 -10",
+                "raw": "0.5 -10 0.5 -5",
                 "lines": [
-                  "0.5 -10"
+                  "0.5 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -2098,9 +2098,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5"
                 ]
               },
               "tip": {
@@ -2134,9 +2134,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "3.25 3.25 +10 3.5",
+                "raw": "3.25 3.25 +10 3.5 3.5 +10",
                 "lines": [
-                  "3.25 3.25 +10 3.5"
+                  "3.25 3.25 +10 3.5 3.5 +10"
                 ]
               },
               "tip": {
