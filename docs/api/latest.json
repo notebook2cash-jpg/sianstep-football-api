@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-06-11T08:57:05.493Z",
+  "scraped_at": "2026-06-11T12:58:07.281Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -71,9 +71,9 @@
                 "rank": "25"
               },
               "away_team": {
-                "raw": "สาธารณรัฐเช็ก[39]",
+                "raw": "สาธารณรัฐเช็ก[40]",
                 "name": "สาธารณรัฐเช็ก",
-                "rank": "39"
+                "rank": "40"
               },
               "score": {
                 "text": "? - ?",
@@ -123,25 +123,25 @@
               "time": "18:30",
               "status": null,
               "home_team": {
-                "raw": "เวเนซูเอล่า(ยู20)",
+                "raw": "[B5]เวเนซูเอล่า(ยู20)",
                 "name": "เวเนซูเอล่า(ยู20)",
-                "rank": null
+                "rank": "B5"
               },
               "away_team": {
-                "raw": "ญี่ปุ่น(ยู19)",
+                "raw": "ญี่ปุ่น(ยู19)[B3]",
                 "name": "ญี่ปุ่น(ยู19)",
-                "rank": null
+                "rank": "B3"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 0.75",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 0.75"
                 ]
               },
               "tip": {
@@ -154,14 +154,14 @@
               "time": "00:00",
               "status": null,
               "home_team": {
-                "raw": "โปรตุเกส (ยู20)",
+                "raw": "[B2]โปรตุเกส (ยู20)",
                 "name": "โปรตุเกส (ยู20)",
-                "rank": null
+                "rank": "B2"
               },
               "away_team": {
-                "raw": "แคนาดา(ยู 20)",
+                "raw": "แคนาดา(ยู 20)[B4]",
                 "name": "แคนาดา(ยู 20)",
-                "rank": null
+                "rank": "B4"
               },
               "score": {
                 "text": "? - ?",
@@ -170,9 +170,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1.5 -5",
                 "lines": [
-                  "1.25"
+                  "1.25 1.5 -5"
                 ]
               },
               "tip": {
@@ -242,9 +242,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 +10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 +10"
                 ]
               },
               "tip": {
@@ -259,8 +259,8 @@
           "league_name": "เยาวชนชิงแชมป์อาเซียน รุ่นอายุไม่เกิน19ปี (AFF U19 Championship) แข่งที่อินโดนีเซีย",
           "matches": [
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ไทย(ยู19)",
                 "name": "ไทย(ยู19)",
@@ -272,10 +272,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "4 - 0",
+                "home": 4,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.25 2 -10 1.75 -10",
@@ -309,9 +309,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -10 0.75 -5",
+                "raw": "0.75 0.75 -10 0.75 -5 0.75 -10",
                 "lines": [
-                  "0.75 0.75 -10 0.75 -5"
+                  "0.75 0.75 -10 0.75 -5 0.75 -10"
                 ]
               },
               "tip": {
