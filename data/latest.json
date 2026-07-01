@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-01T08:33:43.676Z",
+  "scraped_at": "2026-07-01T12:18:19.377Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5 1.5 -10",
+                "raw": "1.5 1.5 -10 1.5 -5",
                 "lines": [
-                  "1.5 1.5 -10"
+                  "1.5 1.5 -10 1.5 -5"
                 ]
               },
               "tip": {
@@ -190,9 +190,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 1 -10",
                 "lines": [
-                  "0.75"
+                  "0.75 1 -10"
                 ]
               },
               "tip": {
@@ -262,9 +262,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -5",
+                "raw": "0.75 0.75 -5 0.75 -10",
                 "lines": [
-                  "0.75 0.75 -5"
+                  "0.75 0.75 -5 0.75 -10"
                 ]
               },
               "tip": {
@@ -334,9 +334,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 1.25 +10 1 -10",
+                "raw": "0.75 1.25 +10 1 -10 1",
                 "lines": [
-                  "0.75 1.25 +10 1 -10"
+                  "0.75 1.25 +10 1 -10 1"
                 ]
               },
               "tip": {
@@ -401,9 +401,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ - +10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ - +10"
                 ]
               },
               "tip": {
@@ -494,9 +494,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "1 1 -10 1",
                 "lines": [
-                  "1 1 -10"
+                  "1 1 -10 1"
                 ]
               },
               "tip": {
@@ -530,9 +530,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "1 1 -10 1",
                 "lines": [
-                  "1 1 -10"
+                  "1 1 -10 1"
                 ]
               },
               "tip": {
@@ -578,8 +578,8 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
-              "time": "15:15",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[PR-5]จีเคเอส คาโตวีตเซ",
                 "name": "จีเคเอส คาโตวีตเซ",
@@ -591,9 +591,9 @@
                 "rank": "PR-15"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -622,10 +622,10 @@
                 "rank": "D1-5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 4",
+                "home": 1,
+                "away": 4,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -653,10 +653,10 @@
                 "rank": "PR-11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 2",
+                "home": 0,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -684,10 +684,10 @@
                 "rank": "SL-6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5 +10",
@@ -721,9 +721,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1",
+                "raw": "1 1 -5",
                 "lines": [
-                  "1"
+                  "1 1 -5"
                 ]
               },
               "tip": {
@@ -752,9 +752,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 1.5 -5",
                 "lines": [
-                  "1.5"
+                  "1.5 1.5 -5"
                 ]
               },
               "tip": {
@@ -814,9 +814,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1.25 -10",
                 "lines": [
-                  "1.25"
+                  "1.25 1.25 -10"
                 ]
               },
               "tip": {
@@ -876,9 +876,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1 +10",
                 "lines": [
-                  "1.25"
+                  "1.25 1 +10"
                 ]
               },
               "tip": {
@@ -907,9 +907,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 1 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 1 -10"
                 ]
               },
               "tip": {
@@ -969,9 +969,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 1.75 -10",
                 "lines": [
-                  "1.5"
+                  "1.5 1.75 -10"
                 ]
               },
               "tip": {
@@ -1005,9 +1005,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1 1 +10",
+                "raw": "1.25 1 1 +10 1 -10",
                 "lines": [
-                  "1.25 1 1 +10"
+                  "1.25 1 1 +10 1 -10"
                 ]
               },
               "tip": {
