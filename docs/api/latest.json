@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-03T07:43:18.849Z",
+  "scraped_at": "2026-07-03T11:43:11.299Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -189,9 +189,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 1 -5",
                 "lines": [
-                  "0.75"
+                  "0.75 1 -5"
                 ]
               },
               "tip": {
@@ -225,9 +225,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 0.75",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 0.75"
                 ]
               },
               "tip": {
@@ -256,9 +256,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -10",
+                "raw": "0.75 0.75 -10 0.75 -5",
                 "lines": [
-                  "0.75 0.75 -10"
+                  "0.75 0.75 -10 0.75 -5"
                 ]
               },
               "tip": {
@@ -483,9 +483,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -10 0.75 -5",
+                "raw": "0.75 0.75 -10 0.75 -5 0.5",
                 "lines": [
-                  "0.75 0.75 -10 0.75 -5"
+                  "0.75 0.75 -10 0.75 -5 0.5"
                 ]
               },
               "tip": {
@@ -550,9 +550,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 0.75 1 -10",
+                "raw": "1 0.75 1 -10 1.25 -5",
                 "lines": [
-                  "1 0.75 1 -10"
+                  "1 0.75 1 -10 1.25 -5"
                 ]
               },
               "tip": {
@@ -679,9 +679,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -715,9 +715,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ - -10",
+                "raw": "เสมอ - -10 เสมอ",
                 "lines": [
-                  "เสมอ - -10"
+                  "เสมอ - -10 เสมอ"
                 ]
               },
               "tip": {
@@ -808,9 +808,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.5 -10",
+                "raw": "0.75 0.5 -10 0.5",
                 "lines": [
-                  "0.75 0.5 -10"
+                  "0.75 0.5 -10 0.5"
                 ]
               },
               "tip": {
@@ -844,9 +844,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 0.25 -10",
                 "lines": [
-                  "0.75"
+                  "0.75 0.25 -10"
                 ]
               },
               "tip": {
@@ -875,9 +875,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25",
+                "raw": "1.25 1",
                 "lines": [
-                  "1.25"
+                  "1.25 1"
                 ]
               },
               "tip": {
@@ -1019,9 +1019,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 0.75",
+                "raw": "1 0.75 0.75 -5",
                 "lines": [
-                  "1 0.75"
+                  "1 0.75 0.75 -5"
                 ]
               },
               "tip": {
@@ -1055,9 +1055,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ - -10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ - -10"
                 ]
               },
               "tip": {
@@ -1091,9 +1091,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1",
+                "raw": "1.25 1 1 -10",
                 "lines": [
-                  "1.25 1"
+                  "1.25 1 1 -10"
                 ]
               },
               "tip": {
@@ -1127,9 +1127,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2 1.5",
+                "raw": "2 1.5 1.5 +10",
                 "lines": [
-                  "2 1.5"
+                  "2 1.5 1.5 +10"
                 ]
               },
               "tip": {
@@ -1144,8 +1144,8 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-8]เทรนซิน",
                 "name": "เทรนซิน",
@@ -1157,10 +1157,10 @@
                 "rank": "D1-12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 3",
+                "home": 1,
+                "away": 3,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -1188,10 +1188,10 @@
                 "rank": "SASL-9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25",
@@ -1201,6 +1201,37 @@
               },
               "tip": {
                 "text": "ทีเด็ดแรนเดอร์ส ยิงเว่อร์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "17:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-4]ลีลล์สตรอม",
+                "name": "ลีลล์สตรอม",
+                "rank": "D1-4"
+              },
+              "away_team": {
+                "raw": "ชาร์ปบอร์ก 08[D1-7]",
+                "name": "ชาร์ปบอร์ก 08",
+                "rank": "D1-7"
+              },
+              "score": {
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดชาร์ปบอร์ก ยิงหมดปลอก",
                 "analysis": null
               },
               "live_channel": null
@@ -1219,15 +1250,15 @@
                 "rank": "SASL-5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "1",
+                "raw": "1 1 -10",
                 "lines": [
-                  "1"
+                  "1 1 -10"
                 ]
               },
               "tip": {
@@ -1287,9 +1318,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -1333,37 +1364,6 @@
               "time": "20:00",
               "status": null,
               "home_team": {
-                "raw": "[D1-1]สตวร์มกราซ",
-                "name": "สตวร์มกราซ",
-                "rank": "D1-1"
-              },
-              "away_team": {
-                "raw": "เอฟเค โคซิค[D1-9]",
-                "name": "เอฟเค โคซิค",
-                "rank": "D1-9"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดสตวร์มกราซ ไม่พลาด",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "20:00",
-              "status": null,
-              "home_team": {
                 "raw": "[D1-9]เอสวี รีด",
                 "name": "เอสวี รีด",
                 "rank": "D1-9"
@@ -1387,6 +1387,37 @@
               },
               "tip": {
                 "text": "ทีเด็ดเอสวี รีด รอพิชิต",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-1]สตวร์มกราซ",
+                "name": "สตวร์มกราซ",
+                "rank": "D1-1"
+              },
+              "away_team": {
+                "raw": "เอฟเค โคซิค[D1-9]",
+                "name": "เอฟเค โคซิค",
+                "rank": "D1-9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 1 +10",
+                "lines": [
+                  "0.75 1 +10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดสตวร์มกราซ ไม่พลาด",
                 "analysis": null
               },
               "live_channel": null
@@ -1628,9 +1659,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "1.5",
                 "lines": [
-                  "wait"
+                  "1.5"
                 ]
               },
               "tip": {
@@ -1659,9 +1690,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.5",
                 "lines": [
-                  "wait"
+                  "0.5"
                 ]
               },
               "tip": {
@@ -1708,7 +1739,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 17,
-  "total_matches": 50,
+  "total_matches": 51,
   "total_analysis_links": 3,
   "total_analysis_embedded": 3
 }
