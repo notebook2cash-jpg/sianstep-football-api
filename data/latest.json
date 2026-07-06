@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-06T08:44:19.057Z",
+  "scraped_at": "2026-07-06T13:01:14.316Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -138,9 +138,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ - -10",
+                "raw": "เสมอ - -10 เสมอ",
                 "lines": [
-                  "เสมอ - -10"
+                  "เสมอ - -10 เสมอ"
                 ]
               },
               "tip": {
@@ -478,9 +478,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -5",
+                "raw": "0.75 0.75 -5 0.5 -10",
                 "lines": [
-                  "0.75 0.75 -5"
+                  "0.75 0.75 -5 0.5 -10"
                 ]
               },
               "tip": {
@@ -581,9 +581,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.75",
                 "lines": [
-                  "wait"
+                  "0.75"
                 ]
               },
               "tip": {
@@ -612,9 +612,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.75 0.5",
                 "lines": [
-                  "wait"
+                  "0.75 0.5"
                 ]
               },
               "tip": {
@@ -624,7 +624,7 @@
               "live_channel": null
             },
             {
-              "time": "23:00",
+              "time": "22:30",
               "status": null,
               "home_team": {
                 "raw": "[D1-3]ปาร์ติซาน เบลเกรด",
@@ -643,9 +643,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.5 0.75 -5",
                 "lines": [
-                  "wait"
+                  "0.5 0.75 -5"
                 ]
               },
               "tip": {
