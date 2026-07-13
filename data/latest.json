@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-13T07:45:25.335Z",
+  "scraped_at": "2026-07-13T12:18:05.120Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75 1.75 -10",
+                "raw": "1.75 1.75 -10 1.75",
                 "lines": [
-                  "1.75 1.75 -10"
+                  "1.75 1.75 -10 1.75"
                 ]
               },
               "tip": {
@@ -65,9 +65,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 0.75",
+                "raw": "1 0.75 1 -10",
                 "lines": [
-                  "1 0.75"
+                  "1 0.75 1 -10"
                 ]
               },
               "tip": {
@@ -101,9 +101,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -5",
+                "raw": "0.5 0.5 -5 0.25",
                 "lines": [
-                  "0.5 0.5 -5"
+                  "0.5 0.5 -5 0.25"
                 ]
               },
               "tip": {
@@ -199,9 +199,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.75 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.75 -10"
                 ]
               },
               "tip": {
@@ -216,8 +216,8 @@
           "league_name": "ฟุตบอลหญิงชิงแชมป์แห่งชาติอาเซียน (AFF Womens Cup 2026) รอบแบ่งกลุ่ม (แข่งที่มาเลเซีย)",
           "matches": [
             {
-              "time": "15:45",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[113]กัมพูชา(ญ)",
                 "name": "กัมพูชา(ญ)",
@@ -229,15 +229,15 @@
                 "rank": "158"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "3",
+                "raw": "3 2.75 +10",
                 "lines": [
-                  "3"
+                  "3 2.75 +10"
                 ]
               },
               "tip": {
@@ -266,9 +266,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 +10",
+                "raw": "0.25 0.25 +10 0.5",
                 "lines": [
-                  "0.25 0.25 +10"
+                  "0.25 0.25 +10 0.5"
                 ]
               },
               "tip": {
@@ -338,9 +338,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -10",
+                "raw": "0.5 0.5 -10 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -10"
+                  "0.5 0.5 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -405,9 +405,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 เสมอ",
+                "raw": "0.25 เสมอ 0.25 -5",
                 "lines": [
-                  "0.25 เสมอ"
+                  "0.25 เสมอ 0.25 -5"
                 ]
               },
               "tip": {
@@ -436,9 +436,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -489,38 +489,7 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
-              "time": "18:00",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-5]เอ็นเคโลโคโมติวา ซาเกร็บ",
-                "name": "เอ็นเคโลโคโมติวา ซาเกร็บ",
-                "rank": "D1-5"
-              },
-              "away_team": {
-                "raw": "เอฟเค เอพิตเซนเตอร์ ดูนายฟซี[D1-10]",
-                "name": "เอฟเค เอพิตเซนเตอร์ ดูนายฟซี",
-                "rank": "D1-10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "wait",
-                "lines": [
-                  "wait"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดซาเกร็บ เก็บชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "19:00",
+              "time": "22:30",
               "status": null,
               "home_team": {
                 "raw": "[D1-8]เฮชเอ็นเคกอริก้า",
@@ -570,9 +539,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.25",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.25"
                 ]
               },
               "tip": {
@@ -601,9 +570,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "เสมอ",
                 "lines": [
-                  "wait"
+                  "เสมอ"
                 ]
               },
               "tip": {
@@ -639,6 +608,37 @@
               },
               "tip": {
                 "text": "ทีเด็ดอัล อาห์ลี มีชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-5]เอ็นเคโลโคโมติวา ซาเกร็บ",
+                "name": "เอ็นเคโลโคโมติวา ซาเกร็บ",
+                "rank": "D1-5"
+              },
+              "away_team": {
+                "raw": "เอฟเค เอพิตเซนเตอร์ ดูนายฟซี[D1-10]",
+                "name": "เอฟเค เอพิตเซนเตอร์ ดูนายฟซี",
+                "rank": "D1-10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดซาเกร็บ เก็บชัย",
                 "analysis": null
               },
               "live_channel": null
