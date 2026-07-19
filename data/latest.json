@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-19T07:02:01.277Z",
+  "scraped_at": "2026-07-19T10:48:33.081Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10 0.25 -5",
+                "raw": "0.25 0.25 -10 0.25 -5 0.25 -10",
                 "lines": [
-                  "0.25 0.25 -10 0.25 -5"
+                  "0.25 0.25 -10 0.25 -5 0.25 -10"
                 ]
               },
               "tip": {
@@ -89,9 +89,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -5",
+                "raw": "0.5 0.5 -5 0.5 -10",
                 "lines": [
-                  "0.5 0.5 -5"
+                  "0.5 0.5 -5 0.5 -10"
                 ]
               },
               "tip": {
@@ -120,9 +120,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75 1.75 -10",
+                "raw": "1.75 1.75 -10 1.75 -5",
                 "lines": [
-                  "1.75 1.75 -10"
+                  "1.75 1.75 -10 1.75 -5"
                 ]
               },
               "tip": {
@@ -187,9 +187,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "1 1 -10 1 -5",
                 "lines": [
-                  "1 1 -10"
+                  "1 1 -10 1 -5"
                 ]
               },
               "tip": {
@@ -290,9 +290,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 เสมอ",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 เสมอ"
                 ]
               },
               "tip": {
@@ -388,9 +388,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.5",
+                "raw": "0.75 0.5 0.5 -10",
                 "lines": [
-                  "0.75 0.5"
+                  "0.75 0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -610,9 +610,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 -5",
+                "raw": "0.5 -5 0.25",
                 "lines": [
-                  "0.5 -5"
+                  "0.5 -5 0.25"
                 ]
               },
               "tip": {
@@ -641,9 +641,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 -10",
+                "raw": "0.75 -10 0.75 -5",
                 "lines": [
-                  "0.75 -10"
+                  "0.75 -10 0.75 -5"
                 ]
               },
               "tip": {
@@ -672,9 +672,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 -10",
+                "raw": "0.75 -10 0.75 -5",
                 "lines": [
-                  "0.75 -10"
+                  "0.75 -10 0.75 -5"
                 ]
               },
               "tip": {
@@ -739,9 +739,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 +10",
+                "raw": "0.25 0.25 +10 0.5 -10",
                 "lines": [
-                  "0.25 0.25 +10"
+                  "0.25 0.25 +10 0.5 -10"
                 ]
               },
               "tip": {
@@ -755,37 +755,6 @@
         {
           "league_name": "ลัตเวีย เวียสลีก้า (Latvia Virsliga)",
           "matches": [
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
-                "raw": "[6]เจลกาว่า",
-                "name": "เจลกาว่า",
-                "rank": "6"
-              },
-              "away_team": {
-                "raw": "ริกาสฟุทโบลา สโกลา[2]",
-                "name": "ริกาสฟุทโบลา สโกลา",
-                "rank": "2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1.5",
-                "lines": [
-                  "1.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ริกาสฟุทโบลา มาเก็บชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
             {
               "time": "21:00",
               "status": null,
@@ -806,9 +775,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -10",
+                "raw": "0.75 0.75 -10 0.5",
                 "lines": [
-                  "0.75 0.75 -10"
+                  "0.75 0.75 -10 0.5"
                 ]
               },
               "tip": {
@@ -873,9 +842,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 - +10",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 - +10"
                 ]
               },
               "tip": {
@@ -1038,9 +1007,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1 +10",
+                "raw": "1.25 1 +10 1.25 -10",
                 "lines": [
-                  "1.25 1 +10"
+                  "1.25 1 +10 1.25 -10"
                 ]
               },
               "tip": {
@@ -1069,9 +1038,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 เสมอ",
+                "raw": "0.25 เสมอ 0.25 -5",
                 "lines": [
-                  "0.25 เสมอ"
+                  "0.25 เสมอ 0.25 -5"
                 ]
               },
               "tip": {
@@ -1100,9 +1069,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 +10",
+                "raw": "0.5 0.5 +10 0.75 -5",
                 "lines": [
-                  "0.5 0.5 +10"
+                  "0.5 0.5 +10 0.75 -5"
                 ]
               },
               "tip": {
@@ -1145,11 +1114,47 @@
           ]
         },
         {
+          "league_name": "กระชับมิตรทีมชาติ (หญิง) (WOMAN INTERNATIONAL FRIENDLY)",
+          "matches": [
+            {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[74]แอลจีเรีย (ญ)",
+                "name": "แอลจีเรีย (ญ)",
+                "rank": "74"
+              },
+              "away_team": {
+                "raw": "แซมเบีย (ญ)[65]",
+                "name": "แซมเบีย (ญ)",
+                "rank": "65"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด แซมเบีย เชียร์สบาย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
           "league_name": "ฟุตบอลหญิงชิงแชมป์แห่งชาติอาเซียน (AFF Womens Cup 2026) รอบแบ่งกลุ่ม (แข่งที่มาเลเซีย)",
           "matches": [
             {
               "time": "15:45",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[113]กัมพูชา(ญ)",
                 "name": "กัมพูชา(ญ)",
@@ -1161,15 +1166,15 @@
                 "rank": "117"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "1 0.75 +10",
+                "raw": "1 0.75 +10 1",
                 "lines": [
-                  "1 0.75 +10"
+                  "1 0.75 +10 1"
                 ]
               },
               "tip": {
@@ -1198,9 +1203,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 0.75 -10",
+                "raw": "1 0.75 -10 0.5",
                 "lines": [
-                  "1 0.75 -10"
+                  "1 0.75 -10 0.5"
                 ]
               },
               "tip": {
@@ -1216,7 +1221,7 @@
           "matches": [
             {
               "time": "19:55",
-              "status": null,
+              "status": "เลื่อน",
               "home_team": {
                 "raw": "[A-5]เซ็นทรัล เอสปันญ่อล",
                 "name": "เซ็นทรัล เอสปันญ่อล",
@@ -1265,9 +1270,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 +10",
+                "raw": "0.5 0.5 +10 0.75 -10",
                 "lines": [
-                  "0.5 0.5 +10"
+                  "0.5 0.5 +10 0.75 -10"
                 ]
               },
               "tip": {
@@ -1301,9 +1306,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "1 1 -10 1 -5",
                 "lines": [
-                  "1 1 -10"
+                  "1 1 -10 1 -5"
                 ]
               },
               "tip": {
@@ -1332,9 +1337,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -5",
+                "raw": "0.75 0.75 -5 0.5 -10",
                 "lines": [
-                  "0.75 0.75 -5"
+                  "0.75 0.75 -5 0.5 -10"
                 ]
               },
               "tip": {
@@ -1368,9 +1373,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -1399,9 +1404,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 1.25 -10",
                 "lines": [
-                  "1.5"
+                  "1.5 1.25 -10"
                 ]
               },
               "tip": {
@@ -1424,9 +1429,9 @@
                 "rank": "10"
               },
               "away_team": {
-                "raw": "โซเซียดัด เดปอร์ติวา ออกาส[3]",
+                "raw": "โซเซียดัด เดปอร์ติวา ออกาส[4]",
                 "name": "โซเซียดัด เดปอร์ติวา ออกาส",
-                "rank": "3"
+                "rank": "4"
               },
               "score": {
                 "text": "? - ?",
@@ -1435,9 +1440,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 0.25 -10",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 0.25 -10"
                 ]
               },
               "tip": {
@@ -1466,9 +1471,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -1514,6 +1519,37 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
+              "time": "15:30",
+              "status": "HT",
+              "home_team": {
+                "raw": "[D1-2]อัล เรย์ยาน",
+                "name": "อัล เรย์ยาน",
+                "rank": "D1-2"
+              },
+              "away_team": {
+                "raw": "โรชเดล[NL-2]",
+                "name": "โรชเดล",
+                "rank": "NL-2"
+              },
+              "score": {
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดอัล เรย์ยาน เดินหน้ายิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "17:00",
               "status": null,
               "home_team": {
@@ -1545,6 +1581,37 @@
               "live_channel": null
             },
             {
+              "time": "18:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-2]นาเอสเวด",
+                "name": "นาเอสเวด",
+                "rank": "D2-2"
+              },
+              "away_team": {
+                "raw": "เฮลซิงกอร์[D2-12]",
+                "name": "เฮลซิงกอร์",
+                "rank": "D2-12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดนาเอสเวด เด็ดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "19:00",
               "status": null,
               "home_team": {
@@ -1564,13 +1631,75 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2",
+                "raw": "2 1.5 -10",
                 "lines": [
-                  "2"
+                  "2 1.5 -10"
                 ]
               },
               "tip": {
                 "text": "ทีเด็ด ชาลเก้ เฮดัง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[FAD-1]เคเอสเค ฮัสเซลต์",
+                "name": "เคเอสเค ฮัสเซลต์",
+                "rank": "FAD-1"
+              },
+              "away_team": {
+                "raw": "รอแยล อันท์เวิร์พ[D1-10]",
+                "name": "รอแยล อันท์เวิร์พ",
+                "rank": "D1-10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25",
+                "lines": [
+                  "1.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดอัลท์เวิร์พ แจ้งเกิด",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-1]รูเดส",
+                "name": "รูเดส",
+                "rank": "D2-1"
+              },
+              "away_team": {
+                "raw": "เอฟซี ชักตาร์ โดเน็ตส์ก[D1-1]",
+                "name": "เอฟซี ชักตาร์ โดเน็ตส์ก",
+                "rank": "D1-1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ชักตาร์ พาสบาย",
                 "analysis": null
               },
               "live_channel": null
@@ -1595,9 +1724,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 0.5",
                 "lines": [
-                  "0.75"
+                  "0.75 0.5"
                 ]
               },
               "tip": {
@@ -1626,13 +1755,44 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 0.5",
                 "lines": [
-                  "0.75"
+                  "0.75 0.5"
                 ]
               },
               "tip": {
                 "text": "ทีเด็ด ซังค์ เพาลี มีแต้ม",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-14]สตวร์ม กราซ (เยาวชน)",
+                "name": "สตวร์ม กราซ (เยาวชน)",
+                "rank": "D2-14"
+              },
+              "away_team": {
+                "raw": "อัล ฮิลาล[SPL-2]",
+                "name": "อัล ฮิลาล",
+                "rank": "SPL-2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "2.5",
+                "lines": [
+                  "2.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อัล ฮิลาล เบิกบานใจ",
                 "analysis": null
               },
               "live_channel": null
@@ -1688,9 +1848,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2",
+                "raw": "2 1.75",
                 "lines": [
-                  "2"
+                  "2 1.75"
                 ]
               },
               "tip": {
@@ -1719,9 +1879,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "1",
                 "lines": [
-                  "wait"
+                  "1"
                 ]
               },
               "tip": {
@@ -1829,8 +1989,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 18,
-  "total_matches": 55,
+  "total_leagues": 19,
+  "total_matches": 60,
   "total_analysis_links": 1,
   "total_analysis_embedded": 1
 }
