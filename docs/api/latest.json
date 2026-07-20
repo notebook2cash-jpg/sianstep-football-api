@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-20T07:37:58.319Z",
+  "scraped_at": "2026-07-20T11:59:45.567Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -992,9 +992,9 @@
                 "rank": "D2-6"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
