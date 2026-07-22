@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-07-22T07:04:31.924Z",
+  "scraped_at": "2026-07-22T11:22:20.291Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1371,7 +1371,7 @@
                 ]
               },
               "tip": {
-                "text": "ืทีเด็ด ซีแอตเทิลยิงเบิ้ล",
+                "text": "ทีเด็ด ซีแอตเทิลยิงเบิ้ล",
                 "analysis": null
               },
               "live_channel": null
@@ -1635,6 +1635,37 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
+              "time": "16:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-3]อิปสวิช ซิตี้",
+                "name": "อิปสวิช ซิตี้",
+                "rank": "D1-3"
+              },
+              "away_team": {
+                "raw": "บริสแบน โรว์[D1-11]",
+                "name": "บริสแบน โรว์",
+                "rank": "D1-11"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "2",
+                "lines": [
+                  "2"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อิปสวิช สะกิดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "16:30",
               "status": null,
               "home_team": {
@@ -1731,37 +1762,6 @@
               "time": "22:00",
               "status": null,
               "home_team": {
-                "raw": "[D1-11]ซัสเซาโล่",
-                "name": "ซัสเซาโล่",
-                "rank": "D1-11"
-              },
-              "away_team": {
-                "raw": "ปาโดวา[D2-9]",
-                "name": "ปาโดวา",
-                "rank": "D2-9"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1",
-                "lines": [
-                  "1"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซัสเซาโล่ โก้จริงๆ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
                 "raw": "[PR-10]ท็อตแน่ม ฮ็อทสเปอร์",
                 "name": "ท็อตแน่ม ฮ็อทสเปอร์",
                 "rank": "PR-10"
@@ -1785,6 +1785,37 @@
               },
               "tip": {
                 "text": "ทีเด็ด สเปอร์ ไม่รอเก้อ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-11]ซัสเซาโล่",
+                "name": "ซัสเซาโล่",
+                "rank": "D1-11"
+              },
+              "away_team": {
+                "raw": "ปาโดวา[D2-9]",
+                "name": "ปาโดวา",
+                "rank": "D2-9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ซัสเซาโล่ โก้จริงๆ",
                 "analysis": null
               },
               "live_channel": null
@@ -1976,6 +2007,37 @@
               "live_channel": null
             },
             {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-14]กรานาดา ซีเอฟ",
+                "name": "กรานาดา ซีเอฟ",
+                "rank": "D2-14"
+              },
+              "away_team": {
+                "raw": "เนออม[SPL-8]",
+                "name": "เนออม",
+                "rank": "SPL-8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ",
+                "lines": [
+                  "เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด กรานาดา ไม่น่าพลาด",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "01:30",
               "status": null,
               "home_team": {
@@ -2106,7 +2168,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 16,
-  "total_matches": 65,
+  "total_matches": 67,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
