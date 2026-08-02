@@ -1,1650 +1,26 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-08-01T10:53:04.856Z",
+  "scraped_at": "2026-08-02T07:04:25.183Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
-      "date_label": "โปรแกรมบอล วันที่ 01/08/2569",
+      "date_label": "โปรแกรมบอล วันที่ 02/08/2569",
       "leagues": [
         {
-          "league_name": "คาราบาว คัพ อังกฤษ (Carabao Cup 2026–2027) รอบคัดเลือก",
-          "matches": [
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[L2-21]ทรานเมียร์ โรเวอร์",
-                "name": "ทรานเมียร์ โรเวอร์",
-                "rank": "L2-21"
-              },
-              "away_team": {
-                "raw": "โรชเดล[NL-2]",
-                "name": "โรชเดล",
-                "rank": "NL-2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดทรานเมียร์ น่าเชียร์",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "นอร์เวย์ ดิวิชั่น 1 (Norway - Tippeligaen)",
-          "matches": [
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[12]เฟรดริกซ์สตรัด",
-                "name": "เฟรดริกซ์สตรัด",
-                "rank": "12"
-              },
-              "away_team": {
-                "raw": "ซานเดฟยอร์ด[11]",
-                "name": "ซานเดฟยอร์ด",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -5",
-                "lines": [
-                  "0.25 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซานเดฟยอร์ด หยอดเบาๆ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[16]สตาร์ต คริสเตียนเซ่น",
-                "name": "สตาร์ต คริสเตียนเซ่น",
-                "rank": "16"
-              },
-              "away_team": {
-                "raw": "ไวกิ้ง เอฟเค[2]",
-                "name": "ไวกิ้ง เอฟเค",
-                "rank": "2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 1 -10",
-                "lines": [
-                  "1 1 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ไวกิ้ง ยิงเน้นๆ",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "สวีเดน ออลสเวนส์คาน (Sweden Allsvenskan)",
-          "matches": [
-            {
-              "time": "20:00",
-              "status": null,
-              "home_team": {
-                "raw": "[3]ฮัคเค่น",
-                "name": "ฮัคเค่น",
-                "rank": "3"
-              },
-              "away_team": {
-                "raw": "คัลมาร์[11]",
-                "name": "คัลมาร์",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.75 -5",
-                "lines": [
-                  "0.5 0.75 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ฮัคเค่น เด่นจริง",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "เดนมาร์ก ซุปเปอร์ลีก (Danish SAS Ligaen)",
+          "league_name": "ฮอลแลนด์ ซูเปอร์คัพ (Holland Super Cup) รอบชิงชนะเลิศ",
           "matches": [
             {
               "time": "23:00",
               "status": null,
               "home_team": {
-                "raw": "[11]ลิงบี้",
-                "name": "ลิงบี้",
-                "rank": "11"
-              },
-              "away_team": {
-                "raw": "อาร์ฮุส เอจีเอฟ[7]",
-                "name": "อาร์ฮุส เอจีเอฟ",
-                "rank": "7"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.25 -10",
-                "lines": [
-                  "0.5 0.25 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อาร์ฮุส ไม่สะดุด",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "สวิต ซูเปอร์ ลีก (Switzerland Super League)",
-          "matches": [
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[5]บาเซิ่ล",
-                "name": "บาเซิ่ล",
-                "rank": "5"
-              },
-              "away_team": {
-                "raw": "ลัวซานนี สปอร์ท[7]",
-                "name": "ลัวซานนี สปอร์ท",
-                "rank": "7"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -10",
-                "lines": [
-                  "0.5 0.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด บาเซิล ยิงเบิ้ล",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]เอฟซี ซูริค",
-                "name": "เอฟซี ซูริค",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "เซอร์เวตต์[10]",
-                "name": "เซอร์เวตต์",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -5",
-                "lines": [
-                  "0.5 0.5 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เซอร์เวตต์ เด็ดชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:30",
-              "status": null,
-              "home_team": {
-                "raw": "[2]เอฟซี ธูน",
-                "name": "เอฟซี ธูน",
-                "rank": "2"
-              },
-              "away_team": {
-                "raw": "ยัง บอยส์[1]",
-                "name": "ยัง บอยส์",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ธูน น่าลุ้น",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "สก็อตแลนด์ พรีเมียร์ลีก (Scottish Premier League)",
-          "matches": [
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[6]ฟัลเคิร์ก",
-                "name": "ฟัลเคิร์ก",
-                "rank": "6"
-              },
-              "away_team": {
-                "raw": "เซนต์ เมียร์เรน[10]",
-                "name": "เซนต์ เมียร์เรน",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -5",
-                "lines": [
-                  "0.5 0.5 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดฟัลเคิร์ก แจ้งเกิด",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:30",
-              "status": null,
-              "home_team": {
-                "raw": "[8]อเบอร์ดีน",
-                "name": "อเบอร์ดีน",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "ฮาร์ท ออฟ มิดโลเธียน เอฟซี[1]",
-                "name": "ฮาร์ท ออฟ มิดโลเธียน เอฟซี",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.25 -10",
-                "lines": [
-                  "0.5 0.25 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ฮาร์ท ไม่พลาด",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "ฟินแลนด์ พรีเมียร์ (Finnish Premier : Veikkausliiga)",
-          "matches": [
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]ทีพีเอส ตูร์คู",
-                "name": "ทีพีเอส ตูร์คู",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "ไอเอฟเค มารีฮามน์[12]",
-                "name": "ไอเอฟเค มารีฮามน์",
-                "rank": "12"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1",
-                "lines": [
-                  "1"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด มารีฮามน์ ยิ้มหวาน",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "22:00",
-              "status": null,
-              "home_team": {
-                "raw": "[7]ลาห์ติ",
-                "name": "ลาห์ติ",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "ยาโร[10]",
-                "name": "ยาโร",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ลาห์ติ พิชิตชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[4]กนิสตัน เฮลซิงกิ",
-                "name": "กนิสตัน เฮลซิงกิ",
-                "rank": "4"
-              },
-              "away_team": {
-                "raw": "คูพีเอส[1]",
-                "name": "คูพีเอส",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.25",
-                "lines": [
-                  "0.5 0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด คูพีเอส เผด็จศึก",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "ออสเตรีย บุนเดสลีก้า (Austrian Bundesliga)",
-          "matches": [
-            {
-              "time": "22:00",
-              "status": null,
-              "home_team": {
-                "raw": "[7]ดับบริวเอสจี วัตเท่น",
-                "name": "ดับบริวเอสจี วัตเท่น",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "สตวร์มกราซ[1]",
-                "name": "สตวร์มกราซ",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -10",
-                "lines": [
-                  "0.5 0.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดสตวร์มกราซ ฟาดชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "00:30",
-              "status": null,
-              "home_team": {
-                "raw": "[2]เร้ดบูลล์ ซัลซ์บวร์ก",
-                "name": "เร้ดบูลล์ ซัลซ์บวร์ก",
-                "rank": "2"
-              },
-              "away_team": {
-                "raw": "ทีเอสวี ฮาร์ทเบิร์ก[5]",
-                "name": "ทีเอสวี ฮาร์ทเบิร์ก",
-                "rank": "5"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1.25 1.5 -10",
-                "lines": [
-                  "1.25 1.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซัลซ์บวร์ก ยิงสะดวก",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "เช็ค ดิวิชั่น1 (Gambrinus Liga)",
-          "matches": [
-            {
-              "time": "22:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]บานิค ออสตราว่า",
-                "name": "บานิค ออสตราว่า",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "สลาเวีย ปราก[2]",
-                "name": "สลาเวีย ปราก",
-                "rank": "2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดสลาเวีย น่าเชียร์",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "22:00",
-              "status": null,
-              "home_team": {
-                "raw": "[4]สโลวาน ลิเบอเรช",
-                "name": "สโลวาน ลิเบอเรช",
-                "rank": "4"
-              },
-              "away_team": {
-                "raw": "เทปลิเซ่[5]",
-                "name": "เทปลิเซ่",
-                "rank": "5"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 0.75 -10",
-                "lines": [
-                  "0.75 0.75 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด สโลวาน รอสังหาร",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "22:00",
-              "status": null,
-              "home_team": {
-                "raw": "[16]สโลวัคโก้",
-                "name": "สโลวัคโก้",
-                "rank": "16"
-              },
-              "away_team": {
-                "raw": "เอสเค ลิเซน[12]",
-                "name": "เอสเค ลิเซน",
-                "rank": "12"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 1 -5",
-                "lines": [
-                  "1 1 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด สโลวัคโก้ ซัลโวชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:00",
-              "status": null,
-              "home_team": {
-                "raw": "[13]เอฟซี วิคตอเรีย พัลเซ่น",
-                "name": "เอฟซี วิคตอเรีย พัลเซ่น",
-                "rank": "13"
-              },
-              "away_team": {
-                "raw": "เบอโน่[1]",
-                "name": "เบอโน่",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1.25 1.25 -10",
-                "lines": [
-                  "1.25 1.25 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด วิคตอเรีย เคลียร์ได้",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "รัสเซีย พรีเมียร์ลีก (Russian Premier League)",
-          "matches": [
-            {
-              "time": "18:00",
-              "status": null,
-              "home_team": {
-                "raw": "[16]แอคร่อน โตเกลียทติ",
-                "name": "แอคร่อน โตเกลียทติ",
-                "rank": "16"
-              },
-              "away_team": {
-                "raw": "รูบิน คาซาน[14]",
-                "name": "รูบิน คาซาน",
-                "rank": "14"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -5",
-                "lines": [
-                  "0.25 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด รูบิน กินนิ่ม",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "20:15",
-              "status": null,
-              "home_team": {
-                "raw": "[5]ซีเอสเคเอ มอสโก",
-                "name": "ซีเอสเคเอ มอสโก",
-                "rank": "5"
-              },
-              "away_team": {
-                "raw": "ครีลย่า โซเวียตอฟ[10]",
-                "name": "ครีลย่า โซเวียตอฟ",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 1 -5",
-                "lines": [
-                  "1 1 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซีเอสเคเอ เฮในบ้าน",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "22:30",
-              "status": null,
-              "home_team": {
-                "raw": "[7]เอฟเค มาฮัชกาลา",
-                "name": "เอฟเค มาฮัชกาลา",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "โลโคโมทีฟ มอสโก[8]",
-                "name": "โลโคโมทีฟ มอสโก",
-                "rank": "8"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด โลโคโมทีฟ หยิบชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "00:45",
-              "status": null,
-              "home_team": {
-                "raw": "[13]บัลติก้า",
-                "name": "บัลติก้า",
-                "rank": "13"
-              },
-              "away_team": {
-                "raw": "ดินาโม มอสโก[11]",
-                "name": "ดินาโม มอสโก",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด มอสโก โชว์ชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "โรมาเนีย ซุปเปอร์ลีก (Romania Super League)",
-          "matches": [
-            {
-              "time": "22:30",
-              "status": null,
-              "home_team": {
-                "raw": "[15]ซีเอส โวลุนทารี",
-                "name": "ซีเอส โวลุนทารี",
-                "rank": "15"
-              },
-              "away_team": {
-                "raw": "ยูทีเอ อารัด[14]",
-                "name": "ยูทีเอ อารัด",
-                "rank": "14"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด โวลุนทารี มีแต้ม",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:30",
-              "status": null,
-              "home_team": {
-                "raw": "[9]ซีเอส คราอิโอว่า",
-                "name": "ซีเอส คราอิโอว่า",
-                "rank": "9"
-              },
-              "away_team": {
-                "raw": "ปิโตรลูล โปรเอสติ[11]",
-                "name": "ปิโตรลูล โปรเอสติ",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1.25 1 -10",
-                "lines": [
-                  "1.25 1 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด คราอิโอว่า ซ่าในบ้าน",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "โครเอเชีย ดิวิชั่น1 (Croatia Division1)",
-          "matches": [
-            {
-              "time": "23:30",
-              "status": null,
-              "home_team": {
-                "raw": "[6]อิสทรา 1961 พูลา",
-                "name": "อิสทรา 1961 พูลา",
-                "rank": "6"
-              },
-              "away_team": {
-                "raw": "เอ็นเคโลโคโมติวา ซาเกร็บ[5]",
-                "name": "เอ็นเคโลโคโมติวา ซาเกร็บ",
-                "rank": "5"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซาเกร็บ เก็บชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "02:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]เฮชเอ็นเคกอริก้า",
-                "name": "เฮชเอ็นเคกอริก้า",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "แซดเอ็นเคโอซีเยค[9]",
-                "name": "แซดเอ็นเคโอซีเยค",
-                "rank": "9"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เฮชเอ็นเค เฮดังๆ",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "โปแลนด์ Ekstraklasa",
-          "matches": [
-            {
-              "time": "19:45",
-              "status": null,
-              "home_team": {
-                "raw": "[18]ปิแอส กลิวิส",
-                "name": "ปิแอส กลิวิส",
-                "rank": "18"
-              },
-              "away_team": {
-                "raw": "วิสล่า คราคอฟ[4]",
-                "name": "วิสล่า คราคอฟ",
-                "rank": "4"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -5",
-                "lines": [
-                  "0.25 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด วิสล่า มายิงได้",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "22:30",
-              "status": null,
-              "home_team": {
-                "raw": "[15]เคเอส วีซซิสตา กราคูฟ",
-                "name": "เคเอส วีซซิสตา กราคูฟ",
-                "rank": "15"
-              },
-              "away_team": {
-                "raw": "เลช พอซนาน[10]",
-                "name": "เลช พอซนาน",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 0.5 -10",
-                "lines": [
-                  "0.75 0.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เลช พอซนาน หวานเจี๊ยบ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:15",
-              "status": "เลื่อน",
-              "home_team": {
-                "raw": "[16]โคโรน่า คีลเซ่",
-                "name": "โคโรน่า คีลเซ่",
-                "rank": "16"
-              },
-              "away_team": {
-                "raw": "กอร์นิค ซาเบอร์เซ่[4]",
-                "name": "กอร์นิค ซาเบอร์เซ่",
-                "rank": "4"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด กอร์นิค ไม่คิดมาก",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "เวลส์ พรีเมียร์ลีก (Wales Premier League)",
-          "matches": [
-            {
-              "time": "20:30",
-              "status": null,
-              "home_team": {
-                "raw": "[7]คาร์ดิฟ เมโทรโพลิแทน",
-                "name": "คาร์ดิฟ เมโทรโพลิแทน",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "โฮลลีย์เวลล์[FAWCN-3]",
-                "name": "โฮลลีย์เวลล์",
-                "rank": "FAWCN-3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด คาร์ดิฟ แผลงฤทธิ์",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "20:30",
-              "status": null,
-              "home_team": {
-                "raw": "[9]ฮาเวอร์ฟอร์ดเวสต์เคาน์ตี้",
-                "name": "ฮาเวอร์ฟอร์ดเวสต์เคาน์ตี้",
-                "rank": "9"
-              },
-              "away_team": {
-                "raw": "แอร์บัส ยูเค บรอจตัน[FAWCN-2]",
-                "name": "แอร์บัส ยูเค บรอจตัน",
-                "rank": "FAWCN-2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1",
-                "lines": [
-                  "1"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด แอร์บัส จัดให้",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "ยูเครน พรีเมียร์ลีก (Ukrainian Premier League)",
-          "matches": [
-            {
-              "time": "17:00",
-              "status": null,
-              "home_team": {
-                "raw": "[7]ครีฟบาส",
-                "name": "ครีฟบาส",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "เอฟซี คาร์พาตี้ ลวิฟ[9]",
-                "name": "เอฟซี คาร์พาตี้ ลวิฟ",
-                "rank": "9"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.25",
-                "lines": [
-                  "0.5 0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ครีฟบาส พาสบาย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "19:30",
-              "status": null,
-              "home_team": {
-                "raw": "[5]เมตาลิสต์ 1925 คาร์คิฟ",
-                "name": "เมตาลิสต์ 1925 คาร์คิฟ",
-                "rank": "5"
-              },
-              "away_team": {
-                "raw": "เวเลซ[11]",
-                "name": "เวเลซ",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 -5",
-                "lines": [
-                  "1 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เมตาลิสต์ พิชิตชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "ไอซ์แลนด์ พรีเมียร์ (Iceland Premier League)",
-          "matches": [
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]ไอบีวี เวสต์มานเนียยาร์",
-                "name": "ไอบีวี เวสต์มานเนียยาร์",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "เฟรม เรย์จาวิค[3]",
-                "name": "เฟรม เรย์จาวิค",
-                "rank": "3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 +10",
-                "lines": [
-                  "0.5 0.5 +10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เฟรม มีเคลม",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "โปรตุเกส ซูเปอร์คัพ (Portugal Super Cup) รอบชิงชนะเลิศ",
-          "matches": [
-            {
-              "time": "02:15",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-1]ปอร์โต้",
-                "name": "ปอร์โต้",
+                "raw": "[D1-1]พีเอสวี ไอนด์โฮเฟ่น",
+                "name": "พีเอสวี ไอนด์โฮเฟ่น",
                 "rank": "D1-1"
               },
               "away_team": {
-                "raw": "เอสซี ยูเนี่ยน ตอรเรียนเซ่[D2-3]",
-                "name": "เอสซี ยูเนี่ยน ตอรเรียนเซ่",
-                "rank": "D2-3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "2.5",
-                "lines": [
-                  "2.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดปอร์โต้ โชว์สเต็ป",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "สวิตเซอร์แลนด์ ดิวิชั่น2 (Swiss Challenge League)",
-          "matches": [
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[10]อารัว",
-                "name": "อารัว",
-                "rank": "10"
-              },
-              "away_team": {
-                "raw": "สเตด โลซาน อูชชี[3]",
-                "name": "สเตด โลซาน อูชชี",
-                "rank": "3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5",
-                "lines": [
-                  "0.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อารัว ยิงชัวร์",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "สก็อตแลนด์ แชมเปี้ยนชิพ (Scotland Championship)",
-          "matches": [
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[PR-12]ลิฟวิงสตัน",
-                "name": "ลิฟวิงสตัน",
-                "rank": "PR-12"
-              },
-              "away_team": {
-                "raw": "ควีนส์ ปาร์ค[6]",
-                "name": "ควีนส์ ปาร์ค",
-                "rank": "6"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 1 +10",
-                "lines": [
-                  "1 1 +10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ควีนส์ปาร์ค ฝากได้",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]กรีน็อค มอร์ตัน",
-                "name": "กรีน็อค มอร์ตัน",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "แพททริค ทริสเทล[2]",
-                "name": "แพททริค ทริสเทล",
-                "rank": "2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 0.75 +10",
-                "lines": [
-                  "0.75 0.75 +10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดแพททริค ยิงไม่ยั้ง",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[7]อายร์ ยูไนเต็ด",
-                "name": "อายร์ ยูไนเต็ด",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "อาร์บรอท[3]",
-                "name": "อาร์บรอท",
-                "rank": "3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อายร์ สบายใจ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[L1-1]อินเวอร์เนสส์",
-                "name": "อินเวอร์เนสส์",
-                "rank": "L1-1"
-              },
-              "away_team": {
-                "raw": "ดันเฟิร์มลิน แอธเลติก[4]",
-                "name": "ดันเฟิร์มลิน แอธเลติก",
-                "rank": "4"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ - +10",
-                "lines": [
-                  "เสมอ - +10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อินเวอร์เนสส์ เกรดเอ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "21:00",
-              "status": null,
-              "home_team": {
-                "raw": "[5]เรธโรเวอร์ส",
-                "name": "เรธโรเวอร์ส",
-                "rank": "5"
-              },
-              "away_team": {
-                "raw": "สเตนเฮาส์มัวร์[L1-2]",
-                "name": "สเตนเฮาส์มัวร์",
-                "rank": "L1-2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 1 -10",
-                "lines": [
-                  "0.75 1 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เรธ โรเวอร์ส ยิงเว่อร์",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "เบลารุส พรีเมียร์ลีก (Belarus Premier League)",
-          "matches": [
-            {
-              "time": "20:10",
-              "status": null,
-              "home_team": {
-                "raw": "[11]เอฟซี บาราโนวีชี",
-                "name": "เอฟซี บาราโนวีชี",
-                "rank": "11"
-              },
-              "away_team": {
-                "raw": "เอฟเค อิสล็อก มินส์ค[3]",
-                "name": "เอฟเค อิสล็อก มินส์ค",
-                "rank": "3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดอิสล็อก หลอกยิง",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "22:10",
-              "status": null,
-              "home_team": {
-                "raw": "[4]เอฟซี โกเมล",
-                "name": "เอฟซี โกเมล",
-                "rank": "4"
-              },
-              "away_team": {
-                "raw": "เอฟเค วิเท็บส์ค[10]",
-                "name": "เอฟเค วิเท็บส์ค",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5",
-                "lines": [
-                  "0.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด โกเมล ยิงเร็ว",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "00:00",
-              "status": null,
-              "home_team": {
-                "raw": "[9]อาร์เซน่อล เดอร์ซินสค์",
-                "name": "อาร์เซน่อล เดอร์ซินสค์",
-                "rank": "9"
-              },
-              "away_team": {
-                "raw": "ตอร์ปิโด มินส์ค[7]",
-                "name": "ตอร์ปิโด มินส์ค",
-                "rank": "7"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ตอร์ปิโด ไชโย",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "เกาหลี ดิวิชั่น1 (Korea Division1)",
-          "matches": [
-            {
-              "time": "17:30",
-              "status": null,
-              "home_team": {
-                "raw": "[2]ชอนบุกฮุนไดมอเตอร์",
-                "name": "ชอนบุกฮุนไดมอเตอร์",
-                "rank": "2"
-              },
-              "away_team": {
-                "raw": "เอฟซี โซล[1]",
-                "name": "เอฟซี โซล",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ - -10",
-                "lines": [
-                  "เสมอ - -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด โซล โดนใจ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "17:30",
-              "status": null,
-              "home_team": {
-                "raw": "[3]แกงวัน เอฟซี",
-                "name": "แกงวัน เอฟซี",
-                "rank": "3"
-              },
-              "away_team": {
-                "raw": "บูโชน เอฟซี 1995[11]",
-                "name": "บูโชน เอฟซี 1995",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 1 -5",
-                "lines": [
-                  "0.75 1 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด แกงวัน มั่นใจ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "17:30",
-              "status": null,
-              "home_team": {
-                "raw": "[7]โปฮัง สตีลเลอร์",
-                "name": "โปฮัง สตีลเลอร์",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "ซังจู ซังมู ฟีนิกซ์[10]",
-                "name": "ซังจู ซังมู ฟีนิกซ์",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.25",
-                "lines": [
-                  "0.5 0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดโปฮัง ยิงฝัง",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "ฟุตบอลชิงแชมป์แห่งชาติอาเซียน (ASEAN Cup 2026) รอบแบ่งกลุ่ม",
-          "matches": [
-            {
-              "time": "17:00",
-              "status": null,
-              "home_team": {
-                "raw": "[185]ลาว",
-                "name": "ลาว",
-                "rank": "185"
-              },
-              "away_team": {
-                "raw": "ฟิลิปปินส์[135]",
-                "name": "ฟิลิปปินส์",
-                "rank": "135"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "2.25 2 -10",
-                "lines": [
-                  "2.25 2 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ฟิลิปปินส์ กินเต็ม",
-                "analysis": null
-              },
-              "live_channel": "True Sport 2 (667)"
-            },
-            {
-              "time": "20:00",
-              "status": null,
-              "home_team": {
-                "raw": "[94]ไทย",
-                "name": "ไทย",
-                "rank": "94"
-              },
-              "away_team": {
-                "raw": "มาเลเซีย[136]",
-                "name": "มาเลเซีย",
-                "rank": "136"
+                "raw": "อาแซด อัลค์มาร์[D1-7]",
+                "name": "อาแซด อัลค์มาร์",
+                "rank": "D1-7"
               },
               "score": {
                 "text": "? - ?",
@@ -1659,27 +35,713 @@
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด มาเลเซีย น่าเชียร์",
+                "text": "ทีเด็ด ไอนด์โฮเฟ่น ยิงเน้นๆ",
                 "analysis": null
               },
-              "live_channel": "True Sport 2 (667)"
+              "live_channel": null
             }
           ]
         },
         {
-          "league_name": "ไชน่า ซุปเปอร์ลีก (China Super League)",
+          "league_name": "นอร์เวย์ ดิวิชั่น 1 (Norway - Tippeligaen)",
           "matches": [
             {
-              "time": "18:00",
+              "time": "22:00",
               "status": null,
               "home_team": {
-                "raw": "[14]เทียนจิน ไทเกอร์",
-                "name": "เทียนจิน ไทเกอร์",
+                "raw": "[13]อาเลซุนด์ เอฟเค",
+                "name": "อาเลซุนด์ เอฟเค",
+                "rank": "13"
+              },
+              "away_team": {
+                "raw": "ทรอมโซ่ ไอแอล[3]",
+                "name": "ทรอมโซ่ ไอแอล",
+                "rank": "3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -5",
+                "lines": [
+                  "0.5 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ทรอมโซ่ ซัลโว",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[5]โมลด์",
+                "name": "โมลด์",
+                "rank": "5"
+              },
+              "away_team": {
+                "raw": "ชาร์ปบอร์ก 08[6]",
+                "name": "ชาร์ปบอร์ก 08",
+                "rank": "6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 1 -5",
+                "lines": [
+                  "0.75 1 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดโมลด์ โดนใจ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[14]เคเอฟยูเอ็ม ออสโล",
+                "name": "เคเอฟยูเอ็ม ออสโล",
                 "rank": "14"
               },
               "away_team": {
-                "raw": "ยูนนาน ยู่คุน[4]",
-                "name": "ยูนนาน ยู่คุน",
+                "raw": "คริสเตียนซุนด์ บีเค[15]",
+                "name": "คริสเตียนซุนด์ บีเค",
+                "rank": "15"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -10",
+                "lines": [
+                  "0.75 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด คริสเตียนซุนด์ น่าลุ้น",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:15",
+              "status": null,
+              "home_team": {
+                "raw": "[9]เอสเค บรานน์",
+                "name": "เอสเค บรานน์",
+                "rank": "9"
+              },
+              "away_team": {
+                "raw": "โรเซนบอร์ก[10]",
+                "name": "โรเซนบอร์ก",
+                "rank": "10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -10 0.5 -5",
+                "lines": [
+                  "0.5 0.5 -10 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โรเซนบอร์ก หลอกยิง",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "สวีเดน ออลสเวนส์คาน (Sweden Allsvenskan)",
+          "matches": [
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[12]บรอมมาปอจคาร์น่า",
+                "name": "บรอมมาปอจคาร์น่า",
+                "rank": "12"
+              },
+              "away_team": {
+                "raw": "มัลโม่ เอฟเอฟ[8]",
+                "name": "มัลโม่ เอฟเอฟ",
+                "rank": "8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด มัลโม่ ซัลโวชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[13]ไอเอฟเค โกเตบอร์ก",
+                "name": "ไอเอฟเค โกเตบอร์ก",
+                "rank": "13"
+              },
+              "away_team": {
+                "raw": "เดเกอร์ฟอร์ส ไอเอฟ[14]",
+                "name": "เดเกอร์ฟอร์ส ไอเอฟ",
+                "rank": "14"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -5",
+                "lines": [
+                  "0.75 0.75 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เดเกอร์ฟอร์ส หยอดได้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:30",
+              "status": null,
+              "home_team": {
+                "raw": "[6]เอไอเค โซลน่า",
+                "name": "เอไอเค โซลน่า",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "ออร์ไกร์ท[15]",
+                "name": "ออร์ไกร์ท",
+                "rank": "15"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25 1.25 -5",
+                "lines": [
+                  "1.25 1.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โซลน่าคว้าชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เดนมาร์ก ซุปเปอร์ลีก (Danish SAS Ligaen)",
+          "matches": [
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[2]มิดทิลแลนด์",
+                "name": "มิดทิลแลนด์",
+                "rank": "2"
+              },
+              "away_team": {
+                "raw": "เอซี ฮอร์เซ่นส์[9]",
+                "name": "เอซี ฮอร์เซ่นส์",
+                "rank": "9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25 1.5 -5",
+                "lines": [
+                  "1.25 1.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด มิดทิลแลนด์ แสนดี",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[7]นอร์ดเจลแลนด์",
+                "name": "นอร์ดเจลแลนด์",
+                "rank": "7"
+              },
+              "away_team": {
+                "raw": "แรนเดอร์ส[5]",
+                "name": "แรนเดอร์ส",
+                "rank": "5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 1 -5 0.75",
+                "lines": [
+                  "0.75 1 -5 0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดแรนเดอร์ส เจอชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[6]บรอนด์บี้ ไอเอฟ",
+                "name": "บรอนด์บี้ ไอเอฟ",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "วีบรอก[3]",
+                "name": "วีบรอก",
+                "rank": "3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -10",
+                "lines": [
+                  "0.5 0.5 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด วีบรอก หลอกยิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[8]ซิลเคบอร์ก",
+                "name": "ซิลเคบอร์ก",
+                "rank": "8"
+              },
+              "away_team": {
+                "raw": "เอฟซี โคเปนเฮเก้น[1]",
+                "name": "เอฟซี โคเปนเฮเก้น",
+                "rank": "1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 0.75 -10",
+                "lines": [
+                  "1 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โคเปนเฮเก้น ยิงเน้นๆ",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "สวิต ซูเปอร์ ลีก (Switzerland Super League)",
+          "matches": [
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[9]วาดุซ",
+                "name": "วาดุซ",
+                "rank": "9"
+              },
+              "away_team": {
+                "raw": "เซนต์ กัลเลน[3]",
+                "name": "เซนต์ กัลเลน",
+                "rank": "3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.5 -5",
+                "lines": [
+                  "0.25 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เซนต์ กัลเลน เย็นใจ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:30",
+              "status": null,
+              "home_team": {
+                "raw": "[8]กราสฮ็อปเปอร์",
+                "name": "กราสฮ็อปเปอร์",
+                "rank": "8"
+              },
+              "away_team": {
+                "raw": "ลูกาโน[4]",
+                "name": "ลูกาโน",
+                "rank": "4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -5",
+                "lines": [
+                  "0.5 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ลูกาโน่ ไม่ได้โม้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:30",
+              "status": null,
+              "home_team": {
+                "raw": "[10]เอฟซี ซิยง",
+                "name": "เอฟซี ซิยง",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "ลูเซิร์น[12]",
+                "name": "ลูเซิร์น",
+                "rank": "12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.5 -5",
+                "lines": [
+                  "0.75 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ซิยง ลงเก็บชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ไอร์แลนด์ พรีเมียร์ลีก (Ireland Premier League)",
+          "matches": [
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[9]วอเตอร์ฟอร์ด ยูไนเต็ด",
+                "name": "วอเตอร์ฟอร์ด ยูไนเต็ด",
+                "rank": "9"
+              },
+              "away_team": {
+                "raw": "เชลบอร์น[5]",
+                "name": "เชลบอร์น",
+                "rank": "5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 เสมอ",
+                "lines": [
+                  "0.25 เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เชลบอร์น นอนมา",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[2]เซนต์ แพตทริคส์ แอธเลติก",
+                "name": "เซนต์ แพตทริคส์ แอธเลติก",
+                "rank": "2"
+              },
+              "away_team": {
+                "raw": "เดอร์รี่ ซิตี้[6]",
+                "name": "เดอร์รี่ ซิตี้",
+                "rank": "6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -5",
+                "lines": [
+                  "0.75 0.75 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด แพตทริคส์ ยิงไม่ยั้ง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "01:00",
+              "status": null,
+              "home_team": {
+                "raw": "[3]โบฮีเมี่ยนส์",
+                "name": "โบฮีเมี่ยนส์",
+                "rank": "3"
+              },
+              "away_team": {
+                "raw": "ซัลธิลล์ เดวอน กัลเวย์[7]",
+                "name": "ซัลธิลล์ เดวอน กัลเวย์",
+                "rank": "7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 1 -5",
+                "lines": [
+                  "1 1 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โบฮีเมี่ยนส์ เนียนดี",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "สก็อตแลนด์ พรีเมียร์ลีก (Scottish Premier League)",
+          "matches": [
+            {
+              "time": "20:00",
+              "status": null,
+              "home_team": {
+                "raw": "[CH-1]เซนต์ จอห์นสโตน",
+                "name": "เซนต์ จอห์นสโตน",
+                "rank": "CH-1"
+              },
+              "away_team": {
+                "raw": "คิลมาร์น็อค[11]",
+                "name": "คิลมาร์น็อค",
+                "rank": "11"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -10 0.25 -5",
+                "lines": [
+                  "0.25 0.25 -10 0.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด คิลมาร์น็อค ยิงน็อก",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:30",
+              "status": null,
+              "home_team": {
+                "raw": "[5]ฮิเบอร์เนี่ยน",
+                "name": "ฮิเบอร์เนี่ยน",
+                "rank": "5"
+              },
+              "away_team": {
+                "raw": "มาเธอร์เวลล์[4]",
+                "name": "มาเธอร์เวลล์",
+                "rank": "4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -5 0.25 -10",
+                "lines": [
+                  "0.25 0.25 -5 0.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด มาเธอร์เวลล์ ยิงเร็ว",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ฟินแลนด์ พรีเมียร์ (Finnish Premier : Veikkausliiga)",
+          "matches": [
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[5]วีพีเอส วาซ่า",
+                "name": "วีพีเอส วาซ่า",
+                "rank": "5"
+              },
+              "away_team": {
+                "raw": "อินเตอร์ ตูร์คู[2]",
+                "name": "อินเตอร์ ตูร์คู",
+                "rank": "2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ - -10",
+                "lines": [
+                  "เสมอ - -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด วาซ่า พาสบาย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[6]เอซี โอลู",
+                "name": "เอซี โอลู",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "อิลเวส แทมเปเร่[9]",
+                "name": "อิลเวส แทมเปเร่",
+                "rank": "9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ 0.25 -5",
+                "lines": [
+                  "เสมอ 0.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โอลู กู้ชื่อ",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ออสเตรีย บุนเดสลีก้า (Austrian Bundesliga)",
+          "matches": [
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[10]โวล์ฟสเบอร์เกอร์ เอซี",
+                "name": "โวล์ฟสเบอร์เกอร์ เอซี",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "ออสเตรียเวียนนา[4]",
+                "name": "ออสเตรียเวียนนา",
                 "rank": "4"
               },
               "score": {
@@ -1695,23 +757,250 @@
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด ยูนนาน ยู่คุน ลุ้นได้",
+                "text": "ทีเด็ดออสเตรีย เชียร์สนุก",
                 "analysis": null
               },
               "live_channel": null
             },
             {
-              "time": "18:35",
+              "time": "22:00",
               "status": null,
               "home_team": {
-                "raw": "[13]เซี่ยงไฮ้ พอร์ท",
-                "name": "เซี่ยงไฮ้ พอร์ท",
+                "raw": "[D2-1]ออสเตรีย ลัสเตนัว",
+                "name": "ออสเตรีย ลัสเตนัว",
+                "rank": "D2-1"
+              },
+              "away_team": {
+                "raw": "เอสวี รีด[9]",
+                "name": "เอสวี รีด",
+                "rank": "9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ - -10",
+                "lines": [
+                  "เสมอ - -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ลัสเตนัว ชัวร์ในบ้าน",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[6]ราปิด เวียนนา",
+                "name": "ราปิด เวียนนา",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "เรนดอร์ฟ อัลทัช[8]",
+                "name": "เรนดอร์ฟ อัลทัช",
+                "rank": "8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.75 -5",
+                "lines": [
+                  "0.5 0.75 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ราปิด สะกิดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เช็ค ดิวิชั่น1 (Gambrinus Liga)",
+          "matches": [
+            {
+              "time": "20:00",
+              "status": null,
+              "home_team": {
+                "raw": "[13]ซิกม่า โอโลมุช",
+                "name": "ซิกม่า โอโลมุช",
                 "rank": "13"
               },
               "away_team": {
-                "raw": "ซานตง ไท่ซาน[6]",
-                "name": "ซานตง ไท่ซาน",
+                "raw": "มลาด้า โบเลสลาฟ[4]",
+                "name": "มลาด้า โบเลสลาฟ",
+                "rank": "4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -5",
+                "lines": [
+                  "0.75 0.75 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ซิกม่า ซ่าในบ้าน",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:30",
+              "status": null,
+              "home_team": {
+                "raw": "[15]เอฟซี โบฮีเมี่ยนส์ 1905",
+                "name": "เอฟซี โบฮีเมี่ยนส์ 1905",
+                "rank": "15"
+              },
+              "away_team": {
+                "raw": "ฮราเดตส์กราลอเว[7]",
+                "name": "ฮราเดตส์กราลอเว",
+                "rank": "7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 เสมอ",
+                "lines": [
+                  "0.25 เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด กราเลอเว เฮดัง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "01:00",
+              "status": null,
+              "home_team": {
+                "raw": "[14]ปาร์ดูบีตเซ",
+                "name": "ปาร์ดูบีตเซ",
+                "rank": "14"
+              },
+              "away_team": {
+                "raw": "เบามิต ยาโบลเนค[6]",
+                "name": "เบามิต ยาโบลเนค",
                 "rank": "6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ 0.25 -5",
+                "lines": [
+                  "เสมอ 0.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ยาโบลเนค เด็ดจริง",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "รัสเซีย พรีเมียร์ลีก (Russian Premier League)",
+          "matches": [
+            {
+              "time": "20:00",
+              "status": null,
+              "home_team": {
+                "raw": "[7]กาโซวิก โอเรนเบิร์ก",
+                "name": "กาโซวิก โอเรนเบิร์ก",
+                "rank": "7"
+              },
+              "away_team": {
+                "raw": "เซนิต เซนต์ ปีเตอร์สเบิร์ก[3]",
+                "name": "เซนิต เซนต์ ปีเตอร์สเบิร์ก",
+                "rank": "3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25",
+                "lines": [
+                  "1.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เซนิต ฯ พิชิตชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:15",
+              "status": null,
+              "home_team": {
+                "raw": "[5]เอฟซี คราซ์โนดาร์",
+                "name": "เอฟซี คราซ์โนดาร์",
+                "rank": "5"
+              },
+              "away_team": {
+                "raw": "เฟเคิล[14]",
+                "name": "เฟเคิล",
+                "rank": "14"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.5 1.5 -5",
+                "lines": [
+                  "1.5 1.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด คราซ์โนดาร์ พาสบาย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:30",
+              "status": null,
+              "home_team": {
+                "raw": "[11]เทเลค กรอซนี่ย์",
+                "name": "เทเลค กรอซนี่ย์",
+                "rank": "11"
+              },
+              "away_team": {
+                "raw": "สปาร์ตัก มอสโก[4]",
+                "name": "สปาร์ตัก มอสโก",
+                "rank": "4"
               },
               "score": {
                 "text": "? - ?",
@@ -1726,22 +1015,223 @@
                 ]
               },
               "tip": {
-                "text": "ทีเด็ดเซี่ยงไฮ้ ใส่สกอร์",
+                "text": "ทีเด็ด สปาร์ตัก ดักยิง",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "โรมาเนีย ซุปเปอร์ลีก (Romania Super League)",
+          "matches": [
+            {
+              "time": "22:30",
+              "status": null,
+              "home_team": {
+                "raw": "[10]ซีเอส ฮูเนโดอารา",
+                "name": "ซีเอส ฮูเนโดอารา",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "เซ็บซี่[12]",
+                "name": "เซ็บซี่",
+                "rank": "12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -10",
+                "lines": [
+                  "0.25 0.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เซ็บซี่ มีแต้ม",
                 "analysis": null
               },
               "live_channel": null
             },
             {
-              "time": "18:35",
+              "time": "01:30",
               "status": null,
               "home_team": {
-                "raw": "[8]ปักกิ่ง กั๋วอัน",
-                "name": "ปักกิ่ง กั๋วอัน",
+                "raw": "[6]ราปิด บูคาเรสต์",
+                "name": "ราปิด บูคาเรสต์",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "ซีเอฟอาร์ คลูจ์[8]",
+                "name": "ซีเอฟอาร์ คลูจ์",
+                "rank": "8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.5 -5",
+                "lines": [
+                  "0.25 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ราปิด สะกิดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "โครเอเชีย ดิวิชั่น1 (Croatia Division1)",
+          "matches": [
+            {
+              "time": "23:30",
+              "status": null,
+              "home_team": {
+                "raw": "[3]วาร์เท็กซ์",
+                "name": "วาร์เท็กซ์",
+                "rank": "3"
+              },
+              "away_team": {
+                "raw": "ไฮจ์ดุ๊ก สปลิต[2]",
+                "name": "ไฮจ์ดุ๊ก สปลิต",
+                "rank": "2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดไฮจ์ดุ๊ก บุกมายิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "02:00",
+              "status": null,
+              "home_team": {
+                "raw": "[4]ริเยก้า",
+                "name": "ริเยก้า",
+                "rank": "4"
+              },
+              "away_team": {
+                "raw": "รูเดส[D2-1]",
+                "name": "รูเดส",
+                "rank": "D2-1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.5 1.75 -10",
+                "lines": [
+                  "1.5 1.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด รูเดส เด็ดจริง",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "โปแลนด์ Ekstraklasa",
+          "matches": [
+            {
+              "time": "19:45",
+              "status": null,
+              "home_team": {
+                "raw": "[8]ลีเกีย วอร์ซอว์",
+                "name": "ลีเกีย วอร์ซอว์",
                 "rank": "8"
               },
               "away_team": {
-                "raw": "เจ้อเจียง กรีนทาวน์[7]",
-                "name": "เจ้อเจียง กรีนทาวน์",
+                "raw": "ซาเกลบี้ ลูบิน[4]",
+                "name": "ซาเกลบี้ ลูบิน",
+                "rank": "4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 1 -5",
+                "lines": [
+                  "1 1 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดลีเกีย วอร์ซอว์ รอยิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:30",
+              "status": null,
+              "home_team": {
+                "raw": "[14]สลาสค์ วรอคลาวน์",
+                "name": "สลาสค์ วรอคลาวน์",
+                "rank": "14"
+              },
+              "away_team": {
+                "raw": "รากูฟว์ เชสโตว์ฮาวา[15]",
+                "name": "รากูฟว์ เชสโตว์ฮาวา",
+                "rank": "15"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 เสมอ",
+                "lines": [
+                  "0.25 เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด รากูฟว์ ไม่วูบแน่",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "01:15",
+              "status": null,
+              "home_team": {
+                "raw": "[13]จีเคเอส คาโตวีตเซ",
+                "name": "จีเคเอส คาโตวีตเซ",
+                "rank": "13"
+              },
+              "away_team": {
+                "raw": "ราดอมเมียร์ก ราดอม[7]",
+                "name": "ราดอมเมียร์ก ราดอม",
                 "rank": "7"
               },
               "score": {
@@ -1751,29 +1241,333 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "0.5 0.5 -10",
                 "lines": [
-                  "1 1 -10"
+                  "0.5 0.5 -10"
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด เจ้อเจียง น่าเสี่ยง",
+                "text": "ทีเด็ด ราดอม ไม่ยอมแพ้",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เวลส์ พรีเมียร์ลีก (Wales Premier League)",
+          "matches": [
+            {
+              "time": "20:30",
+              "status": null,
+              "home_team": {
+                "raw": "[3]เพนนี่บอนท์เอฟซี",
+                "name": "เพนนี่บอนท์เอฟซี",
+                "rank": "3"
+              },
+              "away_team": {
+                "raw": "เดอะ นิว เซนต์ส[1]",
+                "name": "เดอะ นิว เซนต์ส",
+                "rank": "1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 1 -5",
+                "lines": [
+                  "1 1 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด นิว เซนต์ส เล่นดี",
                 "analysis": null
               },
               "live_channel": null
             },
             {
-              "time": "19:00",
+              "time": "20:30",
               "status": null,
               "home_team": {
-                "raw": "[1]เฉิงตู ซินเฉิง",
-                "name": "เฉิงตู ซินเฉิง",
-                "rank": "1"
+                "raw": "[2]คอนนาห์ คิวเอ็นโนแมดส์ เอฟซี",
+                "name": "คอนนาห์ คิวเอ็นโนแมดส์ เอฟซี",
+                "rank": "2"
               },
               "away_team": {
-                "raw": "อู่ฮั่น ทรี ทาวน์[15]",
-                "name": "อู่ฮั่น ทรี ทาวน์",
-                "rank": "15"
+                "raw": "แกลร์นาร์ฟอน[4]",
+                "name": "แกลร์นาร์ฟอน",
+                "rank": "4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -10",
+                "lines": [
+                  "0.25 0.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดคอนนาห์ ไม่น่าพลาด",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ยูเครน พรีเมียร์ลีก (Ukrainian Premier League)",
+          "matches": [
+            {
+              "time": "17:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-2]เชอร์โนโมเร็ตส์ โอเดสซ่า",
+                "name": "เชอร์โนโมเร็ตส์ โอเดสซ่า",
+                "rank": "D2-2"
+              },
+              "away_team": {
+                "raw": "โปลิสเซีย ฌิโตมีร์[3]",
+                "name": "โปลิสเซีย ฌิโตมีร์",
+                "rank": "3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25 1.25 -5",
+                "lines": [
+                  "1.25 1.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดโปลิสเซีย เคลียร์ได้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:30",
+              "status": null,
+              "home_team": {
+                "raw": "[10]เอฟเค เอพิตเซนเตอร์ ดูนายฟซี",
+                "name": "เอฟเค เอพิตเซนเตอร์ ดูนายฟซี",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "โอโบโลน เคียฟ[12]",
+                "name": "โอโบโลน เคียฟ",
+                "rank": "12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 +10 0.25",
+                "lines": [
+                  "0.25 0.25 +10 0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เคียฟ เฉียบขาด",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[4]ดินาโม เคียฟ",
+                "name": "ดินาโม เคียฟ",
+                "rank": "4"
+              },
+              "away_team": {
+                "raw": "เอฟซี ลิวยิ เบเรห์[D2-3]",
+                "name": "เอฟซี ลิวยิ เบเรห์",
+                "rank": "D2-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "wait",
+                "lines": [
+                  "wait"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ดินาโม ไชโย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ฮังการีดิวิชั่น1 (Hungary Division1)",
+          "matches": [
+            {
+              "time": "20:30",
+              "status": null,
+              "home_team": {
+                "raw": "[9]อูจเปสต์",
+                "name": "อูจเปสต์",
+                "rank": "9"
+              },
+              "away_team": {
+                "raw": "เดเบรเซน วีเอสซี[11]",
+                "name": "เดเบรเซน วีเอสซี",
+                "rank": "11"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดอูจเปสต์ เผด็จศึก",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:30",
+              "status": null,
+              "home_team": {
+                "raw": "[10]เฟเรนซ์วารอซี่ ทีซี",
+                "name": "เฟเรนซ์วารอซี่ ทีซี",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "วาซาส[7]",
+                "name": "วาซาส",
+                "rank": "7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 1.25 1",
+                "lines": [
+                  "1 1.25 1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เฟเรนซ์วารอซี่ รอขยี้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[8]กีโอรี่ อีทีโอ เอฟซี",
+                "name": "กีโอรี่ อีทีโอ เอฟซี",
+                "rank": "8"
+              },
+              "away_team": {
+                "raw": "ไนเรกิฮาซา[4]",
+                "name": "ไนเรกิฮาซา",
+                "rank": "4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25 1 -10 0.75 -10",
+                "lines": [
+                  "1.25 1 -10 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดกีโอรี่ ดีในบ้าน",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ไอซ์แลนด์ พรีเมียร์ (Iceland Premier League)",
+          "matches": [
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[7]อัคราเนส",
+                "name": "อัคราเนส",
+                "rank": "7"
+              },
+              "away_team": {
+                "raw": "ไวกิงเกอร์ เรยาวิค[1]",
+                "name": "ไวกิงเกอร์ เรยาวิค",
+                "rank": "1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25 1 -10",
+                "lines": [
+                  "1.25 1 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ไวกิงเกอร์ ไม่รอเก้อ",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เบลารุส พรีเมียร์ลีก (Belarus Premier League)",
+          "matches": [
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[6]ดินาโม เบรสต์",
+                "name": "ดินาโม เบรสต์",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "เอฟซี เบลชิน่า โบบรุยส์ค[14]",
+                "name": "เอฟซี เบลชิน่า โบบรุยส์ค",
+                "rank": "14"
               },
               "score": {
                 "text": "? - ?",
@@ -1788,7 +1582,239 @@
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด เฉิงตู ชูชัย",
+                "text": "ทีเด็ด ดินาโม เบรสต์ เด็ดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เกาหลี ดิวิชั่น1 (Korea Division1)",
+          "matches": [
+            {
+              "time": "17:30",
+              "status": null,
+              "home_team": {
+                "raw": "[4]วุลซาน ฮุนได โฮรางอี",
+                "name": "วุลซาน ฮุนได โฮรางอี",
+                "rank": "4"
+              },
+              "away_team": {
+                "raw": "เอฟซี อันยาง[5]",
+                "name": "เอฟซี อันยาง",
+                "rank": "5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -10",
+                "lines": [
+                  "0.5 0.5 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด วุลซาน ยิ้มหวาน",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "17:30",
+              "status": null,
+              "home_team": {
+                "raw": "[8]เจจู ยูไนเต็ด เอฟซี",
+                "name": "เจจู ยูไนเต็ด เอฟซี",
+                "rank": "8"
+              },
+              "away_team": {
+                "raw": "อินชอนยูไนเต็ด[6]",
+                "name": "อินชอนยูไนเต็ด",
+                "rank": "6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -5",
+                "lines": [
+                  "0.25 0.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เจจู น่าอยู่",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "17:30",
+              "status": null,
+              "home_team": {
+                "raw": "[11]แทจอน ซิติเซน",
+                "name": "แทจอน ซิติเซน",
+                "rank": "11"
+              },
+              "away_team": {
+                "raw": "กวางจู เอฟซี[12]",
+                "name": "กวางจู เอฟซี",
+                "rank": "12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด แทจอน ร้อนแรง",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ไชน่า ซุปเปอร์ลีก (China Super League)",
+          "matches": [
+            {
+              "time": "17:00",
+              "status": null,
+              "home_team": {
+                "raw": "[5]ชิงเต่าจงชวงเหิงไท่",
+                "name": "ชิงเต่าจงชวงเหิงไท่",
+                "rank": "5"
+              },
+              "away_team": {
+                "raw": "ชิงเต่า จงเนิ่ง[16]",
+                "name": "ชิงเต่า จงเนิ่ง",
+                "rank": "16"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -10",
+                "lines": [
+                  "0.75 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด จงชวงเหิงไท่ ใส่สกอร์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "18:35",
+              "status": null,
+              "home_team": {
+                "raw": "[10]เสิ่นหยาง เออบาน",
+                "name": "เสิ่นหยาง เออบาน",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "เซี่ยงไฮ้ เสิ่นหัว[12]",
+                "name": "เซี่ยงไฮ้ เสิ่นหัว",
+                "rank": "12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.5 +10 0.75 -10",
+                "lines": [
+                  "0.25 0.5 +10 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดเสิ่นหยาง วางใจได้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[11]เซินเจิ้น ซินเผิงเฉิง",
+                "name": "เซินเจิ้น ซินเผิงเฉิง",
+                "rank": "11"
+              },
+              "away_team": {
+                "raw": "ฉงชิ่ง ถงเหลียงหลง[2]",
+                "name": "ฉงชิ่ง ถงเหลียงหลง",
+                "rank": "2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -5",
+                "lines": [
+                  "0.25 0.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ฉงชิ่ง ยิงเก็บชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "อุรุกวัย ดิวิชั่น1 (Uruguay division1)",
+          "matches": [
+            {
+              "time": "04:30",
+              "status": null,
+              "home_team": {
+                "raw": "[A-7]เนซิออนแนล มอนเตวิเดโอ",
+                "name": "เนซิออนแนล มอนเตวิเดโอ",
+                "rank": "A-7"
+              },
+              "away_team": {
+                "raw": "คลับ อัตเลตีโก โปรแกร็บโซ่[A-15]",
+                "name": "คลับ อัตเลตีโก โปรแกร็บโซ่",
+                "rank": "A-15"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด มอนเตวิเดโอ โชว์ชัย",
                 "analysis": null
               },
               "live_channel": null
@@ -1799,16 +1825,909 @@
           "league_name": "บราซิล คัพ (Brazil Cup)",
           "matches": [
             {
-              "time": "03:30",
+              "time": "02:00",
               "status": null,
               "home_team": {
-                "raw": "[D1-18]วาสโก ดา กามา (อาร์เจ)",
-                "name": "วาสโก ดา กามา (อาร์เจ)",
-                "rank": "D1-18"
+                "raw": "[D1-1]พัลไมรัส",
+                "name": "พัลไมรัส",
+                "rank": "D1-1"
               },
               "away_team": {
-                "raw": "ฟลูมิเนนเซอาร์เจ[D1-4]",
-                "name": "ฟลูมิเนนเซอาร์เจ",
+                "raw": "ฟอร์ตาเลซ่า[D2-5]",
+                "name": "ฟอร์ตาเลซ่า",
+                "rank": "D2-5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.75 1.75 -5",
+                "lines": [
+                  "1.75 1.75 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด พัลไมรัส ซัดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "04:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-14]มิราสโซล",
+                "name": "มิราสโซล",
+                "rank": "D1-14"
+              },
+              "away_team": {
+                "raw": "เกรมิโอ้ ปอร์โต้[D1-17]",
+                "name": "เกรมิโอ้ ปอร์โต้",
+                "rank": "D1-17"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -5",
+                "lines": [
+                  "0.5 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด มิราสโซล ซัลโวชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "04:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-20]ชาเปโคเอนเซ่ เอสซี",
+                "name": "ชาเปโคเอนเซ่ เอสซี",
+                "rank": "D1-20"
+              },
+              "away_team": {
+                "raw": "ครูไซโร่ (เอ็มจี)[D1-7]",
+                "name": "ครูไซโร่ (เอ็มจี)",
+                "rank": "D1-7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -10",
+                "lines": [
+                  "0.5 0.5 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ครูไซโร่ ไม่ได้โม้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "05:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-16]อินเตอร์นาซิโอนัล",
+                "name": "อินเตอร์นาซิโอนัล",
+                "rank": "D1-16"
+              },
+              "away_team": {
+                "raw": "สปอร์ตคลับ คอรินเทียนส์ เปาลิสตา[D1-9]",
+                "name": "สปอร์ตคลับ คอรินเทียนส์ เปาลิสตา",
+                "rank": "D1-9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -10",
+                "lines": [
+                  "0.25 0.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด คอรินเทียนส์ ไม่เปลี่ยนใจ",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "อาร์เจนติน่า พรีเมียร์ ดิวิชั่น (Argentina Primera Division)",
+          "matches": [
+            {
+              "time": "00:30",
+              "status": null,
+              "home_team": {
+                "raw": "[29]อัลโดซิวี่มาร์เดลพลาต้า",
+                "name": "อัลโดซิวี่มาร์เดลพลาต้า",
+                "rank": "29"
+              },
+              "away_team": {
+                "raw": "กิมนาเซีย ลา พลาต้า[10]",
+                "name": "กิมนาเซีย ลา พลาต้า",
+                "rank": "10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ",
+                "lines": [
+                  "เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด กิมนาเซีย เคลียร์สบาย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:30",
+              "status": null,
+              "home_team": {
+                "raw": "[28]เดปอร์ติโว เรยสตาร์",
+                "name": "เดปอร์ติโว เรยสตาร์",
+                "rank": "28"
+              },
+              "away_team": {
+                "raw": "บาร์รากัส เซ็นทรัล[18]",
+                "name": "บาร์รากัส เซ็นทรัล",
+                "rank": "18"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด บาร์รากัส ยันไหว",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "03:00",
+              "status": null,
+              "home_team": {
+                "raw": "[26]นีเวลล์ โอลด์ บอยส์",
+                "name": "นีเวลล์ โอลด์ บอยส์",
+                "rank": "26"
+              },
+              "away_team": {
+                "raw": "โบคา จูเนียร์ส[3]",
+                "name": "โบคา จูเนียร์ส",
+                "rank": "3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โบคา จูเนียร์ส ไม่เสียแน่",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "05:15",
+              "status": null,
+              "home_team": {
+                "raw": "[4]ริเวอร์เพลท",
+                "name": "ริเวอร์เพลท",
+                "rank": "4"
+              },
+              "away_team": {
+                "raw": "โรซาริโอ เซ็นทรัล[7]",
+                "name": "โรซาริโอ เซ็นทรัล",
+                "rank": "7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.25 0.5 -5",
+                "lines": [
+                  "0.5 0.25 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ริเวอร์เพลท เกรดเอ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "07:30",
+              "status": null,
+              "home_team": {
+                "raw": "[12]ลานุส",
+                "name": "ลานุส",
+                "rank": "12"
+              },
+              "away_team": {
+                "raw": "อินสติทูโต เด คอลโดบา[17]",
+                "name": "อินสติทูโต เด คอลโดบา",
+                "rank": "17"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.5 -5",
+                "lines": [
+                  "0.25 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ลานุส ไม่สะดุด",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ชิลี พรีเมียร์ลีก (Chile Primera División)",
+          "matches": [
+            {
+              "time": "23:30",
+              "status": null,
+              "home_team": {
+                "raw": "[15]ดี.คอนเซ็ป",
+                "name": "ดี.คอนเซ็ป",
+                "rank": "15"
+              },
+              "away_team": {
+                "raw": "ยูนิเวอร์ซิแดต คาโตลิก้า[2]",
+                "name": "ยูนิเวอร์ซิแดต คาโตลิก้า",
+                "rank": "2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5 0.5 -5",
+                "lines": [
+                  "0.5 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด คาโตลิก้า บุกมายิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "02:00",
+              "status": null,
+              "home_team": {
+                "raw": "[12]ดิปอร์เทส ลา เซเรน่า",
+                "name": "ดิปอร์เทส ลา เซเรน่า",
+                "rank": "12"
+              },
+              "away_team": {
+                "raw": "โอ.ฮิกกิ้นส์[10]",
+                "name": "โอ.ฮิกกิ้นส์",
+                "rank": "10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ",
+                "lines": [
+                  "เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โอ ฮิกกิ้นส์ กินนิ่ม",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "04:30",
+              "status": null,
+              "home_team": {
+                "raw": "[3]ยูนิเวอร์ซิดัด เดอ ชิลี",
+                "name": "ยูนิเวอร์ซิดัด เดอ ชิลี",
+                "rank": "3"
+              },
+              "away_team": {
+                "raw": "ฮัวชิปาโต้[7]",
+                "name": "ฮัวชิปาโต้",
+                "rank": "7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดยูนิเวอร์ซิดัด จัดให้",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "โคลัมเบีย ดิวิชั่น 1 (Colombia Primera Division)",
+          "matches": [
+            {
+              "time": "03:45",
+              "status": null,
+              "home_team": {
+                "raw": "[C-19]จากูวาเรส เดอ คอร์โดบา",
+                "name": "จากูวาเรส เดอ คอร์โดบา",
+                "rank": "C-19"
+              },
+              "away_team": {
+                "raw": "อัตเลติโก นาซิอองนาล เมเดลลิน[C-13]",
+                "name": "อัตเลติโก นาซิอองนาล เมเดลลิน",
+                "rank": "C-13"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เมเดลลิน กินเรียบ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "05:45",
+              "status": null,
+              "home_team": {
+                "raw": "[C-7]อเมริกา เด กาลี",
+                "name": "อเมริกา เด กาลี",
+                "rank": "C-7"
+              },
+              "away_team": {
+                "raw": "โบญาก้า ซิโค[C-12]",
+                "name": "โบญาก้า ซิโค",
+                "rank": "C-12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25",
+                "lines": [
+                  "1.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โบญาก้า มาแบ่งแต้ม",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "08:00",
+              "status": null,
+              "home_team": {
+                "raw": "[C-15]อินดิเพนเดียนเต้ ซานตา เฟ่",
+                "name": "อินดิเพนเดียนเต้ ซานตา เฟ่",
+                "rank": "C-15"
+              },
+              "away_team": {
+                "raw": "อ็องเซ่ กัลดาส[C-6]",
+                "name": "อ็องเซ่ กัลดาส",
+                "rank": "C-6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด กัลดาส ฟาดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เม็กซิโก พรีเมียร่า ดิวิชั่น (Mexico Primera Division)",
+          "matches": [
+            {
+              "time": "06:00",
+              "status": null,
+              "home_team": {
+                "raw": "[C-7]คลับ อเมริกา",
+                "name": "คลับ อเมริกา",
+                "rank": "C-7"
+              },
+              "away_team": {
+                "raw": "ซานโตส ลากูน่า[C-16]",
+                "name": "ซานโตส ลากูน่า",
+                "rank": "C-16"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25 1.25 -10",
+                "lines": [
+                  "1.25 1.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อเมริกา เดินหน้ายิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "08:00",
+              "status": null,
+              "home_team": {
+                "raw": "[C-11]โตลูก้า",
+                "name": "โตลูก้า",
+                "rank": "C-11"
+              },
+              "away_team": {
+                "raw": "เนกาซ่า[C-5]",
+                "name": "เนกาซ่า",
+                "rank": "C-5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โคลูก้า พาสบาย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "กระชับมิตรสโมสร (Club Friendly)",
+          "matches": [
+            {
+              "time": "18:30",
+              "status": null,
+              "home_team": {
+                "raw": "[L1-20]เลย์ตัน โอเรียนท์",
+                "name": "เลย์ตัน โอเรียนท์",
+                "rank": "L1-20"
+              },
+              "away_team": {
+                "raw": "รอแยล อันท์เวิร์พ[D1-10]",
+                "name": "รอแยล อันท์เวิร์พ",
+                "rank": "D1-10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด รอแยล แจ๋วจริง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-15]ยูเนี่ยน เบอร์ลิน",
+                "name": "ยูเนี่ยน เบอร์ลิน",
+                "rank": "D1-15"
+              },
+              "away_team": {
+                "raw": "กาญารี่[D1-14]",
+                "name": "กาญารี่",
+                "rank": "D1-14"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด กาญารี่ มีชัย",
+                "analysis": null
+              },
+              "live_channel": "beIN SPORTS 3 (609)"
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-1]เออีเค เอเธนส์",
+                "name": "เออีเค เอเธนส์",
+                "rank": "D1-1"
+              },
+              "away_team": {
+                "raw": "แซงต์ ทรุยด็อง[D1-3]",
+                "name": "แซงต์ ทรุยด็อง",
+                "rank": "D1-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด แซงต์ ทรุยด็อง ส่องชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[L1-7]ลูตัน ทาวน์",
+                "name": "ลูตัน ทาวน์",
+                "rank": "L1-7"
+              },
+              "away_team": {
+                "raw": "โก อเฮด อีเกิ้ลส์[D1-12]",
+                "name": "โก อเฮด อีเกิ้ลส์",
+                "rank": "D1-12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ",
+                "lines": [
+                  "เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดโกอเฮด เด็ดแน่",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-6]อูเทร็คท์",
+                "name": "อูเทร็คท์",
+                "rank": "D1-6"
+              },
+              "away_team": {
+                "raw": "เซบีย่า[D1-3]",
+                "name": "เซบีย่า",
+                "rank": "D1-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เซบีย่า น่าต่อ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "19:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-16]โวเลนดัม",
+                "name": "โวเลนดัม",
+                "rank": "D1-16"
+              },
+              "away_team": {
+                "raw": "อาแจกซ์ อัมสเตอร์ดัม[D1-5]",
+                "name": "อาแจกซ์ อัมสเตอร์ดัม",
+                "rank": "D1-5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.5",
+                "lines": [
+                  "1.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โวเลนดัมกำชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "20:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-2]เฟเยนูร์ด ร็อตเธอร์ดัม",
+                "name": "เฟเยนูร์ด ร็อตเธอร์ดัม",
+                "rank": "D1-2"
+              },
+              "away_team": {
+                "raw": "อตาลันต้า[D1-7]",
+                "name": "อตาลันต้า",
+                "rank": "D1-7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อตาลันต้า น่าอยู่",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:00",
+              "status": null,
+              "home_team": {
+                "raw": "[PR-19]เบิร์นลี่ย์",
+                "name": "เบิร์นลี่ย์",
+                "rank": "PR-19"
+              },
+              "away_team": {
+                "raw": "โตริโน่[D1-12]",
+                "name": "โตริโน่",
+                "rank": "D1-12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เบิร์นลี่ย์ ดีจริง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "21:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-3]แทร็บซอนสปอร์",
+                "name": "แทร็บซอนสปอร์",
+                "rank": "D1-3"
+              },
+              "away_team": {
+                "raw": "อูดิเนเซ่[D1-10]",
+                "name": "อูดิเนเซ่",
+                "rank": "D1-10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "เสมอ",
+                "lines": [
+                  "เสมอ"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อูดิเนเซ่ รอเฮ",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-13]ปาร์ม่า",
+                "name": "ปาร์ม่า",
+                "rank": "D1-13"
+              },
+              "away_team": {
+                "raw": "อิราคลิส[D2N-1]",
+                "name": "อิราคลิส",
+                "rank": "D2N-1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.5",
+                "lines": [
+                  "1.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ปาร์ม่า ไม่น่าพลาด",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[LCH-7]เร็กซ์แฮม",
+                "name": "เร็กซ์แฮม",
+                "rank": "LCH-7"
+              },
+              "away_team": {
+                "raw": "ซันเดอร์แลนด์[PR-16]",
+                "name": "ซันเดอร์แลนด์",
+                "rank": "PR-16"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ซันเดอร์แลน ไม่ผิดแผน",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-7]ราซิ่ง เกงค์",
+                "name": "ราซิ่ง เกงค์",
+                "rank": "D1-7"
+              },
+              "away_team": {
+                "raw": "เอฟซี ทเวนเต้ แอ็นสเคอเด[D1-4]",
+                "name": "เอฟซี ทเวนเต้ แอ็นสเคอเด",
                 "rank": "D1-4"
               },
               "score": {
@@ -1824,1040 +2743,23 @@
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด ฟลูมิเนนเซ่ เฮสบาย",
+                "text": "ทีเด็ด ราซิ่ง เกงค์ เก่งจริง",
                 "analysis": null
               },
               "live_channel": null
             },
             {
-              "time": "05:30",
+              "time": "01:00",
               "status": null,
               "home_team": {
-                "raw": "[D1-10]อัตเลติโก มิไนโร่",
-                "name": "อัตเลติโก มิไนโร่",
-                "rank": "D1-10"
-              },
-              "away_team": {
-                "raw": "ยูเวนตูเด้[D2-3]",
-                "name": "ยูเวนตูเด้",
-                "rank": "D2-3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1",
-                "lines": [
-                  "1"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อัตเลติโก ซัลโวชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "07:00",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-15]ซานโตส",
-                "name": "ซานโตส",
-                "rank": "D1-15"
-              },
-              "away_team": {
-                "raw": "เรโม เบเลม[D1-19]",
-                "name": "เรโม เบเลม",
-                "rank": "D1-19"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 1 -10",
-                "lines": [
-                  "0.75 1 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซานโตส ทีมโปรด",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "อาร์เจนติน่า พรีเมียร์ ดิวิชั่น (Argentina Primera Division)",
-          "matches": [
-            {
-              "time": "01:30",
-              "status": null,
-              "home_team": {
-                "raw": "[30]เอสตูเดียนเตส ริโอ คูร์โต้",
-                "name": "เอสตูเดียนเตส ริโอ คูร์โต้",
-                "rank": "30"
-              },
-              "away_team": {
-                "raw": "บานฟิลด์[23]",
-                "name": "บานฟิลด์",
-                "rank": "23"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด บานฟิลด์ ซิวชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:30",
-              "status": null,
-              "home_team": {
-                "raw": "[22]กิมนาไซ เมนโดซ่า",
-                "name": "กิมนาไซ เมนโดซ่า",
-                "rank": "22"
-              },
-              "away_team": {
-                "raw": "ยูเนี่ยน ซานตา เฟ่[15]",
-                "name": "ยูเนี่ยน ซานตา เฟ่",
-                "rank": "15"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ 0.25 -5",
-                "lines": [
-                  "เสมอ 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ยูเนี่ยน ไม่เปลี่ยนใจ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "04:00",
-              "status": null,
-              "home_team": {
-                "raw": "[8]เบลกราโน่",
-                "name": "เบลกราโน่",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "อาร์เจนติโนส จูเนียร์ส[5]",
-                "name": "อาร์เจนติโนส จูเนียร์ส",
-                "rank": "5"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -5",
-                "lines": [
-                  "0.25 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เบลกราโน่ ไม่ได้โม้",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "04:00",
-              "status": null,
-              "home_team": {
-                "raw": "[2]เอสตูเดียนเตส ลา พลาต้า",
-                "name": "เอสตูเดียนเตส ลา พลาต้า",
-                "rank": "2"
-              },
-              "away_team": {
-                "raw": "เดเฟนซา วาย จัสติเชีย[20]",
-                "name": "เดเฟนซา วาย จัสติเชีย",
-                "rank": "20"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 +10",
-                "lines": [
-                  "0.5 0.5 +10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดเอสตูเดียนเตส เด็ดในบ้าน",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[16]ราซิ่ง คลับ",
-                "name": "ราซิ่ง คลับ",
-                "rank": "16"
-              },
-              "away_team": {
-                "raw": "คลับ อัตเลตีโก ติเกร[19]",
-                "name": "คลับ อัตเลตีโก ติเกร",
-                "rank": "19"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -5",
-                "lines": [
-                  "0.5 0.5 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ราซิ่ง ยิงสนุก",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "โคลัมเบีย ดิวิชั่น 1 (Colombia Primera Division)",
-          "matches": [
-            {
-              "time": "02:00",
-              "status": null,
-              "home_team": {
-                "raw": "[C-13]เดปอร์ติโบ ปาสโต้",
-                "name": "เดปอร์ติโบ ปาสโต้",
-                "rank": "C-13"
-              },
-              "away_team": {
-                "raw": "อากีลาส โดราดาส[C-8]",
-                "name": "อากีลาส โดราดาส",
-                "rank": "C-8"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5",
-                "lines": [
-                  "0.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ปาสโต้ ยิงโชว์",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "04:05",
-              "status": null,
-              "home_team": {
-                "raw": "[C-9]เอเลี่ยนซา เพตโทรลา",
-                "name": "เอเลี่ยนซา เพตโทรลา",
-                "rank": "C-9"
-              },
-              "away_team": {
-                "raw": "ดิปอร์เทส โตลิม่า[C-7]",
-                "name": "ดิปอร์เทส โตลิม่า",
-                "rank": "C-7"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด โตลิม่า มาเก็บชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:10",
-              "status": null,
-              "home_team": {
-                "raw": "[C-6]เดป.อินดิเพนเดนเต้ เมเดลลิน",
-                "name": "เดป.อินดิเพนเดนเต้ เมเดลลิน",
-                "rank": "C-6"
-              },
-              "away_team": {
-                "raw": "เดปอร์ติโว กาลี[C-5]",
-                "name": "เดปอร์ติโว กาลี",
-                "rank": "C-5"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5",
-                "lines": [
-                  "0.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เมเดลลิน กินนิ่มๆ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "08:15",
-              "status": null,
-              "home_team": {
-                "raw": "[C-14]แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
-                "name": "แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
-                "rank": "C-14"
-              },
-              "away_team": {
-                "raw": "มิลเลียนนาริออส[C-16]",
-                "name": "มิลเลียนนาริออส",
-                "rank": "C-16"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด บาแรนคิลล่า พาสบาย",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "อเมริกา เมเจอร์ลีก (American Major League)",
-          "matches": [
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[2]อินเตอร์ ไมอามี ซีเอฟ",
-                "name": "อินเตอร์ ไมอามี ซีเอฟ",
-                "rank": "2"
-              },
-              "away_team": {
-                "raw": "โคลัมบัส ครูว์[11]",
-                "name": "โคลัมบัส ครูว์",
-                "rank": "11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อินเตอร์ เจอชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[7]เอฟซี ซินซินเนติ",
-                "name": "เอฟซี ซินซินเนติ",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "ซาน โฮเซ เอิร์ธเควกส์[3]",
-                "name": "ซาน โฮเซ เอิร์ธเควกส์",
-                "rank": "3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -10",
-                "lines": [
-                  "0.5 0.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซินซินเนติ สะกิดชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[13]มอนทรีออล อิมแพ็ค",
-                "name": "มอนทรีออล อิมแพ็ค",
-                "rank": "13"
-              },
-              "away_team": {
-                "raw": "นิว อิงแลนด์ เรโวลูชั่น[3]",
-                "name": "นิว อิงแลนด์ เรโวลูชั่น",
-                "rank": "3"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด นิว อิงแลนด์ แสนดี",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[9]ดีซี ยูไนเต็ด",
-                "name": "ดีซี ยูไนเต็ด",
-                "rank": "9"
-              },
-              "away_team": {
-                "raw": "แนชวิลล์ เอฟซี[1]",
-                "name": "แนชวิลล์ เอฟซี",
-                "rank": "1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -5",
-                "lines": [
-                  "0.25 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด แนชวิลล์ เอฟซี มีชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[14]ฟิลาเดลเฟีย ยูเนียน",
-                "name": "ฟิลาเดลเฟีย ยูเนียน",
-                "rank": "14"
-              },
-              "away_team": {
-                "raw": "แอตแลนต้า ยูไนเต็ด[15]",
-                "name": "แอตแลนต้า ยูไนเต็ด",
-                "rank": "15"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75",
-                "lines": [
-                  "0.75"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด แอตแลนต้า มาแบ่งแต้ม",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[1]แวนคูเวอร์ ไวต์แคปส",
-                "name": "แวนคูเวอร์ ไวต์แคปส",
-                "rank": "1"
-              },
-              "away_team": {
-                "raw": "ลอส แอนเจลิส เอฟซี[2]",
-                "name": "ลอส แอนเจลิส เอฟซี",
-                "rank": "2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 0.5 -10",
-                "lines": [
-                  "0.75 0.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ลอส แอนเจลิส มาพิชิต",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "06:30",
-              "status": null,
-              "home_team": {
-                "raw": "[8]นิวยอร์ก เร้ด บูลล์ส",
-                "name": "นิวยอร์ก เร้ด บูลล์ส",
-                "rank": "8"
-              },
-              "away_team": {
-                "raw": "ออร์แลนโด ซิตี้[10]",
-                "name": "ออร์แลนโด ซิตี้",
-                "rank": "10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -10",
-                "lines": [
-                  "0.25 0.25 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด นิวยอร์ก ยิงหมดปลอก",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "07:30",
-              "status": null,
-              "home_team": {
-                "raw": "[15]แคนซัส วิซาร์ดส์",
-                "name": "แคนซัส วิซาร์ดส์",
-                "rank": "15"
-              },
-              "away_team": {
-                "raw": "ฮุสตัน ไดนาโม[5]",
-                "name": "ฮุสตัน ไดนาโม",
-                "rank": "5"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -10",
-                "lines": [
-                  "0.25 0.25 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ฮุสตัน ยิงสนั่น",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "07:30",
-              "status": null,
-              "home_team": {
-                "raw": "[4]ชิคาโก ไฟร์",
-                "name": "ชิคาโก ไฟร์",
-                "rank": "4"
-              },
-              "away_team": {
-                "raw": "ชาร์ลอตต์ เอฟซี[6]",
-                "name": "ชาร์ลอตต์ เอฟซี",
-                "rank": "6"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 1 -10",
-                "lines": [
-                  "1 1 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ชาร์ลอตต์ กอดชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "07:30",
-              "status": null,
-              "home_team": {
-                "raw": "[9]มินนิโซตา ยูไนเต็ด เอฟซี",
-                "name": "มินนิโซตา ยูไนเต็ด เอฟซี",
-                "rank": "9"
-              },
-              "away_team": {
-                "raw": "ซานดิเอโก เอฟซี[12]",
-                "name": "ซานดิเอโก เอฟซี",
-                "rank": "12"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -5",
-                "lines": [
-                  "0.5 0.5 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ดซานดิเอโก โชว์เหนียว",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "07:30",
-              "status": null,
-              "home_team": {
-                "raw": "[7]เซนต์หลุยส์ ซิตี้",
-                "name": "เซนต์หลุยส์ ซิตี้",
-                "rank": "7"
-              },
-              "away_team": {
-                "raw": "รีล ซอลต์ เลค[4]",
-                "name": "รีล ซอลต์ เลค",
-                "rank": "4"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เซนต์หลุยส์ ลุยแหลก",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "08:30",
-              "status": null,
-              "home_team": {
-                "raw": "[13]โคโลราโด ราปิดส์",
-                "name": "โคโลราโด ราปิดส์",
-                "rank": "13"
-              },
-              "away_team": {
-                "raw": "ออสติน เอฟซี[14]",
-                "name": "ออสติน เอฟซี",
-                "rank": "14"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.75 0.75 -10",
-                "lines": [
-                  "0.75 0.75 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ราปิดส์ ฤทธิ์เยอะ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "09:30",
-              "status": null,
-              "home_team": {
-                "raw": "[11]แอลเอ กาแลกซี่",
-                "name": "แอลเอ กาแลกซี่",
-                "rank": "11"
-              },
-              "away_team": {
-                "raw": "เอฟซี ดัลลัส[6]",
-                "name": "เอฟซี ดัลลัส",
-                "rank": "6"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -10",
-                "lines": [
-                  "0.25 0.25 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ดัลลัส จัดเน้นๆ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "09:45",
-              "status": null,
-              "home_team": {
-                "raw": "[10]พอร์ทแลนด์ ทิมเบอร์ส",
-                "name": "พอร์ทแลนด์ ทิมเบอร์ส",
-                "rank": "10"
-              },
-              "away_team": {
-                "raw": "ซีแอตเทิล ซาวน์เดอร์[8]",
-                "name": "ซีแอตเทิล ซาวน์เดอร์",
-                "rank": "8"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด พอร์ทแลนด์ ไม่ผิดแผน",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "เม็กซิโก พรีเมียร่า ดิวิชั่น (Mexico Primera Division)",
-          "matches": [
-            {
-              "time": "06:00",
-              "status": null,
-              "home_team": {
-                "raw": "[C-10]กัวเรตาโร่ เอฟซี",
-                "name": "กัวเรตาโร่ เอฟซี",
-                "rank": "C-10"
-              },
-              "away_team": {
-                "raw": "ไทเกรส ยูเอเอ็นแอล[C-15]",
-                "name": "ไทเกรส ยูเอเอ็นแอล",
-                "rank": "C-15"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5 0.5 -5",
-                "lines": [
-                  "0.5 0.5 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ไทเกรส สำแดงเดช",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "08:00",
-              "status": null,
-              "home_team": {
-                "raw": "[C-3]อัตลาส",
-                "name": "อัตลาส",
-                "rank": "C-3"
-              },
-              "away_team": {
-                "raw": "มอนเทอร์เรย์[C-8]",
-                "name": "มอนเทอร์เรย์",
-                "rank": "C-8"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ - -10",
-                "lines": [
-                  "เสมอ - -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อัตลาส กวาดชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "08:00",
-              "status": null,
-              "home_team": {
-                "raw": "[C-17]คลับ เลออน",
-                "name": "คลับ เลออน",
-                "rank": "C-17"
-              },
-              "away_team": {
-                "raw": "ปาชูก้า[C-6]",
-                "name": "ปาชูก้า",
-                "rank": "C-6"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25 0.25 -5",
-                "lines": [
-                  "0.25 0.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ปาชูก้า น่าอยู่",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "10:00",
-              "status": null,
-              "home_team": {
-                "raw": "[C-2]ครูซ อาซูล",
-                "name": "ครูซ อาซูล",
-                "rank": "C-2"
-              },
-              "away_team": {
-                "raw": "ซีเอฟ แอตแลนเต้[C-14]",
-                "name": "ซีเอฟ แอตแลนเต้",
-                "rank": "C-14"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1.5 1.5 -10",
-                "lines": [
-                  "1.5 1.5 -10"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ครูซ อาซูล ชูชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            }
-          ]
-        },
-        {
-          "league_name": "กระชับมิตรสโมสร (Club Friendly)",
-          "matches": [
-            {
-              "time": "16:45",
-              "status": null,
-              "home_team": {
-                "raw": "[PR-3]เชลซี",
-                "name": "เชลซี",
-                "rank": "PR-3"
-              },
-              "away_team": {
-                "raw": "ท็อตแน่ม ฮ็อทสเปอร์[PR-10]",
-                "name": "ท็อตแน่ม ฮ็อทสเปอร์",
-                "rank": "PR-10"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด สเปอร์ เจอชัย",
-                "analysis": null
-              },
-              "live_channel": "MonoMax"
-            },
-            {
-              "time": "17:00",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-8]เอฟซี โตเกียว",
-                "name": "เอฟซี โตเกียว",
-                "rank": "D1-8"
-              },
-              "away_team": {
-                "raw": "โบรุสเซีย ดอร์ทมุนด์[D1-2]",
-                "name": "โบรุสเซีย ดอร์ทมุนด์",
-                "rank": "D1-2"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.5",
-                "lines": [
-                  "0.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ดอร์ทมุนด์ น่าลุ้น",
-                "analysis": null
-              },
-              "live_channel": "YOUTUBE"
-            },
-            {
-              "time": "18:30",
-              "status": null,
-              "home_team": {
-                "raw": "[PR-5]แมนเชสเตอร์ ซิตี้",
-                "name": "แมนเชสเตอร์ ซิตี้",
-                "rank": "PR-5"
-              },
-              "away_team": {
-                "raw": "อินเตอร์ มิลาน[D1-1]",
-                "name": "อินเตอร์ มิลาน",
+                "raw": "[D1-1]กาลาตาซาราย",
+                "name": "กาลาตาซาราย",
                 "rank": "D1-1"
               },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 0.5 -5",
-                "lines": [
-                  "1 0.5 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด แมนฯ ซิตี้ มีชัย",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
-                "raw": "รวมดาว ซูเปอร์ลีก อินโดนีเซีย",
-                "name": "รวมดาว ซูเปอร์ลีก อินโดนีเซีย",
-                "rank": null
-              },
               "away_team": {
-                "raw": "แอสตัน วิลล่า[PR-2]",
-                "name": "แอสตัน วิลล่า",
-                "rank": "PR-2"
+                "raw": "แรนส์[D1-7]",
+                "name": "แรนส์",
+                "rank": "D1-7"
               },
               "score": {
                 "text": "? - ?",
@@ -2866,28 +2768,28 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "3.25",
+                "raw": "0.5",
                 "lines": [
-                  "3.25"
+                  "0.5"
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด วิลล่า คว้าชัย",
+                "text": "ทีเด็ด กาลาตาซาราย สบายใจ",
                 "analysis": null
               },
               "live_channel": null
             },
             {
-              "time": "19:15",
+              "time": "01:45",
               "status": null,
               "home_team": {
-                "raw": "[PR-15]ไบรท์ตัน โฮฟ อัลเบี้ยน",
-                "name": "ไบรท์ตัน โฮฟ อัลเบี้ยน",
-                "rank": "PR-15"
+                "raw": "[SC-2]อัสโคลี่",
+                "name": "อัสโคลี่",
+                "rank": "SC-2"
               },
               "away_team": {
-                "raw": "สตารส์บูร์ก[D1-9]",
-                "name": "สตารส์บูร์ก",
+                "raw": "ลาซิโอ[D1-9]",
+                "name": "ลาซิโอ",
                 "rank": "D1-9"
               },
               "score": {
@@ -2897,29 +2799,29 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "1.5",
                 "lines": [
-                  "wait"
+                  "1.5"
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด ไบรท์ตัน ไม่หวั่นไหว",
+                "text": "ทีเด็ด ลาซิโอ โก้จริงๆ",
                 "analysis": null
               },
               "live_channel": null
             },
             {
-              "time": "20:00",
+              "time": "03:00",
               "status": null,
               "home_team": {
-                "raw": "[PR-6]แมนเชสเตอร์ ยูไนเต็ด",
-                "name": "แมนเชสเตอร์ ยูไนเต็ด",
-                "rank": "PR-6"
+                "raw": "[PR-4]ลิเวอร์พูล",
+                "name": "ลิเวอร์พูล",
+                "rank": "PR-4"
               },
               "away_team": {
-                "raw": "แอตเลติโก้ มาดริด[D1-16]",
-                "name": "แอตเลติโก้ มาดริด",
-                "rank": "D1-16"
+                "raw": "ลีดส์ ยูไนเต็ด[PR-13]",
+                "name": "ลีดส์ ยูไนเต็ด",
+                "rank": "PR-13"
               },
               "score": {
                 "text": "? - ?",
@@ -2928,233 +2830,16 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.75",
                 "lines": [
-                  "0.25"
+                  "0.75"
                 ]
               },
               "tip": {
-                "text": "ทีเด็ด แมนฯ ยูไนเต็ด เด็ดกว่า",
+                "text": "ทีเด็ด ลิเวอร์พูล ชูชัย",
                 "analysis": null
               },
-              "live_channel": "แมนยู ทีวี"
-            },
-            {
-              "time": "22:00",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-7]ฮัมบูร์ก",
-                "name": "ฮัมบูร์ก",
-                "rank": "D1-7"
-              },
-              "away_team": {
-                "raw": "เอฟเวอร์ตัน[PR-9]",
-                "name": "เอฟเวอร์ตัน",
-                "rank": "PR-9"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เอฟเวอร์ตัน ยันไหว",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[PR-20]วูล์ฟแฮมป์ตัน",
-                "name": "วูล์ฟแฮมป์ตัน",
-                "rank": "PR-20"
-              },
-              "away_team": {
-                "raw": "ราซิ่ง ซานตานเดร์[D1-13]",
-                "name": "ราซิ่ง ซานตานเดร์",
-                "rank": "D1-13"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "wait",
-                "lines": [
-                  "wait"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ซานตานเดร์ รอเฮ",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-13]คาซิมปาซ่า",
-                "name": "คาซิมปาซ่า",
-                "rank": "D1-13"
-              },
-              "away_team": {
-                "raw": "ฮัลล์ ซิตี้[PR-20]",
-                "name": "ฮัลล์ ซิตี้",
-                "rank": "PR-20"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ฮัลล์ ยิงมันส์",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:00",
-              "status": null,
-              "home_team": {
-                "raw": "[SPA D1-1]เรอัล มาดริด",
-                "name": "เรอัล มาดริด",
-                "rank": "SPA D1-1"
-              },
-              "away_team": {
-                "raw": "ฟิออเรนติน่า[ITA D1-15]",
-                "name": "ฟิออเรนติน่า",
-                "rank": "ITA D1-15"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1",
-                "lines": [
-                  "1"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด เรอัล กระหน่ำยิง",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "23:30",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-18]ซังค์ เพาลี",
-                "name": "ซังค์ เพาลี",
-                "rank": "D1-18"
-              },
-              "away_team": {
-                "raw": "เดปอร์ติโบ ลา คอรุนญ่า[D1-6]",
-                "name": "เดปอร์ติโบ ลา คอรุนญ่า",
-                "rank": "D1-6"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "เสมอ",
-                "lines": [
-                  "เสมอ"
-                ]
-              },
-              "tip": {
-                "text": "",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:00",
-              "status": null,
-              "home_team": {
-                "raw": "[D1-19]คิโรน่า",
-                "name": "คิโรน่า",
-                "rank": "D1-19"
-              },
-              "away_team": {
-                "raw": "อาร์เซน่อล[PR-1]",
-                "name": "อาร์เซน่อล",
-                "rank": "PR-1"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1 0.5",
-                "lines": [
-                  "1 0.5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อาร์เซน่อล นอนมา",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "01:30",
-              "status": null,
-              "home_team": {
-                "raw": "[LCH-23]เลสเตอร์ ซิตี้",
-                "name": "เลสเตอร์ ซิตี้",
-                "rank": "LCH-23"
-              },
-              "away_team": {
-                "raw": "เจนัว[D1-16]",
-                "name": "เจนัว",
-                "rank": "D1-16"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "",
-                "analysis": null
-              },
-              "live_channel": null
+              "live_channel": "MonoMax"
             }
           ]
         }
@@ -3162,8 +2847,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 29,
-  "total_matches": 97,
+  "total_leagues": 28,
+  "total_matches": 87,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
