@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-08-04T07:05:14.269Z",
+  "scraped_at": "2026-08-04T11:36:17.224Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -5",
+                "raw": "0.5 0.5 -5 0.25 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -5"
+                  "0.5 0.5 -5 0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -91,9 +91,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.75 -10 0.75",
                 "lines": [
-                  "0.5"
+                  "0.5 0.75 -10 0.75"
                 ]
               },
               "tip": {
@@ -153,9 +153,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -184,9 +184,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25 -5 เสมอ",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25 -5 เสมอ"
                 ]
               },
               "tip": {
@@ -246,9 +246,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2 2 -10",
+                "raw": "2 2 -10 2",
                 "lines": [
-                  "2 2 -10"
+                  "2 2 -10 2"
                 ]
               },
               "tip": {
@@ -349,13 +349,80 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25 -5",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25 -5"
                 ]
               },
               "tip": {
                 "text": "ทีเด็ด ออดา ริกา มาตามนัด",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "อิสราเอล โตโต้ คัพ (Israel toto cup)",
+          "matches": [
+            {
+              "time": "23:45",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-9]ฮาโปเอล เคอร์ยัต",
+                "name": "ฮาโปเอล เคอร์ยัต",
+                "rank": "D1-9"
+              },
+              "away_team": {
+                "raw": "ฮาโปเอล เบนายซัคนิน[D1-8]",
+                "name": "ฮาโปเอล เบนายซัคนิน",
+                "rank": "D1-8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดเคอร์ยัต จัดให้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-5]มัคคาบี้ ไฮฟา",
+                "name": "มัคคาบี้ ไฮฟา",
+                "rank": "D1-5"
+              },
+              "away_team": {
+                "raw": "ไอรอนนี่ ทริเบอเรียส[D1-13]",
+                "name": "ไอรอนนี่ ทริเบอเรียส",
+                "rank": "D1-13"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดมัคคาบี้ ขยี้แหลก",
                 "analysis": null
               },
               "live_channel": null
@@ -385,13 +452,142 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 0.75 -10",
                 "lines": [
-                  "0.75"
+                  "0.75 0.75 -10"
                 ]
               },
               "tip": {
                 "text": "ทีเด็ด เบรย์ดาบลิค ไม่พลิกแน่",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "เดนมาร์ก คัพ (Denmark Cup)",
+          "matches": [
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[]วิไบ ไอเอฟ",
+                "name": "วิไบ ไอเอฟ",
+                "rank": null
+              },
+              "away_team": {
+                "raw": "เอเอสเอ อาร์ฮุส[DEN D3-7]",
+                "name": "เอเอสเอ อาร์ฮุส",
+                "rank": "DEN D3-7"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 1 +10",
+                "lines": [
+                  "1 1 +10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดอาร์ฮุส ฉุดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:30",
+              "status": null,
+              "home_team": {
+                "raw": "[DEN D3-8]บรอนชอยจ์",
+                "name": "บรอนชอยจ์",
+                "rank": "DEN D3-8"
+              },
+              "away_team": {
+                "raw": "เฮอฟอล์จ โคเก้[DEN D1-12]",
+                "name": "เฮอฟอล์จ โคเก้",
+                "rank": "DEN D1-12"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -10",
+                "lines": [
+                  "0.75 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดบรอนชอยจ์ สอยชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:30",
+              "status": null,
+              "home_team": {
+                "raw": "[]โคลดิงค์บีเค",
+                "name": "โคลดิงค์บีเค",
+                "rank": null
+              },
+              "away_team": {
+                "raw": "นาสบี้[DEN D3-3]",
+                "name": "นาสบี้",
+                "rank": "DEN D3-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.5 1.5 -5",
+                "lines": [
+                  "1.5 1.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดโคลดิงค์ ยิงชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[DEN D2-10]เอฟเค 2000",
+                "name": "เอฟเค 2000",
+                "rank": "DEN D2-10"
+              },
+              "away_team": {
+                "raw": "เฟรมัด อเมเจอร์[DEN D2-5]",
+                "name": "เฟรมัด อเมเจอร์",
+                "rank": "DEN D2-5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.25 -10",
+                "lines": [
+                  "0.25 0.25 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดอเมเจอร์ เจอชัย",
                 "analysis": null
               },
               "live_channel": null
@@ -421,9 +617,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 เสมอ 0.25 -10",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 เสมอ 0.25 -10"
                 ]
               },
               "tip": {
@@ -452,9 +648,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 +10",
+                "raw": "0.25 0.25 +10 0.25 0.5 -5",
                 "lines": [
-                  "0.25 0.25 +10"
+                  "0.25 0.25 +10 0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -483,9 +679,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 +10",
+                "raw": "0.25 0.25 +10 0.5 -5",
                 "lines": [
-                  "0.25 0.25 +10"
+                  "0.25 0.25 +10 0.5 -5"
                 ]
               },
               "tip": {
@@ -514,9 +710,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ - -10 เสมอ",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ - -10 เสมอ"
                 ]
               },
               "tip": {
@@ -544,15 +740,15 @@
                 "rank": "185"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "5 - 2",
+                "home": 5,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
-                "raw": "2.5",
+                "raw": "2.5 2.25",
                 "lines": [
-                  "2.5"
+                  "2.5 2.25"
                 ]
               },
               "tip": {
@@ -581,9 +777,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1.25 +10",
+                "raw": "1 1.25 +10 1.5",
                 "lines": [
-                  "1 1.25 +10"
+                  "1 1.25 +10 1.5"
                 ]
               },
               "tip": {
@@ -808,9 +1004,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 +10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 +10"
                 ]
               },
               "tip": {
@@ -844,9 +1040,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 เสมอ",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 เสมอ"
                 ]
               },
               "tip": {
@@ -875,9 +1071,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25 -5",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25 -5"
                 ]
               },
               "tip": {
@@ -973,9 +1169,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 1",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 1"
                 ]
               },
               "tip": {
@@ -1009,9 +1205,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -1101,15 +1297,15 @@
                 "rank": "D1-1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "2.5",
+                "raw": "2.5 2.75 +10 2.5 -5",
                 "lines": [
-                  "2.5"
+                  "2.5 2.75 +10 2.5 -5"
                 ]
               },
               "tip": {
@@ -1138,9 +1334,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "3.5",
+                "raw": "3.5 2.25 -5 2",
                 "lines": [
-                  "3.5"
+                  "3.5 2.25 -5 2"
                 ]
               },
               "tip": {
@@ -1148,6 +1344,130 @@
                 "analysis": null
               },
               "live_channel": "YOUTUBE"
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[PR-18]บอร์นมัธ เอเอฟซี",
+                "name": "บอร์นมัธ เอเอฟซี",
+                "rank": "PR-18"
+              },
+              "away_team": {
+                "raw": "เจนัว[D1-16]",
+                "name": "เจนัว",
+                "rank": "D1-16"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1",
+                "lines": [
+                  "1"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดบอร์นมัธ จัดให้",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[SPL-1]อันนัศร์",
+                "name": "อันนัศร์",
+                "rank": "SPL-1"
+              },
+              "away_team": {
+                "raw": "อัลเมเรีย[D2-3]",
+                "name": "อัลเมเรีย",
+                "rank": "D2-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อันนัศร์ ซัดกระจาย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:00",
+              "status": null,
+              "home_team": {
+                "raw": "[LCH-9]นอริช ซิตี้",
+                "name": "นอริช ซิตี้",
+                "rank": "LCH-9"
+              },
+              "away_team": {
+                "raw": "เคมบริดจ์ ยูไนเต็ด[L2-3]",
+                "name": "เคมบริดจ์ ยูไนเต็ด",
+                "rank": "L2-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.75",
+                "lines": [
+                  "1.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด นอริช แผลงฤทธิ์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "23:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D1-9]สตารส์บูร์ก",
+                "name": "สตารส์บูร์ก",
+                "rank": "D1-9"
+              },
+              "away_team": {
+                "raw": "เอสวี เอลเวอร์เบริ์ก[D1-13]",
+                "name": "เอสวี เอลเวอร์เบริ์ก",
+                "rank": "D1-13"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.5",
+                "lines": [
+                  "0.75 0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด สตราส์บูร์ก บุกแหลก",
+                "analysis": null
+              },
+              "live_channel": null
             },
             {
               "time": "00:00",
@@ -1181,6 +1501,68 @@
               "live_channel": null
             },
             {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-16]เลกาเนส",
+                "name": "เลกาเนส",
+                "rank": "D2-16"
+              },
+              "away_team": {
+                "raw": "อัล เรย์ยาน[D1-2]",
+                "name": "อัล เรย์ยาน",
+                "rank": "D1-2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 0.75",
+                "lines": [
+                  "1 0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อัล เรย์ยาน ต้านไหว",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-20]ฮูเอสก้า",
+                "name": "ฮูเอสก้า",
+                "rank": "D2-20"
+              },
+              "away_team": {
+                "raw": "ยูดี โลโกรนเยส[D42-3]",
+                "name": "ยูดี โลโกรนเยส",
+                "rank": "D42-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ฮูเอสก้า เดินหน้ายิง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "01:00",
               "status": null,
               "home_team": {
@@ -1200,13 +1582,44 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5",
+                "raw": "1.5 2.5 -10",
                 "lines": [
-                  "1.5"
+                  "1.5 2.5 -10"
                 ]
               },
               "tip": {
                 "text": "ทีเด็ด โรม่า ล่าชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "01:30",
+              "status": null,
+              "home_team": {
+                "raw": "[L1-23]ร็อตเธอร์แฮม ยูไนเต็ด",
+                "name": "ร็อตเธอร์แฮม ยูไนเต็ด",
+                "rank": "L1-23"
+              },
+              "away_team": {
+                "raw": "ดาร์บี้ เค้าท์ตี้[LCH-8]",
+                "name": "ดาร์บี้ เค้าท์ตี้",
+                "rank": "LCH-8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75 0.75 -5 0.75 -10",
+                "lines": [
+                  "0.75 0.75 -5 0.75 -10"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดร็อตเตอร์แฮม แจ่มแน่",
                 "analysis": null
               },
               "live_channel": null
@@ -1231,9 +1644,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 +10 0.5",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 +10 0.5"
                 ]
               },
               "tip": {
@@ -1267,9 +1680,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.25",
                 "lines": [
-                  "0.5"
+                  "0.5 0.25"
                 ]
               },
               "tip": {
@@ -1329,9 +1742,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -1360,9 +1773,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.5 +10",
+                "raw": "0.75 0.5 +10 0.75 -5",
                 "lines": [
-                  "0.75 0.5 +10"
+                  "0.75 0.5 +10 0.75 -5"
                 ]
               },
               "tip": {
@@ -1391,9 +1804,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 +10",
+                "raw": "0.25 0.25 +10 0.25 -10",
                 "lines": [
-                  "0.25 0.25 +10"
+                  "0.25 0.25 +10 0.25 -10"
                 ]
               },
               "tip": {
@@ -1439,8 +1852,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 13,
-  "total_matches": 44,
+  "total_leagues": 15,
+  "total_matches": 57,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
