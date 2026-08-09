@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-08-09T05:27:07.145Z",
+  "scraped_at": "2026-08-09T10:00:59.404Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -201,6 +201,73 @@
               },
               "tip": {
                 "text": "ทีเด็ด ฮีเรนวีน กินนิ่ม",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "โคปา อิตาเลีย คัพ (Coppa Italia Cup)",
+          "matches": [
+            {
+              "time": "00:45",
+              "status": null,
+              "home_team": {
+                "raw": "[SC-1]อาเรสโซ่",
+                "name": "อาเรสโซ่",
+                "rank": "SC-1"
+              },
+              "away_team": {
+                "raw": "เบรสชา[SC-2]",
+                "name": "เบรสชา",
+                "rank": "SC-2"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เบรสชา น่ารอง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "02:00",
+              "status": null,
+              "home_team": {
+                "raw": "[SC-1]เบเนเวนโต้",
+                "name": "เบเนเวนโต้",
+                "rank": "SC-1"
+              },
+              "away_team": {
+                "raw": "ราเวนน่า[SC-3]",
+                "name": "ราเวนน่า",
+                "rank": "SC-3"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด เบเนเวนโต้ โก้จริงๆ",
                 "analysis": null
               },
               "live_channel": null
@@ -2112,10 +2179,10 @@
                 "rank": "D1-5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 3",
+                "home": 1,
+                "away": 3,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -2486,6 +2553,37 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
+              "time": "17:00",
+              "status": null,
+              "home_team": {
+                "raw": "[PR-12]ราดอมเมียร์ก ราดอม",
+                "name": "ราดอมเมียร์ก ราดอม",
+                "rank": "PR-12"
+              },
+              "away_team": {
+                "raw": "เออีเอล ลิมาสซอล[D1-8]",
+                "name": "เออีเอล ลิมาสซอล",
+                "rank": "D1-8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ลิมาสซอล ร้อนแรง",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
               "time": "18:00",
               "status": null,
               "home_team": {
@@ -2613,6 +2711,37 @@
               "time": "22:30",
               "status": null,
               "home_team": {
+                "raw": "[D2-7]ยูเว่ สตาเบีย",
+                "name": "ยูเว่ สตาเบีย",
+                "rank": "D2-7"
+              },
+              "away_team": {
+                "raw": "นูโว คัมโปบัสโซ[SC-4]",
+                "name": "นูโว คัมโปบัสโซ",
+                "rank": "SC-4"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25",
+                "lines": [
+                  "1.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด สตาเบีย รอเคลียร์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "22:30",
+              "status": null,
+              "home_team": {
                 "raw": "[D1-4]โอลิมปิก มาร์กเซย",
                 "name": "โอลิมปิก มาร์กเซย",
                 "rank": "D1-4"
@@ -2667,6 +2796,37 @@
               },
               "tip": {
                 "text": "ทีเด็ดซามโดเรีย น่าเชียร์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "01:30",
+              "status": null,
+              "home_team": {
+                "raw": "[D2-11]มานโตวา",
+                "name": "มานโตวา",
+                "rank": "D2-11"
+              },
+              "away_team": {
+                "raw": "คาร์ปิ[SC-13]",
+                "name": "คาร์ปิ",
+                "rank": "SC-13"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1.25",
+                "lines": [
+                  "1.25"
+                ]
+              },
+              "tip": {
+                "text": "",
                 "analysis": null
               },
               "live_channel": null
@@ -2961,8 +3121,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 26,
-  "total_matches": 91,
+  "total_leagues": 27,
+  "total_matches": 96,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
