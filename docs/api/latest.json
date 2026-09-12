@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-09-12T08:42:32.271Z",
+  "scraped_at": "2026-09-12T12:56:44.718Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1.25 -10 1.25 -5",
+                "raw": "1.25 1.25 -10 1.25 -5 1",
                 "lines": [
-                  "1.25 1.25 -10 1.25 -5"
+                  "1.25 1.25 -10 1.25 -5 1"
                 ]
               },
               "tip": {
@@ -82,9 +82,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2 2 -5",
+                "raw": "2 2 -5 2 -10",
                 "lines": [
-                  "2 2 -5"
+                  "2 2 -5 2 -10"
                 ]
               },
               "tip": {
@@ -349,9 +349,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "1 1 -10 1 -5",
                 "lines": [
-                  "1 1 -10"
+                  "1 1 -10 1 -5"
                 ]
               },
               "tip": {
@@ -406,9 +406,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75 2 -5",
+                "raw": "1.75 2 -5 1.75",
                 "lines": [
-                  "1.75 2 -5"
+                  "1.75 2 -5 1.75"
                 ]
               },
               "tip": {
@@ -458,9 +458,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -5 0.5",
+                "raw": "0.75 0.75 -5 0.5 0.5 -10",
                 "lines": [
-                  "0.75 0.75 -5 0.5"
+                  "0.75 0.75 -5 0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -561,9 +561,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.25 -5",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.25 -5"
                 ]
               },
               "tip": {
@@ -611,9 +611,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.5 -5 0.5",
+                "raw": "0.25 0.5 -5 0.5 0.75 -5",
                 "lines": [
-                  "0.25 0.5 -5 0.5"
+                  "0.25 0.5 -5 0.5 0.75 -5"
                 ]
               },
               "tip": {
@@ -767,9 +767,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5 0.25 -10",
+                "raw": "0.25 0.25 -5 0.25 -10 0.5 -5",
                 "lines": [
-                  "0.25 0.25 -5 0.25 -10"
+                  "0.25 0.25 -5 0.25 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -858,7 +858,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[13]ราซิ่ง ซานตานเดร์",
                 "name": "ราซิ่ง ซานตานเดร์",
@@ -870,10 +870,10 @@
                 "rank": "2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -1029,9 +1029,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2.25 2.5 -10 2.5 -5",
+                "raw": "2.25 2.5 -10 2.5 -5 2.25",
                 "lines": [
-                  "2.25 2.5 -10 2.5 -5"
+                  "2.25 2.5 -10 2.5 -5 2.25"
                 ]
               },
               "tip": {
@@ -1087,9 +1087,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -1218,9 +1218,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.25 -5",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.25 -5"
                 ]
               },
               "tip": {
@@ -1249,9 +1249,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 เสมอ - -10",
+                "raw": "0.25 เสมอ - -10 เสมอ",
                 "lines": [
-                  "0.25 เสมอ - -10"
+                  "0.25 เสมอ - -10 เสมอ"
                 ]
               },
               "tip": {
@@ -1279,15 +1279,15 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.25 0.5 -5",
+                "raw": "0.25 0.5 -5 0.25 -10",
                 "lines": [
-                  "0.25 0.5 -5"
+                  "0.25 0.5 -5 0.25 -10"
                 ]
               },
               "tip": {
@@ -1310,15 +1310,15 @@
                 "rank": "14"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -1341,10 +1341,10 @@
                 "rank": "20"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -1409,9 +1409,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -1502,9 +1502,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ - -10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ - -10"
                 ]
               },
               "tip": {
@@ -1600,9 +1600,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2 2 -5 1.75 -10",
+                "raw": "2 2 -5 1.75 -10 2 -5",
                 "lines": [
-                  "2 2 -5 1.75 -10"
+                  "2 2 -5 1.75 -10 2 -5"
                 ]
               },
               "tip": {
@@ -1662,9 +1662,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.25 1.25 -10 1.25",
+                "raw": "1.25 1.25 -10 1.25 1.5 -5",
                 "lines": [
-                  "1.25 1.25 -10 1.25"
+                  "1.25 1.25 -10 1.25 1.5 -5"
                 ]
               },
               "tip": {
@@ -1693,9 +1693,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -10",
+                "raw": "1 1 -10 1 -5",
                 "lines": [
-                  "1 1 -10"
+                  "1 1 -10 1 -5"
                 ]
               },
               "tip": {
@@ -1760,9 +1760,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.5 1.75 -5",
+                "raw": "1.5 1.75 -5 1.75 -10",
                 "lines": [
-                  "1.5 1.75 -5"
+                  "1.5 1.75 -5 1.75 -10"
                 ]
               },
               "tip": {
@@ -1827,9 +1827,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -10",
+                "raw": "0.5 0.5 -10 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -10"
+                  "0.5 0.5 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -1992,9 +1992,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -5",
+                "raw": "0.75 0.75 -5 0.5",
                 "lines": [
-                  "0.75 0.75 -5"
+                  "0.75 0.75 -5 0.5"
                 ]
               },
               "tip": {
@@ -2121,9 +2121,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 เสมอ",
                 "lines": [
-                  "0.25"
+                  "0.25 เสมอ"
                 ]
               },
               "tip": {
@@ -2188,9 +2188,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -10",
+                "raw": "0.5 0.5 -10 0.5",
                 "lines": [
-                  "0.5 0.5 -10"
+                  "0.5 0.5 -10 0.5"
                 ]
               },
               "tip": {
@@ -2219,9 +2219,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25 -5",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25 -5"
                 ]
               },
               "tip": {
@@ -2281,9 +2281,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -2379,9 +2379,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75",
+                "raw": "1.75 2 -10",
                 "lines": [
-                  "1.75"
+                  "1.75 2 -10"
                 ]
               },
               "tip": {
@@ -2477,9 +2477,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 1 -5",
+                "raw": "0.75 1 -5 1 -10",
                 "lines": [
-                  "0.75 1 -5"
+                  "0.75 1 -5 1 -10"
                 ]
               },
               "tip": {
@@ -2507,10 +2507,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -2770,10 +2770,10 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 0",
+                "home": 3,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10 0.25",
@@ -2788,8 +2788,8 @@
               "live_channel": "YOUTUBE"
             },
             {
-              "time": "18:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]เฟาเอฟแอล โบคุ่ม",
                 "name": "เฟาเอฟแอล โบคุ่ม",
@@ -2801,10 +2801,10 @@
                 "rank": "12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
@@ -2819,7 +2819,7 @@
               "live_channel": "YOUTUBE"
             },
             {
-              "time": "18:00",
+              "time": "18:15",
               "status": null,
               "home_team": {
                 "raw": "[15]ไอน์ทรัค บราวน์ชไวก์",
@@ -2832,10 +2832,10 @@
                 "rank": "18"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -5 เสมอ",
@@ -2905,9 +2905,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ 0.25 -5 - +10",
+                "raw": "เสมอ 0.25 -5 - +10 0.25 -10",
                 "lines": [
-                  "เสมอ 0.25 -5 - +10"
+                  "เสมอ 0.25 -5 - +10 0.25 -10"
                 ]
               },
               "tip": {
@@ -3047,7 +3047,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[17]อันดอร์ราซีเอฟ",
                 "name": "อันดอร์ราซีเอฟ",
@@ -3059,15 +3059,15 @@
                 "rank": "14"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 3",
+                "home": 0,
+                "away": 3,
+                "is_known": true
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 0.75 -10",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 0.75 -10"
                 ]
               },
               "tip": {
@@ -3127,9 +3127,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -10",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -10"
                 ]
               },
               "tip": {
@@ -3207,7 +3207,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[12]แก็งก็อง",
                 "name": "แก็งก็อง",
@@ -3219,10 +3219,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -3238,7 +3238,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[11]โซโชซ์",
                 "name": "โซโชซ์",
@@ -3250,10 +3250,10 @@
                 "rank": "17"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -3287,9 +3287,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.75 -5",
+                "raw": "0.5 0.75 -5 0.75",
                 "lines": [
-                  "0.5 0.75 -5"
+                  "0.5 0.75 -5 0.75"
                 ]
               },
               "tip": {
@@ -3340,8 +3340,8 @@
           "league_name": "ญี่ปุ่น เจ-ลีก 1 (J.1 LEAGUE 2026-27)",
           "matches": [
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[11]มิโตะ ฮอลลี่ฮ็อค",
                 "name": "มิโตะ ฮอลลี่ฮ็อค",
@@ -3353,10 +3353,10 @@
                 "rank": "10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5 -5 0.25",
@@ -3371,8 +3371,8 @@
               "live_channel": null
             },
             {
-              "time": "16:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[17]ชิมิสุ เอส-พัลส์",
                 "name": "ชิมิสุ เอส-พัลส์",
@@ -3384,10 +3384,10 @@
                 "rank": "16"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -3402,8 +3402,8 @@
               "live_channel": null
             },
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[1]มาชิดา เซลเวีย",
                 "name": "มาชิดา เซลเวีย",
@@ -3415,10 +3415,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.5 0.5 -10",
@@ -3433,8 +3433,8 @@
               "live_channel": null
             },
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[5]ซานเฟรซเซ ฮิโรชิม่า",
                 "name": "ซานเฟรซเซ ฮิโรชิม่า",
@@ -3446,10 +3446,10 @@
                 "rank": "9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "6 - 1",
+                "home": 6,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 1 -5",
@@ -3464,8 +3464,8 @@
               "live_channel": null
             },
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[13]กัมบะ โอซาก้า",
                 "name": "กัมบะ โอซาก้า",
@@ -3477,10 +3477,10 @@
                 "rank": "6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 2",
+                "home": 0,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
@@ -3496,7 +3496,7 @@
             },
             {
               "time": "17:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[18]วี-วาเรน นากาซากิ",
                 "name": "วี-วาเรน นากาซากิ",
@@ -3508,10 +3508,10 @@
                 "rank": "14"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10 0.5 -10",
@@ -3531,8 +3531,8 @@
           "league_name": "เกาหลี ดิวิชั่น1 (Korea Division1)",
           "matches": [
             {
-              "time": "14:30",
-              "status": "HT",
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[3]ชอนบุกฮุนไดมอเตอร์",
                 "name": "ชอนบุกฮุนไดมอเตอร์",
@@ -3544,9 +3544,9 @@
                 "rank": "1"
               },
               "score": {
-                "text": "1 - 1",
+                "text": "1 - 2",
                 "home": 1,
-                "away": 1,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -3562,8 +3562,8 @@
               "live_channel": null
             },
             {
-              "time": "14:30",
-              "status": "HT",
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[2]วุลซาน ฮุนได โฮรางอี",
                 "name": "วุลซาน ฮุนได โฮรางอี",
@@ -3575,9 +3575,9 @@
                 "rank": "7"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -3594,7 +3594,7 @@
             },
             {
               "time": "14:30",
-              "status": "HT",
+              "status": "FT",
               "home_team": {
                 "raw": "[10]บูโชน เอฟซี 1995",
                 "name": "บูโชน เอฟซี 1995",
@@ -3606,8 +3606,8 @@
                 "rank": "4"
               },
               "score": {
-                "text": "1 - 2",
-                "home": 1,
+                "text": "2 - 2",
+                "home": 2,
                 "away": 2,
                 "is_known": true
               },
@@ -3624,8 +3624,8 @@
               "live_channel": null
             },
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]แทจอน ซิติเซน",
                 "name": "แทจอน ซิติเซน",
@@ -3637,10 +3637,10 @@
                 "rank": "8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -3673,10 +3673,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -3704,15 +3704,15 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 เสมอ",
                 "lines": [
-                  "0.25"
+                  "0.25 เสมอ"
                 ]
               },
               "tip": {
@@ -3777,9 +3777,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1.75 2",
+                "raw": "1.75 2 1.75 -5",
                 "lines": [
-                  "1.75 2"
+                  "1.75 2 1.75 -5"
                 ]
               },
               "tip": {
@@ -3875,9 +3875,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 เสมอ - -10",
+                "raw": "0.25 เสมอ - -10 0.25 -10",
                 "lines": [
-                  "0.25 เสมอ - -10"
+                  "0.25 เสมอ - -10 0.25 -10"
                 ]
               },
               "tip": {
@@ -3906,9 +3906,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25"
                 ]
               },
               "tip": {
@@ -4035,9 +4035,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -10",
+                "raw": "0.5 0.5 -10 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -10"
+                  "0.5 0.5 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -4066,9 +4066,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1",
+                "raw": "1 1.25 -5",
                 "lines": [
-                  "1"
+                  "1 1.25 -5"
                 ]
               },
               "tip": {
@@ -4097,9 +4097,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -5",
+                "raw": "0.5 0.5 -5 0.25 -10",
                 "lines": [
-                  "0.5 0.5 -5"
+                  "0.5 0.5 -5 0.25 -10"
                 ]
               },
               "tip": {
@@ -4200,9 +4200,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.25 -10",
+                "raw": "0.5 0.25 -10 0.25",
                 "lines": [
-                  "0.5 0.25 -10"
+                  "0.5 0.25 -10 0.25"
                 ]
               },
               "tip": {
@@ -4293,9 +4293,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -10 0.75 -5",
+                "raw": "0.75 0.75 -10 0.75 -5 0.75 -10",
                 "lines": [
-                  "0.75 0.75 -10 0.75 -5"
+                  "0.75 0.75 -10 0.75 -5 0.75 -10"
                 ]
               },
               "tip": {
@@ -4324,9 +4324,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.5 -5 0.25 -10",
+                "raw": "0.5 0.5 -5 0.25 -10 0.5 -5",
                 "lines": [
-                  "0.5 0.5 -5 0.25 -10"
+                  "0.5 0.5 -5 0.25 -10 0.5 -5"
                 ]
               },
               "tip": {
@@ -4386,9 +4386,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.75 -5",
                 "lines": [
-                  "0.5"
+                  "0.5 0.75 -5"
                 ]
               },
               "tip": {
@@ -4669,10 +4669,10 @@
                 "rank": "6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 เสมอ",
@@ -4700,15 +4700,15 @@
                 "rank": "10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.5 0.5 +10 0.75 -10",
+                "raw": "0.5 0.5 +10 0.75 -10 1",
                 "lines": [
-                  "0.5 0.5 +10 0.75 -10"
+                  "0.5 0.5 +10 0.75 -10 1"
                 ]
               },
               "tip": {
@@ -4719,7 +4719,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[9]บีจี ปทุม ยูไนเต็ด",
                 "name": "บีจี ปทุม ยูไนเต็ด",
@@ -4731,10 +4731,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 1.75 -5 1.25",
@@ -4767,10 +4767,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -4798,10 +4798,10 @@
                 "rank": "10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 0",
+                "home": 3,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5",
