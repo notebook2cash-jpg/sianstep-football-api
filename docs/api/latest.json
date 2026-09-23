@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-09-23T09:23:33.502Z",
+  "scraped_at": "2026-09-23T14:17:10.628Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -152,10 +152,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2 1.75 +10 2.25 -10 2.5",
@@ -183,10 +183,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 +10 1 1.25",
@@ -382,7 +382,7 @@
           "matches": [
             {
               "time": "15:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-1]วิสเซล โกเบ",
                 "name": "วิสเซล โกเบ",
@@ -394,8 +394,8 @@
                 "rank": "D2-15"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -412,8 +412,8 @@
               "live_channel": null
             },
             {
-              "time": "15:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-2]คาชิว่า เรย์โซล",
                 "name": "คาชิว่า เรย์โซล",
@@ -425,8 +425,8 @@
                 "rank": "D2-20"
               },
               "score": {
-                "text": "3 - 0",
-                "home": 3,
+                "text": "4 - 0",
+                "home": 4,
                 "away": 0,
                 "is_known": true
               },
@@ -444,7 +444,7 @@
             },
             {
               "time": "15:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-4]มาชิดา เซลเวีย",
                 "name": "มาชิดา เซลเวีย",
@@ -456,9 +456,9 @@
                 "rank": "D2-8"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
-                "away": 0,
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -475,7 +475,7 @@
             },
             {
               "time": "15:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-8]คาชิม่า แอนท์เลอร์ส",
                 "name": "คาชิม่า แอนท์เลอร์ส",
@@ -487,9 +487,9 @@
                 "rank": "D2-17"
               },
               "score": {
-                "text": "2 - 0",
-                "home": 2,
-                "away": 0,
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -505,8 +505,8 @@
               "live_channel": null
             },
             {
-              "time": "15:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-14]เกียวโต แซงก้า",
                 "name": "เกียวโต แซงก้า",
@@ -518,8 +518,8 @@
                 "rank": "D2-7"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -537,7 +537,7 @@
             },
             {
               "time": "15:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-16]กัมบะ โอซาก้า",
                 "name": "กัมบะ โอซาก้า",
@@ -549,8 +549,8 @@
                 "rank": "D2-10"
               },
               "score": {
-                "text": "2 - 0",
-                "home": 2,
+                "text": "5 - 0",
+                "home": 5,
                 "away": 0,
                 "is_known": true
               },
