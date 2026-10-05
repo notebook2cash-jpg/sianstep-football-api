@@ -3,8 +3,8 @@ name: Scrape Sianstep Football API
 on:
   workflow_dispatch:
   schedule:
-    # 11:30 และ 16:00 เวลาไทย (UTC+7) => 04:30 และ 09:00 UTC
-    - cron: "30 4,9 * * *"
+    # 11:00, 14:00, 16:00, 18:00 เวลาไทย (UTC+7) => 04:00, 07:00, 09:00, 11:00 UTC
+    - cron: "0 4,7,9,11 * * *"
 
 permissions:
   contents: write
