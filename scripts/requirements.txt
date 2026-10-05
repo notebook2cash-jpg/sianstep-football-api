@@ -1,0 +1,2 @@
+# No third-party dependencies — the scripts use only the Python 3 standard
+# library (urllib, json). Kept for clarity / future use.
