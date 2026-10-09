@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-10-09T13:57:45.680Z",
+  "scraped_at": "2026-10-09T19:13:19.555Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -529,10 +529,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ - -10",
@@ -637,10 +637,10 @@
                 "rank": "1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5",
@@ -709,10 +709,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10 0.75",
@@ -776,10 +776,10 @@
                 "rank": "10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 1 -5",
@@ -812,10 +812,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10",
@@ -902,8 +902,8 @@
           "league_name": "ยูเครน พรีเมียร์ลีก (Ukrainian Premier League)",
           "matches": [
             {
-              "time": "19:30",
-              "status": "HT",
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]เวเลซ",
                 "name": "เวเลซ",
@@ -915,9 +915,9 @@
                 "rank": "1"
               },
               "score": {
-                "text": "0 - 1",
+                "text": "0 - 3",
                 "home": 0,
-                "away": 1,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -1921,10 +1921,10 @@
                 "rank": "1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10",
@@ -1988,10 +1988,10 @@
                 "rank": "2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10 0.25",
@@ -2019,10 +2019,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -5 0.5",
@@ -2050,10 +2050,10 @@
                 "rank": "6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10 0.5 -5 0.25 -5",
@@ -2081,10 +2081,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -5 0.25 -5 เสมอ",
@@ -2184,10 +2184,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 1 +10",
@@ -2506,8 +2506,8 @@
           "league_name": "ไชน่า ซุปเปอร์ลีก (China Super League)",
           "matches": [
             {
-              "time": "18:35",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[16]ชิงเต่า จงเนิ่ง",
                 "name": "ชิงเต่า จงเนิ่ง",
@@ -2538,7 +2538,7 @@
             },
             {
               "time": "18:35",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[11]เซินเจิ้น ซินเผิงเฉิง",
                 "name": "เซินเจิ้น ซินเผิงเฉิง",
@@ -2569,7 +2569,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[9]เจ้อเจียง กรีนทาวน์",
                 "name": "เจ้อเจียง กรีนทาวน์",
@@ -2581,8 +2581,8 @@
                 "rank": "7"
               },
               "score": {
-                "text": "1 - 4",
-                "home": 1,
+                "text": "2 - 4",
+                "home": 2,
                 "away": 4,
                 "is_known": true
               },
@@ -2702,8 +2702,8 @@
           "league_name": "ยูเออี ลีกคัพ (UAE League Cup) รอบรองชนะเลิศ",
           "matches": [
             {
-              "time": "20:10",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[LP-5]อัจมาน",
                 "name": "อัจมาน",
@@ -2715,8 +2715,8 @@
                 "rank": "LP-14"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -2733,8 +2733,8 @@
               "live_channel": null
             },
             {
-              "time": "20:10",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[LP-6]อัล วาห์ดา(เอมิเรตส์)",
                 "name": "อัล วาห์ดา(เอมิเรตส์)",
@@ -2746,8 +2746,8 @@
                 "rank": "LP-12"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -2777,10 +2777,10 @@
                 "rank": "LP-1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25 +10",
@@ -2800,8 +2800,8 @@
           "league_name": "ซาอุดิอาระเบีย โปรเฟสชั่นแนล ลีก (Saudi Arabia Pro League)",
           "matches": [
             {
-              "time": "20:50",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]อัล คูลูด",
                 "name": "อัล คูลูด",
@@ -2813,10 +2813,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 5",
+                "home": 0,
+                "away": 5,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 1 -10 1.25 -5",
@@ -2844,10 +2844,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 3",
+                "home": 0,
+                "away": 3,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1.25 -10 1.25",
@@ -3097,9 +3097,9 @@
               "time": "06:00",
               "status": null,
               "home_team": {
-                "raw": "[C-15]เอเลี่ยนซา เพตโทรลา",
+                "raw": "[C-16]เอเลี่ยนซา เพตโทรลา",
                 "name": "เอเลี่ยนซา เพตโทรลา",
-                "rank": "C-15"
+                "rank": "C-16"
               },
               "away_team": {
                 "raw": "อากีลาส โดราดาส[C-11]",
@@ -3265,7 +3265,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[14]แพร่ ยูไนเต็ด เอฟซี",
                 "name": "แพร่ ยูไนเต็ด เอฟซี",
