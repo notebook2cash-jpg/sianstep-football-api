@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-10-26T13:41:59.488Z",
+  "scraped_at": "2026-10-26T19:38:19.980Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -211,10 +211,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
@@ -242,10 +242,10 @@
                 "rank": "12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 1.5 -10 1.5 -5",
@@ -405,7 +405,7 @@
           "matches": [
             {
               "time": "19:45",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[16]ซาคินทอส",
                 "name": "ซาคินทอส",
@@ -417,10 +417,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 3",
+                "home": 2,
+                "away": 3,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25 +10",
@@ -808,10 +808,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.5 -10 0.5",
@@ -844,10 +844,10 @@
                 "rank": "2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 3",
+                "home": 0,
+                "away": 3,
+                "is_known": true
               },
               "odds": {
                 "raw": "2 2 -5",
@@ -867,8 +867,8 @@
           "league_name": "เอเอฟซี แชมเปี้ยนลีก อีลิท (AFC Champions League Elite 2025–26)",
           "matches": [
             {
-              "time": "20:45",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-1]เนฟชี่ เฟอร์กาน่า",
                 "name": "เนฟชี่ เฟอร์กาน่า",
@@ -880,10 +880,10 @@
                 "rank": "SPL-4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10 0.5",
@@ -911,10 +911,10 @@
                 "rank": "PR-1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1.25 -10",
@@ -942,10 +942,10 @@
                 "rank": "D1-10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.75",
@@ -1298,10 +1298,10 @@
                 "rank": "1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25 0.25 +10",
@@ -1322,7 +1322,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[1]เปรซียา จาการ์ตา",
                 "name": "เปรซียา จาการ์ตา",
@@ -1334,10 +1334,10 @@
                 "rank": "8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.75 1.5 1.5 -5",
@@ -1353,7 +1353,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[10]เปอร์เซบายา สุราบายา",
                 "name": "เปอร์เซบายา สุราบายา",
@@ -1365,10 +1365,10 @@
                 "rank": "3"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1 1.25 -10",
@@ -1383,8 +1383,8 @@
               "live_channel": null
             },
             {
-              "time": "19:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[7]บายังการา ซูราบายา ยูไนเต็ด",
                 "name": "บายังการา ซูราบายา ยูไนเต็ด",
@@ -1396,10 +1396,10 @@
                 "rank": "12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 0.5",
@@ -1420,7 +1420,7 @@
           "matches": [
             {
               "time": "21:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[6]โมฮัน บากอน(อินเดีย)",
                 "name": "โมฮัน บากอน(อินเดีย)",
@@ -1432,10 +1432,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5",
@@ -1455,8 +1455,8 @@
           "league_name": "สิงคโปร์ ลีก (Singapore League)",
           "matches": [
             {
-              "time": "18:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[3]เกย์ลัง ยูไนเต็ด เอฟซี",
                 "name": "เกย์ลัง ยูไนเต็ด เอฟซี",
@@ -1468,10 +1468,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 0",
+                "home": 3,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -1705,10 +1705,10 @@
                 "rank": "17"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -5",
@@ -1798,9 +1798,9 @@
               "time": "06:00",
               "status": null,
               "home_team": {
-                "raw": "[C-19]จากูวาเรส เดอ คอร์โดบา",
+                "raw": "[C-20]จากูวาเรส เดอ คอร์โดบา",
                 "name": "จากูวาเรส เดอ คอร์โดบา",
-                "rank": "C-19"
+                "rank": "C-20"
               },
               "away_team": {
                 "raw": "ลาเนรอส เอฟซี[C-14]",
@@ -1966,7 +1966,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[14]เมืองทอง ยูไนเต็ด",
                 "name": "เมืองทอง ยูไนเต็ด",
@@ -1978,10 +1978,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "4 - 1",
+                "home": 4,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75",
