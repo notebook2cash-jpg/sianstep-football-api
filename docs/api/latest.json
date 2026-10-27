@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-10-27T12:50:27.071Z",
+  "scraped_at": "2026-10-27T19:03:01.844Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1151,7 +1151,7 @@
           "matches": [
             {
               "time": "21:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D2-3]พานเซอร์ไรกอส",
                 "name": "พานเซอร์ไรกอส",
@@ -1163,10 +1163,10 @@
                 "rank": "D2-6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
@@ -1194,10 +1194,10 @@
                 "rank": "D1-7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -5",
@@ -1217,8 +1217,8 @@
           "league_name": "โปแลนด์ คัพ (Poland Cup)",
           "matches": [
             {
-              "time": "18:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D2-3]โกลนิค เลชน่า",
                 "name": "โกลนิค เลชน่า",
@@ -1248,8 +1248,8 @@
               "live_channel": null
             },
             {
-              "time": "18:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D2-4]โอลิมเปีย กรูดเซียดซ์",
                 "name": "โอลิมเปีย กรูดเซียดซ์",
@@ -1261,9 +1261,9 @@
                 "rank": "D1-5"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -1359,10 +1359,10 @@
                 "rank": "PR-14"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -5",
@@ -1414,7 +1414,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-16]เอฟเค ซิกซีริด้า เมียร์คูเรีย ซิซ",
                 "name": "เอฟเค ซิกซีริด้า เมียร์คูเรีย ซิซ",
@@ -1426,10 +1426,10 @@
                 "rank": "D2-10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.75 0.5 -10",
@@ -1457,10 +1457,10 @@
                 "rank": "D1-4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 2",
+                "home": 0,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.5 2.75 -5",
@@ -2164,10 +2164,10 @@
                 "rank": "D1-8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.75 +10",
@@ -2771,7 +2771,7 @@
             },
             {
               "time": "19:15",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[PR-4]ราชบุรี มิตรผล เอฟซี",
                 "name": "ราชบุรี มิตรผล เอฟซี",
@@ -2801,8 +2801,8 @@
               "live_channel": "YOUTUBE"
             },
             {
-              "time": "19:15",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[CSL-3]ปักกิ่ง กั๋วอัน",
                 "name": "ปักกิ่ง กั๋วอัน",
@@ -2814,9 +2814,9 @@
                 "rank": "D1-4"
               },
               "score": {
-                "text": "0 - 1",
-                "home": 0,
-                "away": 1,
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -2845,10 +2845,10 @@
                 "rank": "PR-2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10",
@@ -2912,10 +2912,10 @@
                 "rank": "ISL-3"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -2967,7 +2967,7 @@
           "matches": [
             {
               "time": "20:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[11]อินเตอร์ มิลาน ยู 23",
                 "name": "อินเตอร์ มิลาน ยู 23",
@@ -2979,10 +2979,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10",
@@ -3039,7 +3039,7 @@
           "matches": [
             {
               "time": "19:40",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[18]แอ๊บฮา",
                 "name": "แอ๊บฮา",
@@ -3051,9 +3051,9 @@
                 "rank": "15"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -3262,10 +3262,10 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.25",
@@ -3293,10 +3293,10 @@
                 "rank": "9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
