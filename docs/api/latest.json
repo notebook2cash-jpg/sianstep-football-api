@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-10-29T07:00:34.353Z",
+  "scraped_at": "2026-10-29T08:00:35.260Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -358,6 +358,37 @@
               },
               "tip": {
                 "text": "ทีเด็ด วาเรีย น่าเชียร์",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "02:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D4-2]ซีดี โควาดอนก้า",
+                "name": "ซีดี โควาดอนก้า",
+                "rank": "D4-2"
+              },
+              "away_team": {
+                "raw": "เรอัล บายาโดลิด[D2-15]",
+                "name": "เรอัล บายาโดลิด",
+                "rank": "D2-15"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "2",
+                "lines": [
+                  "2"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด โควาดอนก้า น่ารอง",
                 "analysis": null
               },
               "live_channel": null
@@ -2174,7 +2205,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 23,
-  "total_matches": 64,
+  "total_matches": 65,
   "total_analysis_links": 3,
   "total_analysis_embedded": 3
 }
