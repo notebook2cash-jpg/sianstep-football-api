@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-10-30T05:00:31.557Z",
+  "scraped_at": "2026-10-30T07:00:31.222Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1947,6 +1947,37 @@
                 "analysis": null
               },
               "live_channel": null
+            },
+            {
+              "time": "00:30",
+              "status": null,
+              "home_team": {
+                "raw": "[6]เอสวี ออสเตรีย ซัลซ์บวร์ก",
+                "name": "เอสวี ออสเตรีย ซัลซ์บวร์ก",
+                "rank": "6"
+              },
+              "away_team": {
+                "raw": "เอสเคยู อัมเสตทเทน[5]",
+                "name": "เอสเคยู อัมเสตทเทน",
+                "rank": "5"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ออสเตรีย เคลียร์สบาย",
+                "analysis": null
+              },
+              "live_channel": null
             }
           ]
         },
@@ -2025,6 +2056,37 @@
         {
           "league_name": "แอฟริกาใต้ พรีเมียร์ลีก (South Africa Premier League)",
           "matches": [
+            {
+              "time": "00:30",
+              "status": null,
+              "home_team": {
+                "raw": "[7]สเตลเลนบอส เอฟซี",
+                "name": "สเตลเลนบอส เอฟซี",
+                "rank": "7"
+              },
+              "away_team": {
+                "raw": "ชิปป้า ยูไนเต็ด[9]",
+                "name": "ชิปป้า ยูไนเต็ด",
+                "rank": "9"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "wait",
+                "lines": [
+                  "wait"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด สเตลเลนบอส ยอดเยี่ยม",
+                "analysis": null
+              },
+              "live_channel": null
+            },
             {
               "time": "00:30",
               "status": null,
@@ -2318,9 +2380,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "เสมอ",
+                "raw": "เสมอ 0.25 -10",
                 "lines": [
-                  "เสมอ"
+                  "เสมอ 0.25 -10"
                 ]
               },
               "tip": {
@@ -2647,9 +2709,9 @@
                 "rank": "18"
               },
               "away_team": {
-                "raw": "มิราสโซล[15]",
+                "raw": "มิราสโซล[16]",
                 "name": "มิราสโซล",
-                "rank": "15"
+                "rank": "16"
               },
               "score": {
                 "text": "? - ?",
@@ -3212,7 +3274,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 51,
-  "total_matches": 91,
+  "total_matches": 93,
   "total_analysis_links": 6,
   "total_analysis_embedded": 6
 }
