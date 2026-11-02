@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-02T12:30:31.055Z",
+  "scraped_at": "2026-11-02T14:00:38.372Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -937,10 +937,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.25",
@@ -973,8 +973,8 @@
                 "rank": "9"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -992,7 +992,7 @@
             },
             {
               "time": "18:30",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[15]ครีฟบาส",
                 "name": "ครีฟบาส",
@@ -1174,10 +1174,10 @@
                 "rank": "20"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10",
@@ -1746,10 +1746,10 @@
                 "rank": "SPL-3"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2 1.25 -10 1 +10 1.25 -10",
