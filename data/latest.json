@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-03T14:00:35.440Z",
+  "scraped_at": "2026-11-03T14:43:50.222Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1895,7 +1895,7 @@
             },
             {
               "time": "19:15",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[PR-1]การท่าเรือ เอฟซี",
                 "name": "การท่าเรือ เอฟซี",
@@ -1907,8 +1907,8 @@
                 "rank": "CSL-3"
               },
               "score": {
-                "text": "4 - 4",
-                "home": 4,
+                "text": "7 - 4",
+                "home": 7,
                 "away": 4,
                 "is_known": true
               },
@@ -1925,8 +1925,8 @@
               "live_channel": "YOUTUBE"
             },
             {
-              "time": "19:15",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-3]คองเอ็น เนนเดน เอฟซี",
                 "name": "คองเอ็น เนนเดน เอฟซี",
@@ -2024,7 +2024,7 @@
           "matches": [
             {
               "time": "20:45",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[ISL-5]อีสต์ เบงกอล",
                 "name": "อีสต์ เบงกอล",
