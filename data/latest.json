@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-03T08:00:33.136Z",
+  "scraped_at": "2026-11-03T09:00:33.203Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1169,14 +1169,14 @@
               "time": "02:45",
               "status": null,
               "home_team": {
-                "raw": "[22]นอร์ทแธมป์ตัน ทาวน์",
+                "raw": "[20]นอร์ทแธมป์ตัน ทาวน์",
                 "name": "นอร์ทแธมป์ตัน ทาวน์",
-                "rank": "22"
+                "rank": "20"
               },
               "away_team": {
-                "raw": "โอลด์แฮม แอทเลติก[20]",
+                "raw": "โอลด์แฮม แอทเลติก[21]",
                 "name": "โอลด์แฮม แอทเลติก",
-                "rank": "20"
+                "rank": "21"
               },
               "score": {
                 "text": "? - ?",
@@ -1783,9 +1783,9 @@
                 "rank": "CSL-5"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 3",
                 "home": 0,
-                "away": 0,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -2643,7 +2643,7 @@
           "matches": [
             {
               "time": "15:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[L3W-1]สมุทรสาคร เอฟซี",
                 "name": "สมุทรสาคร เอฟซี",
@@ -2655,10 +2655,10 @@
                 "rank": "L2-1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1",
@@ -2674,7 +2674,7 @@
             },
             {
               "time": "15:00",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "[L3E-4]กองเรือยุทธการ",
                 "name": "กองเรือยุทธการ",
