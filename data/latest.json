@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-06T09:00:32.849Z",
+  "scraped_at": "2026-11-06T11:00:35.109Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -85,9 +85,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 เสมอ",
+                "raw": "0.25 เสมอ 0.25 -5",
                 "lines": [
-                  "0.25 เสมอ"
+                  "0.25 เสมอ 0.25 -5"
                 ]
               },
               "tip": {
@@ -140,9 +140,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -10",
+                "raw": "0.25 0.25 -10 0.25 -5",
                 "lines": [
-                  "0.25 0.25 -10"
+                  "0.25 0.25 -10 0.25 -5"
                 ]
               },
               "tip": {
@@ -2530,8 +2530,8 @@
                 "rank": "10"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "3 - 0",
+                "home": 3,
                 "away": 0,
                 "is_known": true
               },
@@ -3309,9 +3309,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1",
+                "raw": "1 0.75",
                 "lines": [
-                  "1"
+                  "1 0.75"
                 ]
               },
               "tip": {
