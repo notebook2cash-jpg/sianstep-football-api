@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-07T11:00:37.580Z",
+  "scraped_at": "2026-11-07T12:30:26.710Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1953,8 +1953,8 @@
           "league_name": "ตุรกี ซุปเปอร์ลีก (Turkey Super League)",
           "matches": [
             {
-              "time": "17:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[18]อียูบสปอร์",
                 "name": "อียูบสปอร์",
@@ -2358,10 +2358,10 @@
                 "rank": "17"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10",
@@ -2389,10 +2389,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -5",
@@ -2420,10 +2420,10 @@
                 "rank": "7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -3070,8 +3070,8 @@
                 "rank": "10"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -3943,9 +3943,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.5 -5 -",
+                "raw": "0.25 0.5 -5 0.5 -10",
                 "lines": [
-                  "0.25 0.5 -5 -"
+                  "0.25 0.5 -5 0.5 -10"
                 ]
               },
               "tip": {
@@ -4165,9 +4165,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 เสมอ",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 เสมอ"
                 ]
               },
               "tip": {
@@ -4196,9 +4196,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.5 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.5 -5"
                 ]
               },
               "tip": {
@@ -4227,9 +4227,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1 1 -5",
+                "raw": "1 1 -5 0.75",
                 "lines": [
-                  "1 1 -5"
+                  "1 1 -5 0.75"
                 ]
               },
               "tip": {
@@ -4342,7 +4342,7 @@
           "league_name": "ไทยแลนด์พรีเมียร์ลีก (T1) (Thailand Premier League)",
           "matches": [
             {
-              "time": "18:00",
+              "time": "19:00",
               "status": null,
               "home_team": {
                 "raw": "[3]อยุธยายูไนเต็ด",
@@ -4355,10 +4355,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10",
@@ -4373,7 +4373,38 @@
               "live_channel": "AIS PLAY"
             },
             {
-              "time": "18:30",
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[1]การท่าเรือ เอฟซี",
+                "name": "การท่าเรือ เอฟซี",
+                "rank": "1"
+              },
+              "away_team": {
+                "raw": "ชลบุรี เอฟซี[14]",
+                "name": "ชลบุรี เอฟซี",
+                "rank": "14"
+              },
+              "score": {
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
+              },
+              "odds": {
+                "raw": "1.25 1 1.25 -5",
+                "lines": [
+                  "1.25 1 1.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ท่าเรือ เชื่อใจได้",
+                "analysis": null
+              },
+              "live_channel": "AIS PLAY"
+            },
+            {
+              "time": "19:30",
               "status": null,
               "home_team": {
                 "raw": "[8]อุทัยธานี ฟอเรสท์",
@@ -4402,37 +4433,6 @@
                 "analysis": null
               },
               "live_channel": "AIS PLAY"
-            },
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
-                "raw": "[1]การท่าเรือ เอฟซี",
-                "name": "การท่าเรือ เอฟซี",
-                "rank": "1"
-              },
-              "away_team": {
-                "raw": "ชลบุรี เอฟซี[14]",
-                "name": "ชลบุรี เอฟซี",
-                "rank": "14"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "1.25 1 1.25 -5",
-                "lines": [
-                  "1.25 1 1.25 -5"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ท่าเรือ เชื่อใจได้",
-                "analysis": null
-              },
-              "live_channel": "AIS PLAY"
             }
           ]
         },
@@ -4453,10 +4453,10 @@
                 "rank": "16"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 1",
+                "home": 3,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 0.75",
@@ -4471,8 +4471,8 @@
               "live_channel": "AIS PLAY"
             },
             {
-              "time": "18:00",
-              "status": null,
+              "time": "18:25",
+              "status": "HT",
               "home_team": {
                 "raw": "[7]เมืองทอง ยูไนเต็ด",
                 "name": "เมืองทอง ยูไนเต็ด",
@@ -4484,10 +4484,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25",
@@ -4503,7 +4503,7 @@
             },
             {
               "time": "18:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[3]อุตรดิตถ์",
                 "name": "อุตรดิตถ์",
@@ -4515,10 +4515,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25",
@@ -4546,10 +4546,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 2",
+                "home": 0,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75",
