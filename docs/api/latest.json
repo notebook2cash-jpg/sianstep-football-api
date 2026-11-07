@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-07T12:30:26.710Z",
+  "scraped_at": "2026-11-07T13:38:30.925Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -11,7 +11,7 @@
           "matches": [
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[12]ลีดส์ ยูไนเต็ด",
                 "name": "ลีดส์ ยูไนเต็ด",
@@ -23,10 +23,10 @@
                 "rank": "9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -712,10 +712,10 @@
                 "rank": "16"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 เสมอ 0.25 -5 เสมอ",
@@ -1015,7 +1015,7 @@
           "matches": [
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[16]เร็กซ์แฮม",
                 "name": "เร็กซ์แฮม",
@@ -1027,10 +1027,10 @@
                 "rank": "2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5 -5",
@@ -1046,7 +1046,7 @@
             },
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[10]พอร์ทสมัธ",
                 "name": "พอร์ทสมัธ",
@@ -1058,10 +1058,10 @@
                 "rank": "4"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10 0.25 -5",
@@ -1077,7 +1077,7 @@
             },
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[15]บริสตอล ซิตี้",
                 "name": "บริสตอล ซิตี้",
@@ -1089,10 +1089,10 @@
                 "rank": "12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -5",
@@ -1997,10 +1997,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -5 0.25 -10",
@@ -2358,8 +2358,8 @@
                 "rank": "17"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -2389,9 +2389,9 @@
                 "rank": "4"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -2678,10 +2678,10 @@
                 "rank": "16"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -5",
@@ -2838,10 +2838,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10",
@@ -3057,8 +3057,8 @@
               "live_channel": null
             },
             {
-              "time": "17:45",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[8]เพิร์ท กลอรี่",
                 "name": "เพิร์ท กลอรี่",
@@ -3070,9 +3070,9 @@
                 "rank": "10"
               },
               "score": {
-                "text": "2 - 0",
+                "text": "2 - 1",
                 "home": 2,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -4386,9 +4386,9 @@
                 "rank": "14"
               },
               "score": {
-                "text": "1 - 0",
+                "text": "1 - 1",
                 "home": 1,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -4405,7 +4405,7 @@
             },
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[8]อุทัยธานี ฟอเรสท์",
                 "name": "อุทัยธานี ฟอเรสท์",
@@ -4417,10 +4417,10 @@
                 "rank": "15"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5",
@@ -4440,8 +4440,8 @@
           "league_name": "ไทยแชมเปี้ยนชิพ (T2) (Thai Championship)",
           "matches": [
             {
-              "time": "18:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[1]ขอนแก่น ยูไนเต็ด",
                 "name": "ขอนแก่น ยูไนเต็ด",
@@ -4453,9 +4453,9 @@
                 "rank": "16"
               },
               "score": {
-                "text": "3 - 1",
+                "text": "3 - 2",
                 "home": 3,
-                "away": 1,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -4472,7 +4472,7 @@
             },
             {
               "time": "18:25",
-              "status": "HT",
+              "status": "FT",
               "home_team": {
                 "raw": "[7]เมืองทอง ยูไนเต็ด",
                 "name": "เมืองทอง ยูไนเต็ด",
@@ -4484,9 +4484,9 @@
                 "rank": "15"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -4502,8 +4502,8 @@
               "live_channel": "AIS PLAY"
             },
             {
-              "time": "18:30",
-              "status": "HT",
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[3]อุตรดิตถ์",
                 "name": "อุตรดิตถ์",
@@ -4515,8 +4515,8 @@
                 "rank": "13"
               },
               "score": {
-                "text": "2 - 0",
-                "home": 2,
+                "text": "4 - 0",
+                "home": 4,
                 "away": 0,
                 "is_known": true
               },
