@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-07T08:00:32.784Z",
+  "scraped_at": "2026-11-07T09:00:33.516Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -3186,8 +3186,8 @@
               "live_channel": null
             },
             {
-              "time": "13:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[1]เอฟซี โตเกียว",
                 "name": "เอฟซี โตเกียว",
@@ -3217,8 +3217,8 @@
               "live_channel": null
             },
             {
-              "time": "13:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[20]อวิสปา ฟูกูโอกะ",
                 "name": "อวิสปา ฟูกูโอกะ",
@@ -3249,7 +3249,7 @@
             },
             {
               "time": "14:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[4]คาชิว่า เรย์โซล",
                 "name": "คาชิว่า เรย์โซล",
