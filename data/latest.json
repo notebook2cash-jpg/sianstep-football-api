@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-08T13:57:11.717Z",
+  "scraped_at": "2026-11-08T14:00:33.065Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -697,7 +697,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[17]เอลเช่",
                 "name": "เอลเช่",
@@ -1307,9 +1307,9 @@
                 "rank": "2"
               },
               "score": {
-                "text": "0 - 1",
+                "text": "0 - 0",
                 "home": 0,
-                "away": 1,
+                "away": 0,
                 "is_known": true
               },
               "odds": {
@@ -1806,7 +1806,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[16]ฮาล์มสตัด",
                 "name": "ฮาล์มสตัด",
@@ -1837,7 +1837,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[10]ไอเอฟเค โกเตบอร์ก",
                 "name": "ไอเอฟเค โกเตบอร์ก",
@@ -1997,7 +1997,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[9]อาร์ฮุส เอจีเอฟ",
                 "name": "อาร์ฮุส เอจีเอฟ",
@@ -2095,7 +2095,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[5]เซนต์ กัลเลน",
                 "name": "เซนต์ กัลเลน",
@@ -2107,8 +2107,8 @@
                 "rank": "1"
               },
               "score": {
-                "text": "3 - 0",
-                "home": 3,
+                "text": "0 - 0",
+                "home": 0,
                 "away": 0,
                 "is_known": true
               },
@@ -2296,7 +2296,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[1]คูพีเอส",
                 "name": "คูพีเอส",
@@ -2327,7 +2327,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[3]เอชเจเค เฮลซิงกิ",
                 "name": "เอชเจเค เฮลซิงกิ",
@@ -2358,7 +2358,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[4]กนิสตัน เฮลซิงกิ",
                 "name": "กนิสตัน เฮลซิงกิ",
@@ -2425,7 +2425,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[9]โครัม เอฟเค",
                 "name": "โครัม เอฟเค",
@@ -2523,7 +2523,7 @@
           "matches": [
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[1]คลับ บรูซ",
                 "name": "คลับ บรูซ",
@@ -2535,9 +2535,9 @@
                 "rank": "5"
               },
               "score": {
-                "text": "1 - 1",
+                "text": "1 - 0",
                 "home": 1,
-                "away": 1,
+                "away": 0,
                 "is_known": true
               },
               "odds": {
@@ -2695,8 +2695,8 @@
                 "rank": "11"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "0 - 0",
+                "home": 0,
                 "away": 0,
                 "is_known": true
               },
@@ -2750,7 +2750,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": "FT",
+              "status": null,
               "home_team": {
                 "raw": "[6]เทปลิเซ่",
                 "name": "เทปลิเซ่",
@@ -3025,10 +3025,10 @@
                 "rank": "8"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
-                "is_known": true
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
               },
               "odds": {
                 "raw": "0.25 0.5 -10",
@@ -3283,9 +3283,9 @@
                 "rank": "8"
               },
               "score": {
-                "text": "2 - 1",
-                "home": 2,
-                "away": 1,
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
                 "is_known": true
               },
               "odds": {
@@ -3302,7 +3302,7 @@
             },
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[7]ไฮน์เดนเฮลม์",
                 "name": "ไฮน์เดนเฮลม์",
@@ -3314,9 +3314,9 @@
                 "rank": "15"
               },
               "score": {
-                "text": "2 - 2",
-                "home": 2,
-                "away": 2,
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
                 "is_known": true
               },
               "odds": {
@@ -3333,7 +3333,7 @@
             },
             {
               "time": "19:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[12]เฟาเอฟแอล โบคุ่ม",
                 "name": "เฟาเอฟแอล โบคุ่ม",
@@ -3345,9 +3345,9 @@
                 "rank": "16"
               },
               "score": {
-                "text": "2 - 2",
-                "home": 2,
-                "away": 2,
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -4686,9 +4686,9 @@
                 "rank": "5"
               },
               "score": {
-                "text": "1 - 2",
-                "home": 1,
-                "away": 2,
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -4784,9 +4784,9 @@
                 "rank": "9"
               },
               "score": {
-                "text": "2 - 2",
+                "text": "2 - 1",
                 "home": 2,
-                "away": 2,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -4802,8 +4802,8 @@
               "live_channel": "AIS PLAY"
             },
             {
-              "time": null,
-              "status": "FT",
+              "time": "19:00",
+              "status": null,
               "home_team": {
                 "raw": "[18]เกษตรศาสตร์ เอฟซี",
                 "name": "เกษตรศาสตร์ เอฟซี",
@@ -4815,9 +4815,9 @@
                 "rank": "15"
               },
               "score": {
-                "text": "0 - 1",
+                "text": "0 - 0",
                 "home": 0,
-                "away": 1,
+                "away": 0,
                 "is_known": true
               },
               "odds": {
