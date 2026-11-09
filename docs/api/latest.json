@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-09T08:00:42.128Z",
+  "scraped_at": "2026-11-09T09:00:34.309Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -36,6 +36,42 @@
               },
               "tip": {
                 "text": "ทีเด็ด พลีมัธ ซัดกระจาย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "นอร์เวย์ ดิวิชั่น 1 (Norway - Tippeligaen)",
+          "matches": [
+            {
+              "time": "01:00",
+              "status": null,
+              "home_team": {
+                "raw": "[15]คริสเตียนซุนด์ บีเค",
+                "name": "คริสเตียนซุนด์ บีเค",
+                "rank": "15"
+              },
+              "away_team": {
+                "raw": "วาเลเรนก้า[8]",
+                "name": "วาเลเรนก้า",
+                "rank": "8"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 เสมอ 0.25 -5",
+                "lines": [
+                  "0.25 เสมอ 0.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ดคริสเตียนซุนด์ทุ่มเท",
                 "analysis": null
               },
               "live_channel": null
@@ -101,9 +137,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1",
+                "raw": "1 1.5",
                 "lines": [
-                  "1"
+                  "1 1.5"
                 ]
               },
               "tip": {
@@ -180,6 +216,37 @@
               },
               "tip": {
                 "text": "ทีเด็ด ซาบาเดย์ เฮในบ้าน",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "02:30",
+              "status": null,
+              "home_team": {
+                "raw": "[13]ลาส พัลมาส",
+                "name": "ลาส พัลมาส",
+                "rank": "13"
+              },
+              "away_team": {
+                "raw": "เอลเดนเซ่[15]",
+                "name": "เอลเดนเซ่",
+                "rank": "15"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25 0.5 -5",
+                "lines": [
+                  "0.25 0.5 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ลาส พัลมาส ไม่พลาด",
                 "analysis": null
               },
               "live_channel": null
@@ -389,9 +456,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75",
+                "raw": "0.75 0.75 -5",
                 "lines": [
-                  "0.75"
+                  "0.75 0.75 -5"
                 ]
               },
               "tip": {
@@ -487,9 +554,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25",
+                "raw": "0.25 0.25 -5",
                 "lines": [
-                  "0.25"
+                  "0.25 0.25 -5"
                 ]
               },
               "tip": {
@@ -523,9 +590,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 -10",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 -10"
                 ]
               },
               "tip": {
@@ -579,9 +646,9 @@
                 "rank": "C-17"
               },
               "away_team": {
-                "raw": "คูคูต้า เดปอร์ติโว่[C-10]",
+                "raw": "คูคูต้า เดปอร์ติโว่[C-11]",
                 "name": "คูคูต้า เดปอร์ติโว่",
-                "rank": "C-10"
+                "rank": "C-11"
               },
               "score": {
                 "text": "? - ?",
@@ -590,9 +657,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "1",
+                "raw": "1 1 -5",
                 "lines": [
-                  "1"
+                  "1 1 -5"
                 ]
               },
               "tip": {
@@ -657,9 +724,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -5",
+                "raw": "0.75 0.75 -5 0.75",
                 "lines": [
-                  "0.75 0.75 -5"
+                  "0.75 0.75 -5 0.75"
                 ]
               },
               "tip": {
@@ -729,9 +796,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5",
+                "raw": "0.5 0.5 -5",
                 "lines": [
-                  "0.5"
+                  "0.5 0.5 -5"
                 ]
               },
               "tip": {
@@ -760,9 +827,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "2",
+                "raw": "2 2.25",
                 "lines": [
-                  "2"
+                  "2 2.25"
                 ]
               },
               "tip": {
@@ -777,8 +844,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 17,
-  "total_matches": 22,
+  "total_leagues": 18,
+  "total_matches": 24,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
