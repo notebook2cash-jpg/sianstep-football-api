@@ -1,11 +1,47 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-09T01:00:32.386Z",
+  "scraped_at": "2026-11-09T05:00:32.624Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
       "date_label": "โปรแกรมบอล วันที่ 09/11/2569",
       "leagues": [
+        {
+          "league_name": "เอฟเอ คัพ (English fa Cup 2026-2027)",
+          "matches": [
+            {
+              "time": "02:30",
+              "status": null,
+              "home_team": {
+                "raw": "[ENG-S PR-4]พลีมัธ พาร์คเวย์",
+                "name": "พลีมัธ พาร์คเวย์",
+                "rank": "ENG-S PR-4"
+              },
+              "away_team": {
+                "raw": "เบิร์กแฮมสเตด ทาวน์[ENG-S PR-13]",
+                "name": "เบิร์กแฮมสเตด ทาวน์",
+                "rank": "ENG-S PR-13"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด พลีมัธ ซัดกระจาย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
         {
           "league_name": "โรมาเนีย ซุปเปอร์ลีก (Romania Super League)",
           "matches": [
@@ -13,14 +49,14 @@
               "time": "01:00",
               "status": null,
               "home_team": {
-                "raw": "[12]โบโตซานี่",
+                "raw": "[13]โบโตซานี่",
                 "name": "โบโตซานี่",
-                "rank": "12"
+                "rank": "13"
               },
               "away_team": {
-                "raw": "เอฟซี โอเตลุล กาลาติ[13]",
+                "raw": "เอฟซี โอเตลุล กาลาติ[14]",
                 "name": "เอฟซี โอเตลุล กาลาติ",
-                "rank": "13"
+                "rank": "14"
               },
               "score": {
                 "text": "? - ?",
@@ -79,15 +115,51 @@
           ]
         },
         {
+          "league_name": "อังกฤษ คอนเฟอเรนช์ ลีกใต้ (England Conference South Division)",
+          "matches": [
+            {
+              "time": "02:45",
+              "status": null,
+              "home_team": {
+                "raw": "[10]เชล์มสฟอร์ด ซิตี้",
+                "name": "เชล์มสฟอร์ด ซิตี้",
+                "rank": "10"
+              },
+              "away_team": {
+                "raw": "เอ็บส์ฟลีต ยูไนเต็ด[1]",
+                "name": "เอ็บส์ฟลีต ยูไนเต็ด",
+                "rank": "1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ เอ็บส์ฟลีต เก็บชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
           "league_name": "ลาลีก้า สเปน 2 (Spanish Segunda Division)",
           "matches": [
             {
               "time": "02:30",
               "status": null,
               "home_team": {
-                "raw": "[10]ซาบาเดย์",
+                "raw": "[12]ซาบาเดย์",
                 "name": "ซาบาเดย์",
-                "rank": "10"
+                "rank": "12"
               },
               "away_team": {
                 "raw": "เรอัล โซเซียดาด บี[18]",
@@ -121,9 +193,9 @@
               "time": "03:15",
               "status": null,
               "home_team": {
-                "raw": "[12]เอสซี ยูเนี่ยน ตอรเรียนเซ่",
+                "raw": "[13]เอสซี ยูเนี่ยน ตอรเรียนเซ่",
                 "name": "เอสซี ยูเนี่ยน ตอรเรียนเซ่",
-                "rank": "12"
+                "rank": "13"
               },
               "away_team": {
                 "raw": "อูเนียว ไลเรีย[9]",
@@ -229,9 +301,9 @@
               "time": "23:00",
               "status": null,
               "home_team": {
-                "raw": "[2]เอฟซี ซาเบอร์ทาโล ทบิลีซี",
+                "raw": "[3]เอฟซี ซาเบอร์ทาโล ทบิลีซี",
                 "name": "เอฟซี ซาเบอร์ทาโล ทบิลีซี",
-                "rank": "2"
+                "rank": "3"
               },
               "away_team": {
                 "raw": "เอฟซี กากรา[9]",
@@ -270,9 +342,9 @@
                 "rank": "30"
               },
               "away_team": {
-                "raw": "ดาร์บี้ เคาน์ตี้ (ยู 21)[18]",
+                "raw": "ดาร์บี้ เคาน์ตี้ (ยู 21)[20]",
                 "name": "ดาร์บี้ เคาน์ตี้ (ยู 21)",
-                "rank": "18"
+                "rank": "20"
               },
               "score": {
                 "text": "? - ?",
@@ -301,9 +373,9 @@
               "time": "02:30",
               "status": null,
               "home_team": {
-                "raw": "[14]เอเอสดี ปิเนโต คัลชิโอ",
+                "raw": "[15]เอเอสดี ปิเนโต คัลชิโอ",
                 "name": "เอเอสดี ปิเนโต คัลชิโอ",
-                "rank": "14"
+                "rank": "15"
               },
               "away_team": {
                 "raw": "วิส เปซาโร[20]",
@@ -337,14 +409,14 @@
               "time": "02:30",
               "status": null,
               "home_team": {
-                "raw": "[15]ทีมอัลตามูรา",
+                "raw": "[16]ทีมอัลตามูรา",
                 "name": "ทีมอัลตามูรา",
-                "rank": "15"
+                "rank": "16"
               },
               "away_team": {
-                "raw": "คาเวเซ่[11]",
+                "raw": "คาเวเซ่[12]",
                 "name": "คาเวเซ่",
-                "rank": "11"
+                "rank": "12"
               },
               "score": {
                 "text": "? - ?",
@@ -368,9 +440,9 @@
               "time": "02:30",
               "status": null,
               "home_team": {
-                "raw": "[13]ฟอกเจีย",
+                "raw": "[14]ฟอกเจีย",
                 "name": "ฟอกเจีย",
-                "rank": "13"
+                "rank": "14"
               },
               "away_team": {
                 "raw": "บาร์เลตต้า[17]",
@@ -399,14 +471,14 @@
               "time": "02:45",
               "status": null,
               "home_team": {
-                "raw": "[7]เอแซต พิเซอร์โน่ เอเอสดี",
+                "raw": "[10]เอแซต พิเซอร์โน่ เอเอสดี",
                 "name": "เอแซต พิเซอร์โน่ เอเอสดี",
-                "rank": "7"
+                "rank": "10"
               },
               "away_team": {
-                "raw": "บารี[2]",
+                "raw": "บารี[3]",
                 "name": "บารี",
-                "rank": "2"
+                "rank": "3"
               },
               "score": {
                 "text": "? - ?",
@@ -440,9 +512,9 @@
                 "rank": "C-12"
               },
               "away_team": {
-                "raw": "รูบิโอ นู อะซุนซิออง[C-10]",
+                "raw": "รูบิโอ นู อะซุนซิออง[C-11]",
                 "name": "รูบิโอ นู อะซุนซิออง",
-                "rank": "C-10"
+                "rank": "C-11"
               },
               "score": {
                 "text": "? - ?",
@@ -502,9 +574,9 @@
               "time": "07:00",
               "status": null,
               "home_team": {
-                "raw": "[C-16]แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
+                "raw": "[C-17]แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
                 "name": "แอตเลติโก้ จูเนียร์ บาแรนคิลล่า",
-                "rank": "C-16"
+                "rank": "C-17"
               },
               "away_team": {
                 "raw": "คูคูต้า เดปอร์ติโว่[C-10]",
@@ -610,9 +682,9 @@
                 "rank": "6"
               },
               "away_team": {
-                "raw": "ยูนิเวอร์ซิตาริโอ เดอ วินโต[13]",
+                "raw": "ยูนิเวอร์ซิตาริโอ เดอ วินโต[14]",
                 "name": "ยูนิเวอร์ซิตาริโอ เดอ วินโต",
-                "rank": "13"
+                "rank": "14"
               },
               "score": {
                 "text": "? - ?",
@@ -705,8 +777,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 15,
-  "total_matches": 20,
+  "total_leagues": 17,
+  "total_matches": 22,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
