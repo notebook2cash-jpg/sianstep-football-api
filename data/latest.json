@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-10T05:00:32.499Z",
+  "scraped_at": "2026-11-10T07:00:31.554Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -11,10 +11,10 @@
           "matches": [
             {
               "time": "01:00",
-              "status": "เลื่อน",
+              "status": null,
               "home_team": {
-                "raw": "Anaitasuna",
-                "name": "Anaitasuna",
+                "raw": "อาไนเอตาซูน่า",
+                "name": "อาไนเอตาซูน่า",
                 "rank": null
               },
               "away_team": {
@@ -42,7 +42,7 @@
             },
             {
               "time": "01:00",
-              "status": "เลื่อน",
+              "status": null,
               "home_team": {
                 "raw": "[D4-16]เอ็มอาร์เอ นาบาร์รา",
                 "name": "เอ็มอาร์เอ นาบาร์รา",
@@ -135,7 +135,7 @@
             },
             {
               "time": "02:00",
-              "status": "เลื่อน",
+              "status": null,
               "home_team": {
                 "raw": "[D4-7]เอสดี อมอเรเบียต้า",
                 "name": "เอสดี อมอเรเบียต้า",
@@ -160,6 +160,37 @@
               },
               "tip": {
                 "text": "ทีเด็ดโลโกรนเยส เด็ดชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "02:00",
+              "status": null,
+              "home_team": {
+                "raw": "[D4-4]บาดาโฮซ",
+                "name": "บาดาโฮซ",
+                "rank": "D4-4"
+              },
+              "away_team": {
+                "raw": "เตเนริเฟ่[D2-14]",
+                "name": "เตเนริเฟ่",
+                "rank": "D2-14"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด บาดาโฮซ ยิงโหด",
                 "analysis": null
               },
               "live_channel": null
@@ -1141,7 +1172,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 9,
-  "total_matches": 35,
+  "total_matches": 36,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
