@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-10T14:00:35.106Z",
+  "scraped_at": "2026-11-10T15:18:13.264Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -300,7 +300,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "เวียดนาม(ยู 23)",
                 "name": "เวียดนาม(ยู 23)",
@@ -312,8 +312,8 @@
                 "rank": null
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "3 - 0",
+                "home": 3,
                 "away": 0,
                 "is_known": true
               },
@@ -1033,7 +1033,7 @@
           "matches": [
             {
               "time": "19:15",
-              "status": "TBD",
+              "status": "FT",
               "home_team": {
                 "raw": "[111]คองโก-บราซซาวิล (ญ)",
                 "name": "คองโก-บราซซาวิล (ญ)",
@@ -1045,10 +1045,10 @@
                 "rank": "144"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1",
@@ -1064,7 +1064,7 @@
             },
             {
               "time": "21:30",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "[149]กาบอง (ญ)",
                 "name": "กาบอง (ญ)",
@@ -1179,10 +1179,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 1",
