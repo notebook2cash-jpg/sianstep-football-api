@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-11T14:00:33.833Z",
+  "scraped_at": "2026-11-11T14:47:55.205Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -358,10 +358,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -389,10 +389,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -692,7 +692,7 @@
             },
             {
               "time": "19:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "แอลเบเนีย(ยู 19)",
                 "name": "แอลเบเนีย(ยู 19)",
@@ -704,8 +704,8 @@
                 "rank": null
               },
               "score": {
-                "text": "3 - 0",
-                "home": 3,
+                "text": "4 - 0",
+                "home": 4,
                 "away": 0,
                 "is_known": true
               },
@@ -722,8 +722,8 @@
               "live_channel": null
             },
             {
-              "time": "19:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ลัตเวีย(ยู 19)",
                 "name": "ลัตเวีย(ยู 19)",
@@ -735,8 +735,8 @@
                 "rank": null
               },
               "score": {
-                "text": "2 - 1",
-                "home": 2,
+                "text": "3 - 1",
+                "home": 3,
                 "away": 1,
                 "is_known": true
               },
@@ -754,7 +754,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "สาธารณรัฐเช็ก(ยู 19)",
                 "name": "สาธารณรัฐเช็ก(ยู 19)",
@@ -766,8 +766,8 @@
                 "rank": null
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -785,7 +785,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "ตุรกี(ยู19)",
                 "name": "ตุรกี(ยู19)",
@@ -797,8 +797,8 @@
                 "rank": null
               },
               "score": {
-                "text": "2 - 0",
-                "home": 2,
+                "text": "3 - 0",
+                "home": 3,
                 "away": 0,
                 "is_known": true
               },
@@ -828,10 +828,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "4 - 0",
+                "home": 4,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "3.5 3.5 -10",
@@ -859,10 +859,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -5",
@@ -890,10 +890,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "4 - 0",
+                "home": 4,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -921,10 +921,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1.25 -10",
