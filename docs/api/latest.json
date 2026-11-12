@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-12T14:00:34.426Z",
+  "scraped_at": "2026-11-12T15:39:44.113Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -569,10 +569,10 @@
                 "rank": "35"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25 0.5 -10",
@@ -655,7 +655,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ไอซ์แลนด์(ยู 21)",
                 "name": "ไอซ์แลนด์(ยู 21)",
@@ -667,10 +667,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -10",
@@ -722,7 +722,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "สิงคโปร์(ยู 23)",
                 "name": "สิงคโปร์(ยู 23)",
@@ -734,10 +734,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.75 2 -10",
@@ -793,8 +793,8 @@
           "league_name": "กระชับมิตร ยู21 (INTERNATIONAL FRIENDLY U-21)",
           "matches": [
             {
-              "time": "16:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "คาซัคสถาน(ยู 21)",
                 "name": "คาซัคสถาน(ยู 21)",
@@ -806,9 +806,9 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -825,7 +825,7 @@
             },
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "สกอตแลนด์ (ยู 21)",
                 "name": "สกอตแลนด์ (ยู 21)",
@@ -837,10 +837,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "4 - 0",
+                "home": 4,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25 0.25 -10",
@@ -855,8 +855,8 @@
               "live_channel": null
             },
             {
-              "time": "20:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "เซอร์เบีย(ยู 21)",
                 "name": "เซอร์เบีย(ยู 21)",
@@ -868,10 +868,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 1.25 +10 1.5",
@@ -904,10 +904,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1",
@@ -1131,10 +1131,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -1167,10 +1167,10 @@
                 "rank": "200"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.5 2.5 -10",
@@ -1439,7 +1439,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "เยอรมนี (ยู 19)",
                 "name": "เยอรมนี (ยู 19)",
@@ -1451,10 +1451,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1",
@@ -1482,10 +1482,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "3",
@@ -1675,8 +1675,8 @@
           "league_name": "กระชับมิตรสโมสร (Club Friendly)",
           "matches": [
             {
-              "time": "17:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-4]แอร์เบ ไลป์ซิก",
                 "name": "แอร์เบ ไลป์ซิก",
@@ -1688,9 +1688,9 @@
                 "rank": "D1-3"
               },
               "score": {
-                "text": "1 - 2",
-                "home": 1,
-                "away": 2,
+                "text": "4 - 5",
+                "home": 4,
+                "away": 5,
                 "is_known": true
               },
               "odds": {
@@ -1706,8 +1706,8 @@
               "live_channel": null
             },
             {
-              "time": "18:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D2-11]ฮันโนเวอร์ 96",
                 "name": "ฮันโนเวอร์ 96",
@@ -1719,10 +1719,10 @@
                 "rank": "D3-20"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "6 - 1",
+                "home": 6,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 2",
@@ -1738,7 +1738,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D2-6]อาร์มีเนีย บีเลเฟลด์",
                 "name": "อาร์มีเนีย บีเลเฟลด์",
@@ -1750,10 +1750,10 @@
                 "rank": "D3-11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1",
@@ -1768,8 +1768,8 @@
               "live_channel": null
             },
             {
-              "time": "20:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-18]โบรุสเซีย มึนเช่นกลัดบัค",
                 "name": "โบรุสเซีย มึนเช่นกลัดบัค",
@@ -1781,10 +1781,10 @@
                 "rank": "D1-8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1 0.75",
@@ -1799,8 +1799,8 @@
               "live_channel": null
             },
             {
-              "time": "20:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D2-5]โวล์ฟสบวร์ก",
                 "name": "โวล์ฟสบวร์ก",
@@ -1812,10 +1812,10 @@
                 "rank": "D1-16"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 เสมอ",
@@ -1831,7 +1831,7 @@
             },
             {
               "time": "20:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[SL-2]ยัง บอยส์",
                 "name": "ยัง บอยส์",
@@ -1843,10 +1843,10 @@
                 "rank": "CL-1"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5",
@@ -1867,7 +1867,7 @@
           "matches": [
             {
               "time": "15:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[NE-12]สุรินทร์ เอฟซี",
                 "name": "สุรินทร์ เอฟซี",
@@ -1897,8 +1897,8 @@
               "live_channel": null
             },
             {
-              "time": "15:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[NE-10]อีสาน ไฟเตอร์",
                 "name": "อีสาน ไฟเตอร์",
@@ -1929,7 +1929,7 @@
             },
             {
               "time": "17:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[NE-8]ขอนแก่น มอดินแดง เอฟซี",
                 "name": "ขอนแก่น มอดินแดง เอฟซี",
@@ -1941,8 +1941,8 @@
                 "rank": "NE-7"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
