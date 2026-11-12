@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-11T14:47:55.205Z",
+  "scraped_at": "2026-11-12T01:00:33.818Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -346,7 +346,7 @@
           "matches": [
             {
               "time": "21:00",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "อังกฤษ (ยู 18)",
                 "name": "อังกฤษ (ยู 18)",
@@ -358,10 +358,10 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
-                "is_known": true
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
               },
               "odds": {
                 "raw": "wait",
@@ -377,7 +377,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "สวิสเซอร์แลนด์ (ยู 18)",
                 "name": "สวิสเซอร์แลนด์ (ยู 18)",
@@ -389,10 +389,10 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
-                "away": 0,
-                "is_known": true
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
               },
               "odds": {
                 "raw": "wait",
@@ -754,7 +754,7 @@
             },
             {
               "time": "20:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "สาธารณรัฐเช็ก(ยู 19)",
                 "name": "สาธารณรัฐเช็ก(ยู 19)",
@@ -784,8 +784,8 @@
               "live_channel": null
             },
             {
-              "time": "20:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ตุรกี(ยู19)",
                 "name": "ตุรกี(ยู19)",
@@ -797,9 +797,9 @@
                 "rank": null
               },
               "score": {
-                "text": "3 - 0",
+                "text": "3 - 1",
                 "home": 3,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -815,8 +815,8 @@
               "live_channel": null
             },
             {
-              "time": "21:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "สวิตเซอร์แลนด์(ยู 19)",
                 "name": "สวิตเซอร์แลนด์(ยู 19)",
@@ -828,8 +828,8 @@
                 "rank": null
               },
               "score": {
-                "text": "4 - 0",
-                "home": 4,
+                "text": "6 - 0",
+                "home": 6,
                 "away": 0,
                 "is_known": true
               },
@@ -847,7 +847,7 @@
             },
             {
               "time": "21:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "ไอร์แลนด์(ยู 19)",
                 "name": "ไอร์แลนด์(ยู 19)",
@@ -859,8 +859,8 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -877,8 +877,8 @@
               "live_channel": null
             },
             {
-              "time": "21:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "บัลแกเรีย（ยู 19）",
                 "name": "บัลแกเรีย（ยู 19）",
@@ -890,8 +890,8 @@
                 "rank": null
               },
               "score": {
-                "text": "4 - 0",
-                "home": 4,
+                "text": "6 - 0",
+                "home": 6,
                 "away": 0,
                 "is_known": true
               },
@@ -921,8 +921,8 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -952,10 +952,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.75 3 -10",
@@ -983,10 +983,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.75 2.75 -10",
@@ -1014,10 +1014,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.25",
@@ -1045,10 +1045,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.25 2.25 -10",
