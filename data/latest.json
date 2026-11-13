@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-12T15:39:44.113Z",
+  "scraped_at": "2026-11-13T01:00:30.622Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -569,9 +569,9 @@
                 "rank": "35"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
-                "away": 0,
+                "text": "2 - 3",
+                "home": 2,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -904,8 +904,8 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -923,7 +923,7 @@
             },
             {
               "time": "23:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "อิตาลี(ยู20)",
                 "name": "อิตาลี(ยู20)",
@@ -935,10 +935,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -954,7 +954,7 @@
             },
             {
               "time": "23:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "ฝรั่งเศส(ยู 20)",
                 "name": "ฝรั่งเศส(ยู 20)",
@@ -966,10 +966,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1",
@@ -1131,8 +1131,8 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -1167,8 +1167,8 @@
                 "rank": "200"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -1186,7 +1186,7 @@
             },
             {
               "time": "23:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[40]คองโก-กินชาซา",
                 "name": "คองโก-กินชาซา",
@@ -1198,10 +1198,10 @@
                 "rank": "130"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 1.75 1.5 1.75 -10",
@@ -1217,7 +1217,7 @@
             },
             {
               "time": "23:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[106]มาดากัสการ์",
                 "name": "มาดากัสการ์",
@@ -1229,10 +1229,10 @@
                 "rank": "124"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10 0.25 -5",
@@ -1248,7 +1248,7 @@
             },
             {
               "time": "23:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[103]อิเควทอเรียลกินี",
                 "name": "อิเควทอเรียลกินี",
@@ -1260,10 +1260,10 @@
                 "rank": "129"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -5 เสมอ",
@@ -1278,7 +1278,7 @@
               "live_channel": "beIN SPORTS 2 (608)"
             },
             {
-              "time": "23:00",
+              "time": "00:00",
               "status": null,
               "home_team": {
                 "raw": "[82]กินี",
@@ -1482,8 +1482,8 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
