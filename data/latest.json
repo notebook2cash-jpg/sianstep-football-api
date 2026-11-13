@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-13T11:00:33.651Z",
+  "scraped_at": "2026-11-13T12:30:29.612Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -756,10 +756,10 @@
                 "rank": "33"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "2.5 2.75 -5",
@@ -1718,7 +1718,7 @@
           "league_name": "กระชับมิตร ยู20 (INTERNATIONAL FRIENDLY U-20)",
           "matches": [
             {
-              "time": "18:00",
+              "time": "18:10",
               "status": null,
               "home_team": {
                 "raw": "อุสเบกิสทาน (ยู 20)",
@@ -1731,10 +1731,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -1891,10 +1891,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 2",
+                "home": 0,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -2376,10 +2376,10 @@
                 "rank": "D1-11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -2407,10 +2407,10 @@
                 "rank": "D3-17"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 0",
+                "home": 3,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5",
@@ -2426,7 +2426,7 @@
             },
             {
               "time": "18:30",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[D1-8]ทีพีเอส ตูร์คู",
                 "name": "ทีพีเอส ตูร์คู",
@@ -2438,10 +2438,10 @@
                 "rank": "D1-9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -2469,10 +2469,10 @@
                 "rank": "D2-13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25",
