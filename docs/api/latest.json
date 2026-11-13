@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-13T07:00:36.893Z",
+  "scraped_at": "2026-11-13T08:01:21.796Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -746,37 +746,6 @@
               "time": "19:00",
               "status": null,
               "home_team": {
-                "raw": "[176]จีน-ไต้หวัน",
-                "name": "จีน-ไต้หวัน",
-                "rank": "176"
-              },
-              "away_team": {
-                "raw": "คีร์กีซสถาน[104]",
-                "name": "คีร์กีซสถาน",
-                "rank": "104"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "2",
-                "lines": [
-                  "2"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด ไต้หวัน ยันไหว",
-                "analysis": null
-              },
-              "live_channel": null
-            },
-            {
-              "time": "19:00",
-              "status": null,
-              "home_team": {
                 "raw": "[149]สิงคโปร์",
                 "name": "สิงคโปร์",
                 "rank": "149"
@@ -961,7 +930,7 @@
             },
             {
               "time": "01:00",
-              "status": null,
+              "status": "ยกเลิก",
               "home_team": {
                 "raw": "[72]จอร์แดน",
                 "name": "จอร์แดน",
@@ -973,10 +942,10 @@
                 "rank": "116"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -2777,7 +2746,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 19,
-  "total_matches": 80,
+  "total_matches": 79,
   "total_analysis_links": 10,
   "total_analysis_embedded": 10
 }
