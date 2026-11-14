@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-14T12:30:29.799Z",
+  "scraped_at": "2026-11-14T13:51:09.028Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -419,7 +419,7 @@
           "matches": [
             {
               "time": "16:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[81]โอมาน",
                 "name": "โอมาน",
@@ -462,10 +462,10 @@
                 "rank": "196"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "4.25 +10 4.75 +10",
@@ -498,10 +498,10 @@
                 "rank": "8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -517,7 +517,7 @@
             },
             {
               "time": "19:45",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[6]พานเซอร์ไรกอส",
                 "name": "พานเซอร์ไรกอส",
@@ -529,10 +529,10 @@
                 "rank": "10"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75",
@@ -560,10 +560,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.5 1.25 -10",
@@ -591,10 +591,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 0",
+                "home": 1,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
@@ -614,7 +614,7 @@
           "league_name": "กระชับมิตรทีมชาติ (INTERNATIONAL FRIENDLY)",
           "matches": [
             {
-              "time": "11:00",
+              "time": "12:30",
               "status": null,
               "home_team": {
                 "raw": "[157]ตาฮิติ",
@@ -676,8 +676,8 @@
               "live_channel": null
             },
             {
-              "time": "17:15",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[17]ญี่ปุ่น",
                 "name": "ญี่ปุ่น",
@@ -689,9 +689,9 @@
                 "rank": "6"
               },
               "score": {
-                "text": "2 - 1",
-                "home": 2,
-                "away": 1,
+                "text": "3 - 2",
+                "home": 3,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -720,10 +720,10 @@
                 "rank": "133"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 0",
+                "home": 2,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 1",
@@ -751,10 +751,10 @@
                 "rank": "104"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 2",
+                "home": 0,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "2 2.25",
@@ -911,10 +911,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -5",
@@ -942,10 +942,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -1009,10 +1009,10 @@
                 "rank": "D2-13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10",
@@ -1236,10 +1236,10 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.5 -10",
@@ -1551,10 +1551,10 @@
                 "rank": "2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -10",
@@ -2098,10 +2098,10 @@
                 "rank": "3"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.5 -10",
@@ -2313,7 +2313,7 @@
             },
             {
               "time": "18:35",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "จีน (ยู 19)",
                 "name": "จีน (ยู 19)",
@@ -2325,10 +2325,10 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5 0.75 -5",
@@ -2490,10 +2490,10 @@
                 "rank": "LP-8"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -3403,10 +3403,10 @@
                 "rank": "D2-2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.5",
