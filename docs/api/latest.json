@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-14T13:51:09.028Z",
+  "scraped_at": "2026-11-14T14:00:30.312Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -462,8 +462,8 @@
                 "rank": "196"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "3 - 0",
+                "home": 3,
                 "away": 0,
                 "is_known": true
               },
@@ -498,8 +498,8 @@
                 "rank": "8"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -517,7 +517,7 @@
             },
             {
               "time": "19:45",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[6]พานเซอร์ไรกอส",
                 "name": "พานเซอร์ไรกอส",
@@ -548,7 +548,7 @@
             },
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[3]เออีแอล ลาริซ่า",
                 "name": "เออีแอล ลาริซ่า",
@@ -579,7 +579,7 @@
             },
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[9]แอสเตอร์ราส ทริโปลี บี",
                 "name": "แอสเตอร์ราส ทริโปลี บี",
@@ -591,8 +591,8 @@
                 "rank": "11"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
+                "text": "2 - 0",
+                "home": 2,
                 "away": 0,
                 "is_known": true
               },
@@ -739,7 +739,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[176]จีน-ไต้หวัน",
                 "name": "จีน-ไต้หวัน",
@@ -751,9 +751,9 @@
                 "rank": "104"
               },
               "score": {
-                "text": "0 - 2",
+                "text": "0 - 3",
                 "home": 0,
-                "away": 2,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -930,7 +930,7 @@
             },
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "สหรัฐอาหรับเอมิเรตส์(ยู 23)",
                 "name": "สหรัฐอาหรับเอมิเรตส์(ยู 23)",
@@ -942,8 +942,8 @@
                 "rank": null
               },
               "score": {
-                "text": "0 - 1",
-                "home": 0,
+                "text": "1 - 1",
+                "home": 1,
                 "away": 1,
                 "is_known": true
               },
@@ -997,7 +997,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[D3-4]แวร์กซายส์ 78",
                 "name": "แวร์กซายส์ 78",
@@ -1009,9 +1009,9 @@
                 "rank": "D2-13"
               },
               "score": {
-                "text": "1 - 1",
+                "text": "1 - 2",
                 "home": 1,
-                "away": 1,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -1236,8 +1236,8 @@
                 "rank": "5"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -1539,7 +1539,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[12]เรอัล บายาโดลิด",
                 "name": "เรอัล บายาโดลิด",
@@ -2098,9 +2098,9 @@
                 "rank": "3"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -2478,7 +2478,7 @@
           "matches": [
             {
               "time": "19:50",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[LP-12]อัล ด๊าฟร่า",
                 "name": "อัล ด๊าฟร่า",
@@ -3391,7 +3391,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[D1-6]เอสวี รีด",
                 "name": "เอสวี รีด",
@@ -3403,9 +3403,9 @@
                 "rank": "D2-2"
               },
               "score": {
-                "text": "0 - 0",
+                "text": "0 - 1",
                 "home": 0,
-                "away": 0,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
