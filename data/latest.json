@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-18T11:00:37.080Z",
+  "scraped_at": "2026-11-18T12:30:29.724Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -29,9 +29,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.25 0.25 -5",
+                "raw": "0.25 0.25 -5 เสมอ",
                 "lines": [
-                  "0.25 0.25 -5"
+                  "0.25 0.25 -5 เสมอ"
                 ]
               },
               "tip": {
@@ -122,9 +122,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.75 0.75 -10",
+                "raw": "0.75 0.75 -10 0.75",
                 "lines": [
-                  "0.75 0.75 -10"
+                  "0.75 0.75 -10 0.75"
                 ]
               },
               "tip": {
@@ -184,9 +184,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "0.5 0.25 +10",
+                "raw": "0.5 0.25 +10 0.5 -5",
                 "lines": [
-                  "0.5 0.25 +10"
+                  "0.5 0.25 +10 0.5 -5"
                 ]
               },
               "tip": {
@@ -250,15 +250,15 @@
                 "rank": "PR-5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.25 0.5 +10 1 -10",
+                "raw": "0.25 0.5 +10 1 -10 0.75",
                 "lines": [
-                  "0.25 0.5 +10 1 -10"
+                  "0.25 0.5 +10 1 -10 0.75"
                 ]
               },
               "tip": {
@@ -281,10 +281,10 @@
                 "rank": "PR-6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 1",
+                "home": 1,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ 0.25 -10 0.25",
@@ -312,15 +312,15 @@
                 "rank": null
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
-                "raw": "0.75 0.75 -10 0.75 +10 1",
+                "raw": "0.75 0.75 -10 0.75 +10 1 1 +10",
                 "lines": [
-                  "0.75 0.75 -10 0.75 +10 1"
+                  "0.75 0.75 -10 0.75 +10 1 1 +10"
                 ]
               },
               "tip": {
@@ -563,7 +563,7 @@
           "matches": [
             {
               "time": "15:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[C-3]จามจุรี ยูไนเต็ด เอฟซี",
                 "name": "จามจุรี ยูไนเต็ด เอฟซี",
@@ -575,10 +575,10 @@
                 "rank": "C-7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -593,39 +593,8 @@
               "live_channel": "AIS PLAY"
             },
             {
-              "time": "15:30",
-              "status": null,
-              "home_team": {
-                "raw": "[W-3]อัสสัมชัญ ธนบุรี",
-                "name": "อัสสัมชัญ ธนบุรี",
-                "rank": "W-3"
-              },
-              "away_team": {
-                "raw": "สมุทรสงคราม ซิตี้[W-11]",
-                "name": "สมุทรสงคราม ซิตี้",
-                "rank": "W-11"
-              },
-              "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
-              },
-              "odds": {
-                "raw": "0.25",
-                "lines": [
-                  "0.25"
-                ]
-              },
-              "tip": {
-                "text": "ทีเด็ด อัสสัมชัญ ตะบันชัย",
-                "analysis": null
-              },
-              "live_channel": "AIS PLAY"
-            },
-            {
-              "time": "15:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[C-8]ฟูเทรา ยูไนเต็ด",
                 "name": "ฟูเทรา ยูไนเต็ด",
@@ -637,10 +606,10 @@
                 "rank": "C-9"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "3 - 4",
+                "home": 3,
+                "away": 4,
+                "is_known": true
               },
               "odds": {
                 "raw": "1",
@@ -656,7 +625,7 @@
             },
             {
               "time": "15:30",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[W-12]ราชประชา เอฟซี",
                 "name": "ราชประชา เอฟซี",
@@ -668,10 +637,10 @@
                 "rank": "W-5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "wait",
@@ -686,8 +655,39 @@
               "live_channel": "AIS PLAY"
             },
             {
-              "time": "17:00",
-              "status": null,
+              "time": "15:30",
+              "status": "FT",
+              "home_team": {
+                "raw": "[C-10]สิงห์บุรี วอร์ริเออร์ เอฟซี",
+                "name": "สิงห์บุรี วอร์ริเออร์ เอฟซี",
+                "rank": "C-10"
+              },
+              "away_team": {
+                "raw": "ราชนาวีอากาศ เอฟซี[C-5]",
+                "name": "ราชนาวีอากาศ เอฟซี",
+                "rank": "C-5"
+              },
+              "score": {
+                "text": "2 - 4",
+                "home": 2,
+                "away": 4,
+                "is_known": true
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "",
+                "analysis": null
+              },
+              "live_channel": "AIS PLAY"
+            },
+            {
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[E-1]บ้านบึง ซิตี้",
                 "name": "บ้านบึง ซิตี้",
@@ -699,10 +699,10 @@
                 "rank": "E-11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "8 - 1",
+                "home": 8,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "3.75",
@@ -730,10 +730,10 @@
                 "rank": "E-6"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -761,10 +761,10 @@
                 "rank": "W-7"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "1 - 2",
+                "home": 1,
+                "away": 2,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25",
@@ -774,6 +774,37 @@
               },
               "tip": {
                 "text": "ทีเด็ด ทับหลวง บุกทะลวง",
+                "analysis": null
+              },
+              "live_channel": "AIS PLAY"
+            },
+            {
+              "time": "19:00",
+              "status": null,
+              "home_team": {
+                "raw": "[W-3]อัสสัมชัญ ธนบุรี",
+                "name": "อัสสัมชัญ ธนบุรี",
+                "rank": "W-3"
+              },
+              "away_team": {
+                "raw": "สมุทรสงคราม ซิตี้[W-11]",
+                "name": "สมุทรสงคราม ซิตี้",
+                "rank": "W-11"
+              },
+              "score": {
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
+              },
+              "odds": {
+                "raw": "0.25",
+                "lines": [
+                  "0.25"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อัสสัมชัญ ตะบันชัย",
                 "analysis": null
               },
               "live_channel": "AIS PLAY"
@@ -821,7 +852,7 @@
   ],
   "total_dates": 1,
   "total_leagues": 7,
-  "total_matches": 25,
+  "total_matches": 26,
   "total_analysis_links": 0,
   "total_analysis_embedded": 0
 }
