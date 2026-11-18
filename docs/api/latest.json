@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-18T12:30:29.724Z",
+  "scraped_at": "2026-11-18T14:00:34.713Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -238,7 +238,7 @@
           "matches": [
             {
               "time": "18:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-7]โฮจิมินห์ซิตี้",
                 "name": "โฮจิมินห์ซิตี้",
@@ -250,8 +250,8 @@
                 "rank": "PR-5"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -281,9 +281,9 @@
                 "rank": "PR-6"
               },
               "score": {
-                "text": "1 - 1",
-                "home": 1,
-                "away": 1,
+                "text": "2 - 2",
+                "home": 2,
+                "away": 2,
                 "is_known": true
               },
               "odds": {
@@ -718,7 +718,7 @@
             },
             {
               "time": "18:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[E-5]ฉะเชิงเทรา",
                 "name": "ฉะเชิงเทรา",
@@ -730,9 +730,9 @@
                 "rank": "E-6"
               },
               "score": {
-                "text": "2 - 1",
+                "text": "2 - 3",
                 "home": 2,
-                "away": 1,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -749,7 +749,7 @@
             },
             {
               "time": "18:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[W-4]ทับหลวง ยูไนเต็ด",
                 "name": "ทับหลวง ยูไนเต็ด",
@@ -761,9 +761,9 @@
                 "rank": "W-7"
               },
               "score": {
-                "text": "1 - 2",
+                "text": "1 - 4",
                 "home": 1,
-                "away": 2,
+                "away": 4,
                 "is_known": true
               },
               "odds": {
@@ -792,8 +792,8 @@
                 "rank": "W-11"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
