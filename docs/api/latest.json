@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-19T14:00:36.793Z",
+  "scraped_at": "2026-11-19T16:08:54.337Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -83,7 +83,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[16]มาลาวัน",
                 "name": "มาลาวัน",
@@ -95,8 +95,8 @@
                 "rank": "11"
               },
               "score": {
-                "text": "0 - 1",
-                "home": 0,
+                "text": "1 - 1",
+                "home": 1,
                 "away": 1,
                 "is_known": true
               },
@@ -114,7 +114,7 @@
             },
             {
               "time": "20:45",
-              "status": null,
+              "status": "TBD",
               "home_team": {
                 "raw": "[18]เมซ ชาห์ร์ อี บาบัก",
                 "name": "เมซ ชาห์ร์ อี บาบัก",
@@ -181,7 +181,7 @@
           "matches": [
             {
               "time": "19:45",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[5]อัล วาเซิ่ล",
                 "name": "อัล วาเซิ่ล",
@@ -193,9 +193,9 @@
                 "rank": "13"
               },
               "score": {
-                "text": "1 - 0",
-                "home": 1,
-                "away": 0,
+                "text": "2 - 1",
+                "home": 2,
+                "away": 1,
                 "is_known": true
               },
               "odds": {
@@ -248,7 +248,7 @@
           "matches": [
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[CPL-2]สะเวย์ เรียง เอฟซี",
                 "name": "สะเวย์ เรียง เอฟซี",
@@ -278,8 +278,8 @@
               "live_channel": "True Sport 2 (667), True ID Station"
             },
             {
-              "time": "19:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[ISL-5]เปอร์ซิบ บันดุง",
                 "name": "เปอร์ซิบ บันดุง",
@@ -291,8 +291,8 @@
                 "rank": "D1-3"
               },
               "score": {
-                "text": "4 - 0",
-                "home": 4,
+                "text": "6 - 0",
+                "home": 6,
                 "away": 0,
                 "is_known": true
               },
@@ -309,8 +309,8 @@
               "live_channel": "True Premier Football 3 (603)"
             },
             {
-              "time": "19:30",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[D1-2]คองเอ็น เนนเดน เอฟซี",
                 "name": "คองเอ็น เนนเดน เอฟซี",
@@ -322,9 +322,9 @@
                 "rank": "SL-1"
               },
               "score": {
-                "text": "1 - 2",
+                "text": "1 - 3",
                 "home": 1,
-                "away": 2,
+                "away": 3,
                 "is_known": true
               },
               "odds": {
@@ -609,7 +609,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[D2-1]ไอเอฟเคนอร์โคปิ้งเอฟเค",
                 "name": "ไอเอฟเคนอร์โคปิ้งเอฟเค",
