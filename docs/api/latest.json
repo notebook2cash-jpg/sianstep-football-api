@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-22T14:00:32.934Z",
+  "scraped_at": "2026-11-22T14:57:24.176Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -23,10 +23,10 @@
                 "rank": "2"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1",
@@ -289,10 +289,10 @@
                 "rank": "20"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.75 0.75 -10 0.75 -5",
@@ -340,10 +340,10 @@
                 "rank": "13"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 - -10 เสมอ",
@@ -487,7 +487,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": null,
+              "status": "HT",
               "home_team": {
                 "raw": "[1]บาร์เซโลน่า",
                 "name": "บาร์เซโลน่า",
@@ -706,10 +706,10 @@
                 "rank": "17"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "1.25 1.5 -10 1.75 -5",
@@ -852,8 +852,8 @@
           "league_name": "แชมป์เปี้ยนชิพ อังกฤษ (League Championship)",
           "matches": [
             {
-              "time": "19:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[22]เบิร์นลี่ย์",
                 "name": "เบิร์นลี่ย์",
@@ -1147,7 +1147,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[2]ไอเคซิริอุสเอฟเค",
                 "name": "ไอเคซิริอุสเอฟเค",
@@ -1178,7 +1178,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[4]ฮัคเค่น",
                 "name": "ฮัคเค่น",
@@ -1245,7 +1245,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[3]วีบรอก",
                 "name": "วีบรอก",
@@ -1276,7 +1276,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[8]เอซี ฮอร์เซ่นส์",
                 "name": "เอซี ฮอร์เซ่นส์",
@@ -1374,7 +1374,7 @@
           "matches": [
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[5]เอฟซี ซูริค",
                 "name": "เอฟซี ซูริค",
@@ -1503,7 +1503,7 @@
             },
             {
               "time": "20:00",
-              "status": "HT",
+              "status": null,
               "home_team": {
                 "raw": "[15]คอนยาสปอร์",
                 "name": "คอนยาสปอร์",
@@ -1613,8 +1613,8 @@
                 "rank": "3"
               },
               "score": {
-                "text": "0 - 0",
-                "home": 0,
+                "text": "1 - 0",
+                "home": 1,
                 "away": 0,
                 "is_known": true
               },
@@ -1827,8 +1827,8 @@
           "league_name": "เช็ค ดิวิชั่น1 (Gambrinus Liga)",
           "matches": [
             {
-              "time": "19:00",
-              "status": null,
+              "time": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[12]ปาร์ดูบีตเซ",
                 "name": "ปาร์ดูบีตเซ",
@@ -1871,10 +1871,10 @@
                 "rank": "11"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "เสมอ",
@@ -2005,10 +2005,10 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "2 2 -10",
@@ -2237,10 +2237,10 @@
                 "rank": "12"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 1",
+                "home": 0,
+                "away": 1,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -5",
@@ -2495,10 +2495,10 @@
                 "rank": "5"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.25 0.25 -5 เสมอ",
@@ -2722,10 +2722,10 @@
                 "rank": "18"
               },
               "score": {
-                "text": "? - ?",
-                "home": null,
-                "away": null,
-                "is_known": false
+                "text": "0 - 0",
+                "home": 0,
+                "away": 0,
+                "is_known": true
               },
               "odds": {
                 "raw": "0.5",
@@ -3736,7 +3736,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[12]ระยอง เอฟซี",
                 "name": "ระยอง เอฟซี",
@@ -3865,7 +3865,7 @@
             },
             {
               "time": "19:00",
-              "status": null,
+              "status": "FT",
               "home_team": {
                 "raw": "[11]แพร่ ยูไนเต็ด เอฟซี",
                 "name": "แพร่ ยูไนเต็ด เอฟซี",
