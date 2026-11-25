@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-25T07:00:32.440Z",
+  "scraped_at": "2026-11-25T08:00:32.953Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -763,6 +763,42 @@
               },
               "tip": {
                 "text": "ทีเด็ด รูบิน กินนิ่ม",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "อังกฤษ จอห์นสโตนส์ เพนท์โทรฟี่ (EFL Trophy)",
+          "matches": [
+            {
+              "time": "02:00",
+              "status": null,
+              "home_team": {
+                "raw": "[L2-15]ฟลีตวู้ด ทาวน์",
+                "name": "ฟลีตวู้ด ทาวน์",
+                "rank": "L2-15"
+              },
+              "away_team": {
+                "raw": "ลีดส์ ยูไนเต็ด (ยู 21)[U21-10]",
+                "name": "ลีดส์ ยูไนเต็ด (ยู 21)",
+                "rank": "U21-10"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "1 1.25 -5",
+                "lines": [
+                  "1 1.25 -5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด ลีดส์ มาพิชิต",
                 "analysis": null
               },
               "live_channel": null
@@ -2919,8 +2955,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 24,
-  "total_matches": 84,
+  "total_leagues": 25,
+  "total_matches": 85,
   "total_analysis_links": 9,
   "total_analysis_embedded": 9
 }
