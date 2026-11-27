@@ -1,6 +1,6 @@
 {
   "source": "https://sianstep.com/program_football/",
-  "scraped_at": "2026-11-27T01:00:34.604Z",
+  "scraped_at": "2026-11-27T05:00:34.629Z",
   "timezone": "Asia/Bangkok",
   "dates": [
     {
@@ -1249,9 +1249,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.25",
                 "lines": [
-                  "wait"
+                  "0.25"
                 ]
               },
               "tip": {
@@ -1274,9 +1274,9 @@
                 "rank": "23"
               },
               "away_team": {
-                "raw": "วีลด์สโตน เอฟซี[15]",
+                "raw": "วีลด์สโตน เอฟซี[16]",
                 "name": "วีลด์สโตน เอฟซี",
-                "rank": "15"
+                "rank": "16"
               },
               "score": {
                 "text": "? - ?",
@@ -1769,9 +1769,9 @@
                 "rank": "1"
               },
               "away_team": {
-                "raw": "โคลดิ้ง[8]",
+                "raw": "โคลดิ้ง[9]",
                 "name": "โคลดิ้ง",
-                "rank": "8"
+                "rank": "9"
               },
               "score": {
                 "text": "? - ?",
@@ -1836,9 +1836,9 @@
                 "rank": "3"
               },
               "away_team": {
-                "raw": "เอสเคเอ คาบารอฟกี้[12]",
+                "raw": "เอสเคเอ คาบารอฟกี้[13]",
                 "name": "เอสเคเอ คาบารอฟกี้",
-                "rank": "12"
+                "rank": "13"
               },
               "score": {
                 "text": "? - ?",
@@ -2084,9 +2084,9 @@
                 "is_known": false
               },
               "odds": {
-                "raw": "wait",
+                "raw": "0.75",
                 "lines": [
-                  "wait"
+                  "0.75"
                 ]
               },
               "tip": {
@@ -2145,9 +2145,9 @@
                 "rank": "8"
               },
               "away_team": {
-                "raw": "ทีเอส กาแล็กซี่[12]",
+                "raw": "ทีเอส กาแล็กซี่[13]",
                 "name": "ทีเอส กาแล็กซี่",
-                "rank": "12"
+                "rank": "13"
               },
               "score": {
                 "text": "? - ?",
@@ -2382,9 +2382,9 @@
                 "rank": "12"
               },
               "away_team": {
-                "raw": "อัล คาลีจ[9]",
+                "raw": "อัล คาลีจ[10]",
                 "name": "อัล คาลีจ",
-                "rank": "9"
+                "rank": "10"
               },
               "score": {
                 "text": "? - ?",
@@ -2431,6 +2431,37 @@
               },
               "tip": {
                 "text": "ทีเด็ด อัล กาดาซิย่า ล่าชัย",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "00:30",
+              "status": null,
+              "home_team": {
+                "raw": "[5]อัล อิติฮัด(ซาอุฯ)",
+                "name": "อัล อิติฮัด(ซาอุฯ)",
+                "rank": "5"
+              },
+              "away_team": {
+                "raw": "เนออม[6]",
+                "name": "เนออม",
+                "rank": "6"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.5",
+                "lines": [
+                  "0.5"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อิติฮัด ซัดชัย",
                 "analysis": null
               },
               "live_channel": null
@@ -2549,7 +2580,7 @@
           "league_name": "อุรุกวัย ดิวิชั่น1 (Uruguay division1)",
           "matches": [
             {
-              "time": "06:30",
+              "time": "06:25",
               "status": null,
               "home_team": {
                 "raw": "[C-6]สปอร์ทติ้ง คลับ มอนเตวิดีโอ",
@@ -2575,6 +2606,73 @@
               },
               "tip": {
                 "text": "ทีเด็ด ลิเวอร์พูล อยู่สบาย",
+                "analysis": null
+              },
+              "live_channel": null
+            }
+          ]
+        },
+        {
+          "league_name": "ปารากวัย พรีเมียร์ลีก (Paraguay Premier Division)",
+          "matches": [
+            {
+              "time": "03:30",
+              "status": null,
+              "home_team": {
+                "raw": "[C-3]นาซิอองนาล อซุนซิยง",
+                "name": "นาซิอองนาล อซุนซิยง",
+                "rank": "C-3"
+              },
+              "away_team": {
+                "raw": "รูบิโอ นู อะซุนซิออง[C-11]",
+                "name": "รูบิโอ นู อะซุนซิออง",
+                "rank": "C-11"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด นาซิอองนาล รอสังหาร",
+                "analysis": null
+              },
+              "live_channel": null
+            },
+            {
+              "time": "06:00",
+              "status": null,
+              "home_team": {
+                "raw": "[C-9]สปอร์ติโว่ ลูกัวโน่",
+                "name": "สปอร์ติโว่ ลูกัวโน่",
+                "rank": "C-9"
+              },
+              "away_team": {
+                "raw": "โอลิมเปีย อาซันซิออง[C-1]",
+                "name": "โอลิมเปีย อาซันซิออง",
+                "rank": "C-1"
+              },
+              "score": {
+                "text": "? - ?",
+                "home": null,
+                "away": null,
+                "is_known": false
+              },
+              "odds": {
+                "raw": "0.75",
+                "lines": [
+                  "0.75"
+                ]
+              },
+              "tip": {
+                "text": "ทีเด็ด อาซันซิออง ของจริง",
                 "analysis": null
               },
               "live_channel": null
@@ -2961,8 +3059,8 @@
     }
   ],
   "total_dates": 1,
-  "total_leagues": 52,
-  "total_matches": 83,
+  "total_leagues": 53,
+  "total_matches": 86,
   "total_analysis_links": 6,
   "total_analysis_embedded": 6
 }
